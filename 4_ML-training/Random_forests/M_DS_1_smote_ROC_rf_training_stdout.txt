@@ -1,0 +1,23 @@
+Random Forest 
+
+225 samples
+  7 predictor
+  2 classes: 'nonLC', 'LC' 
+
+Pre-processing: nearest neighbor imputation (7), centered (7), scaled (7) 
+Resampling: Cross-Validated (10 fold, repeated 10 times) 
+Summary of sample sizes: 202, 202, 203, 202, 202, 203, ... 
+Addtional sampling using SMOTE prior to pre-processing
+
+Resampling results across tuning parameters:
+
+  mtry  ROC        Sens       Spec     
+  1     0.7919060  0.8242949  0.6210000
+  2     0.7739968  0.7901923  0.6442222
+  3     0.7689815  0.7722436  0.6405556
+  4     0.7667415  0.7516667  0.6520000
+  5     0.7567642  0.7439744  0.6387778
+  6     0.7550712  0.7477564  0.6318889
+
+ROC was used to select the optimal model using the largest value.
+The final value used for the model was mtry = 1.
