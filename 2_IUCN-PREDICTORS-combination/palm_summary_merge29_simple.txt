@@ -1,0 +1,2518 @@
+accepted_name	IUCN_category_old	IUCN_category_new	TS_category_old	TS_category_new	IUCN_old	IUCN_new	TS_global_old	TS_global_new
+Acanthophoenix crinita	NE	NE	NE	NE	0	0	0	0
+Acanthophoenix rousselii	NE	NE	NE	NE	0	0	0	0
+Acanthophoenix rubra	CR	NE	Threatened	NE	1	0	1	0
+Acoelorrhaphe wrightii	NE	NE	NE	NE	0	0	0	0
+Acrocomia aculeata	NE	NE	NE	NE	0	0	0	0
+Acrocomia crispa	NE	NE	Not Threatened	NE	0	0	1	0
+Acrocomia emensis	NE	NE	NE	Threatened	0	0	0	1
+Acrocomia glaucescens	NE	NE	NE	NE	0	0	0	0
+Acrocomia hassleri	NE	NE	NE	NE	0	0	0	0
+Acrocomia intumescens	NE	NE	NE	NE	0	0	0	0
+Acrocomia media	NE	NE	Threatened	Not Threatened	0	0	1	1
+Acrocomia totai	NE	NE	NE	NE	0	0	0	0
+Actinokentia divaricata	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Actinokentia huerlimannii	NE	EN	Possibly Threatened	Threatened	0	1	1	1
+Actinorhytis calapparia	NE	NE	NE	NE	0	0	0	0
+Adonidia dransfieldii	NE	NE	NE	NE	0	0	0	0
+Adonidia merrillii	NT	NE	Possibly Threatened	NE	1	0	2	0
+Aiphanes acanthophylla	NE	NE	NE	Not Threatened	0	0	0	1
+Aiphanes acaulis	NE	NE	Threatened	NE	0	0	1	0
+Aiphanes argos	NE	CR	NE	Threatened	0	1	0	1
+Aiphanes bicornis	NE	NE	NE	NE	0	0	0	0
+Aiphanes buenaventurae	NE	NE	NE	NE	0	0	0	0
+Aiphanes chiribogensis	VU	NE	Threatened	NE	1	0	1	0
+Aiphanes concinna	NE	NE	NE	NE	0	0	0	0
+Aiphanes deltoidea	NE	NE	Possibly Threatened	NE	0	0	1	0
+Aiphanes duquei	VU	NE	Threatened	NE	1	0	1	0
+Aiphanes eggersii	NE	NE	NE	NE	0	0	0	0
+Aiphanes erinacea	NE	NE	NE	NE	0	0	0	0
+Aiphanes gelatinosa	NE	NE	NE	NE	0	0	0	0
+Aiphanes graminifolia	NE	NE	Threatened	NE	0	0	1	0
+Aiphanes grandis	EN	NE	Threatened	Threatened	1	0	1	1
+Aiphanes hirsuta	LC	NE	Not Threatened	NE	1	0	1	0
+Aiphanes horrida	NE	NE	NE	NE	0	0	0	0
+Aiphanes killipii	NE	NE	NE	NE	0	0	0	0
+Aiphanes leiostachys	EN	NE	Threatened	NE	1	0	1	0
+Aiphanes lindeniana	VU	NE	Possibly Threatened	NE	1	0	1	0
+Aiphanes linearis	LC	NE	Possibly Threatened	NE	1	0	1	0
+Aiphanes macroloba	NE	NE	NE	NE	0	0	0	0
+Aiphanes minima	NE	NE	NE	Not Threatened	0	0	0	1
+Aiphanes multiplex	NE	NE	NE	NE	0	0	0	0
+Aiphanes parvifolia	NE	NE	Threatened	NE	0	0	1	0
+Aiphanes pilaris	NE	NE	Threatened	NE	0	0	1	0
+Aiphanes simplex	NE	NE	Possibly Threatened	NE	0	0	1	0
+Aiphanes spicata	NE	NE	Threatened	NE	0	0	1	0
+Aiphanes tricuspidata	NE	NE	NE	NE	0	0	0	0
+Aiphanes truncata	NE	NE	Threatened	NE	0	0	1	0
+Aiphanes ulei	LC	NE	Not Threatened	NE	1	0	1	0
+Aiphanes verrucosa	EN	NE	Threatened	Threatened	1	0	1	1
+Aiphanes weberbaueri	NE	NE	Possibly Threatened	NE	0	0	2	0
+Allagoptera arenaria	NE	NE	Threatened	Not Threatened	0	0	1	1
+Allagoptera brevicalyx	NE	NE	Threatened	Threatened	0	0	1	1
+Allagoptera campestris	NE	NE	NE	NE	0	0	0	0
+Allagoptera caudescens	NE	NE	NE	NE	0	0	0	0
+Allagoptera leucocalyx	NE	NE	NE	NE	0	0	0	0
+Allagoptera robusta	NE	NE	NE	NE	0	0	0	0
+Ammandra decasperma	NE	NE	Threatened	NE	0	0	1	0
+Aphandra natalia	NE	NE	Possibly Threatened	NE	0	0	1	0
+Archontophoenix alexandrae	NE	NE	NE	NE	0	0	0	0
+Archontophoenix cunninghamiana	NE	NE	NE	NE	0	0	0	0
+Archontophoenix maxima	NE	NE	NE	NE	0	0	0	0
+Archontophoenix myolensis	VU	NE	Threatened	NE	1	0	1	0
+Archontophoenix purpurea	NE	NE	NE	NE	0	0	0	0
+Archontophoenix tuckeri	NE	NE	NE	NE	0	0	0	0
+Areca abdulrahmanii	NE	NT	Threatened	Possibly Threatened	0	1	1	1
+Areca ahmadii	NE	NE	Threatened	NE	0	0	1	0
+Areca andersonii	DD	NE	Data Deficient	NE	1	0	1	0
+Areca arundinacea	NE	NE	Threatened	NE	0	0	1	0
+Areca bakeri	NE	NE	NE	NE	0	0	0	0
+Areca brachypoda	NE	NE	Threatened	NE	0	0	1	0
+Areca caliso	NE	NE	NE	NE	0	0	0	0
+Areca camarinensis	NE	NE	Possibly Threatened	Threatened	0	0	1	1
+Areca catechu	DD	NE	Possibly Threatened,Data Deficient	Not Threatened	1	0	2	1
+Areca chaiana	DD	NE	Data Deficient	NE	1	0	1	0
+Areca churchii	NE	NE	NE	NE	0	0	0	0
+Areca concinna	EN	NE	Threatened	NE	1	0	1	0
+Areca congesta	NE	NE	NE	NE	0	0	0	0
+Areca costulata	NE	NE	Possibly Threatened	NE	0	0	1	0
+Areca dayung	NE	NE	Threatened	NE	0	0	1	0
+Areca dransfieldii	NE	NE	NE	NE	0	0	0	0
+Areca furcata	NE	NE	NE	NE	0	0	0	0
+Areca gurita	NE	NE	NE	NE	0	0	0	0
+Areca hutchinsoniana	NT	NE	Possibly Threatened	NE	1	0	1	0
+Areca insignis	NE	NE	NE	NE	0	0	0	0
+Areca ipot	VU	NE	Threatened	NE	1	0	1	0
+Areca jokowi	NE	NE	NE	NE	0	0	0	0
+Areca jugahpunya	NE	NE	Threatened	NE	0	0	1	0
+Areca kinabaluensis	NE	NE	NE	NE	0	0	0	0
+Areca klingkangensis	NE	NE	Threatened	NE	0	0	1	0
+Areca laosensis	NE	NE	NE	NE	0	0	0	0
+Areca ledermanniana	NE	NE	NE	NE	0	0	0	0
+Areca macrocalyx	DD	LC	Data Deficient	Not Threatened	1	1	1	1
+Areca mandacanii	NE	NE	NE	Threatened	0	0	0	1
+Areca minuta	NE	NE	NE	NE	0	0	0	0
+Areca mogeana	NE	NE	NE	NE	0	0	0	0
+Areca montana	NE	NE	NE	NE	0	0	0	0
+Areca novohibernica	DD	NE	Data Deficient	Threatened	1	0	1	1
+Areca oxycarpa	NE	NE	NE	Threatened	0	0	0	1
+Areca parens	VU	NE	Threatened	Threatened	1	0	1	1
+Areca rheophytica	NE	NE	NE	NE	0	0	0	0
+Areca ridleyana	NE	NE	Threatened	NE	0	0	1	0
+Areca riparia	NE	DD	NE	Data Deficient	0	1	0	1
+Areca songthanhensis	NE	NE	NE	NE	0	0	0	0
+Areca subacaulis	NE	NE	Threatened	NE	0	0	1	0
+Areca triandra	NE	NE	NE	NE	0	0	0	0
+Areca triginticollina	NE	NE	NE	NE	0	0	0	0
+Areca tunku	NE	NE	NE	NE	0	0	0	0
+Areca unipa	NE	NE	NE	Threatened	0	0	0	1
+Areca vestiaria	NE	NE	NE	Not Threatened	0	0	0	1
+Areca vidaliana	NE	NE	Possibly Threatened	NE	0	0	1	0
+Areca whitfordii	NE	NE	Threatened	NE	0	0	1	0
+Arenga australasica	NE	NE	NE	NE	0	0	0	0
+Arenga brevipes	NE	NE	NE	NE	0	0	0	0
+Arenga caudata	NE	NE	NE	NE	0	0	0	0
+Arenga distincta	NE	NE	NE	NE	0	0	0	0
+Arenga engleri	NE	NE	NE	NE	0	0	0	0
+Arenga hastata	NE	NE	NE	NE	0	0	0	0
+Arenga hookeriana	NE	NE	NE	NE	0	0	0	0
+Arenga listeri	VU	NE	Threatened	NE	1	0	1	0
+Arenga longicarpa	NE	NE	NE	Data Deficient	0	0	0	1
+Arenga longipes	NE	NE	Threatened	NE	0	0	1	0
+Arenga micrantha	EN	NE	Threatened	NE	1	0	1	0
+Arenga microcarpa	NE	NE	NE	NE	0	0	0	0
+Arenga mindorensis	NE	NE	NE	NE	0	0	0	0
+Arenga obtusifolia	NE	NE	NE	NE	0	0	0	0
+Arenga pinnata	NE	NE	NE	NE	0	0	0	0
+Arenga plicata	NE	NE	NE	NE	0	0	0	0
+Arenga porphyrocarpa	NE	NE	NE	NE	0	0	0	0
+Arenga retroflorescens	NE	NE	Possibly Threatened	NE	0	0	1	0
+Arenga ryukyuensis	NE	NE	NE	NE	0	0	0	0
+Arenga talamauensis	NE	NE	NE	NE	0	0	0	0
+Arenga tremula	NE	NE	NE	NE	0	0	0	0
+Arenga undulatifolia	NE	NE	NE	NE	0	0	0	0
+Arenga westerhoutii	NE	NE	NE	NE	0	0	0	0
+Arenga wightii	VU	NE	Threatened	NE	1	0	1	0
+Asterogyne guianensis	NE	NE	Threatened	NE	0	0	1	0
+Asterogyne martiana	NE	NE	NE	NE	0	0	0	0
+Asterogyne ramosa	LC	NE	Not Threatened	NE	1	0	1	0
+Asterogyne spicata	VU	NE	Threatened	NE	1	0	1	0
+Asterogyne yaracuyense	CR	NE	Threatened	NE	1	0	1	0
+Astrocaryum acaule	NE	NE	NE	NE	0	0	0	0
+Astrocaryum aculeatissimum	LC	NE	Not Threatened	Not Threatened	1	0	1	1
+Astrocaryum aculeatum	NE	NE	NE	NE	0	0	0	0
+Astrocaryum alatum	NT	NE	Possibly Threatened	NE	1	0	1	0
+Astrocaryum arenarium	NE	NE	NE	NE	0	0	0	0
+Astrocaryum campestre	NE	NE	NE	NE	0	0	0	0
+Astrocaryum carnosum	NE	VU	Threatened	Threatened	0	1	1	1
+Astrocaryum chambira	NE	NE	NE	NE	0	0	0	0
+Astrocaryum chonta	NE	NE	NE	NE	0	0	0	0
+Astrocaryum ciliatum	NE	NE	NE	NE	0	0	0	0
+Astrocaryum confertum	NE	NE	NE	NE	0	0	0	0
+Astrocaryum echinatum	NE	NE	NE	NE	0	0	0	0
+Astrocaryum faranae	NE	NE	NE	NE	0	0	0	0
+Astrocaryum farinosum	NE	NE	NE	NE	0	0	0	0
+Astrocaryum ferrugineum	NE	NE	NE	NE	0	0	0	0
+Astrocaryum giganteum	NE	NE	NE	NE	0	0	0	0
+Astrocaryum gratum	NE	NE	NE	NE	0	0	0	0
+Astrocaryum huaimi	NE	NE	Possibly Threatened	NE	0	0	1	0
+Astrocaryum huicungo	NE	NE	Data Deficient	NE	0	0	1	0
+Astrocaryum jauari	NE	NE	NE	NE	0	0	0	0
+Astrocaryum javarense	NE	NE	NE	NE	0	0	0	0
+Astrocaryum macrocalyx	NE	NE	NE	NE	0	0	0	0
+Astrocaryum malybo	NE	NE	Threatened	NE	0	0	1	0
+Astrocaryum mexicanum	NE	NE	NE	NE	0	0	0	0
+Astrocaryum minus	CR	NE	Threatened	NE	1	0	1	0
+Astrocaryum murumuru	NE	NE	Threatened	NE	0	0	1	0
+Astrocaryum paramaca	NE	NE	NE	NE	0	0	0	0
+Astrocaryum perangustatum	NE	NE	Data Deficient	NE	0	0	1	0
+Astrocaryum rodriguesii	NE	NE	NE	NE	0	0	0	0
+Astrocaryum sciophilum	NE	NE	NE	NE	0	0	0	0
+Astrocaryum scopatum	NE	NE	Data Deficient	NE	0	0	1	0
+Astrocaryum sociale	NE	NE	NE	NE	0	0	0	0
+Astrocaryum standleyanum	NE	NE	NE	NE	0	0	0	0
+Astrocaryum triandrum	EN	NE	Threatened	NE	1	0	1	0
+Astrocaryum tucuma	NE	NE	NE	NE	0	0	0	0
+Astrocaryum ulei	NE	NE	NE	NE	0	0	0	0
+Astrocaryum urostachys	LC	NE	Not Threatened	NE	1	0	1	0
+Astrocaryum vulgare	NE	NE	NE	NE	0	0	0	0
+Attalea allenii	NE	NE	NE	NE	0	0	0	0
+Attalea amygdalina	NE	NE	Threatened	NE	0	0	1	0
+Attalea amylacea	NE	NE	NE	NE	0	0	0	0
+Attalea anisitsiana	NE	NE	NE	NE	0	0	0	0
+Attalea apoda	NE	NE	NE	NE	0	0	0	0
+Attalea attaleoides	NE	NE	Possibly Threatened	NE	0	0	1	0
+Attalea barreirensis	NE	NE	NE	Threatened	0	0	0	1
+Attalea bassleriana	NE	NE	NE	NE	0	0	0	0
+Attalea brasiliensis	NE	NE	NE	Threatened	0	0	0	1
+Attalea brejinhoensis	NE	NE	NE	NE	0	0	0	0
+Attalea burretiana	NE	NE	NE	NE	0	0	0	0
+Attalea butyracea	NE	NE	NE	NE	0	0	0	0
+Attalea camopiensis	NE	NE	NE	NE	0	0	0	0
+Attalea cephalotus	NE	NE	NE	NE	0	0	0	0
+Attalea cohune	NE	NE	NE	NE	0	0	0	0
+Attalea colenda	NE	NE	Possibly Threatened	NE	0	0	1	0
+Attalea compta	NE	NE	NE	NE	0	0	0	0
+Attalea crassispatha	CR	NE	Threatened	NE	1	0	1	0
+Attalea cuatrecasasiana	NE	NE	NE	NE	0	0	0	0
+Attalea dahlgreniana	NE	NE	NE	NE	0	0	0	0
+Attalea degranvillei	NE	NE	NE	NE	0	0	0	0
+Attalea dubia	NE	NE	Threatened	NE	0	0	1	0
+Attalea eichleri	NE	NE	Possibly Threatened	NE	0	0	1	0
+Attalea exigua	NE	NE	NE	NE	0	0	0	0
+Attalea fairchildensis	NE	NE	NE	NE	0	0	0	0
+Attalea funifera	NE	LC	NE	Not Threatened	0	1	0	1
+Attalea geraensis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Attalea guacuyule	NE	NE	NE	NE	0	0	0	0
+Attalea guianensis	NE	NE	NE	NE	0	0	0	0
+Attalea hoehnei	NE	NE	NE	NE	0	0	0	0
+Attalea huebneri	NE	NE	NE	NE	0	0	0	0
+Attalea humilis	NE	NE	Threatened	NE	0	0	1	0
+Attalea iguadummat	NE	NE	Threatened	NE	0	0	1	0
+Attalea insignis	NE	NE	NE	NE	0	0	0	0
+Attalea kewensis	NE	NE	NE	NE	0	0	0	0
+Attalea lauromuelleriana	NE	NE	NE	NE	0	0	0	0
+Attalea leandroana	NE	NE	NE	NE	0	0	0	0
+Attalea luetzelburgii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Attalea macrolepis	NE	NE	NE	NE	0	0	0	0
+Attalea magdalenica	NE	NE	NE	NE	0	0	0	0
+Attalea maracaibensis	NE	NE	NE	NE	0	0	0	0
+Attalea maripa	NE	NE	NE	NE	0	0	0	0
+Attalea maripensis	NE	NE	NE	NE	0	0	0	0
+Attalea microcarpa	NE	NE	NE	NE	0	0	0	0
+Attalea moorei	NE	NE	NE	NE	0	0	0	0
+Attalea nucifera	NE	NE	Threatened	NE	0	0	1	0
+Attalea oleifera	LC	NE	Not Threatened	Not Threatened	1	0	1	1
+Attalea osmantha	NE	NE	NE	NE	0	0	0	0
+Attalea pacensis	NE	NE	NE	NE	0	0	0	0
+Attalea peruviana	NE	NE	NE	NE	0	0	0	0
+Attalea phalerata	NE	NE	NE	NE	0	0	0	0
+Attalea pindobassu	NE	NE	NE	NE	0	0	0	0
+Attalea plowmanii	NE	NE	NE	NE	0	0	0	0
+Attalea princeps	NE	NE	NE	NE	0	0	0	0
+Attalea racemosa	NE	NE	NE	NE	0	0	0	0
+Attalea rostrata	NE	NE	NE	NE	0	0	0	0
+Attalea salazarii	NE	NE	NE	NE	0	0	0	0
+Attalea salvadorensis	NE	NE	NE	NE	0	0	0	0
+Attalea seabrensis	NE	NE	NE	NE	0	0	0	0
+Attalea septuagenata	DD	NE	Possibly Threatened	NE	1	0	1	0
+Attalea speciosa	NE	NE	NE	NE	0	0	0	0
+Attalea spectabilis	NE	NE	Threatened	NE	0	0	1	0
+Attalea tessmannii	NT	NE	Possibly Threatened	NE	1	0	1	0
+Attalea vitrivir	NE	NE	NE	NE	0	0	0	0
+Attalea weberbaueri	NE	NE	NE	NE	0	0	0	0
+Attalea wesselsboeri	NE	NE	NE	NE	0	0	0	0
+Bactris acanthocarpa	NE	NE	Possibly Threatened	NE	0	0	1	0
+Bactris acanthocarpoides	NE	NE	NE	NE	0	0	0	0
+Bactris ana-juliae	NE	NE	NE	NE	0	0	0	0
+Bactris aubletiana	NE	NE	Possibly Threatened	NE	0	0	1	0
+Bactris bahiensis	NE	NE	NE	NE	0	0	0	0
+Bactris balanophora	NE	NE	NE	NE	0	0	0	0
+Bactris barronis	NE	NE	NE	NE	0	0	0	0
+Bactris bidentula	NE	NE	NE	NE	0	0	0	0
+Bactris bifida	NE	NE	NE	NE	0	0	0	0
+Bactris brongniartii	NE	NE	NE	NE	0	0	0	0
+Bactris campestris	NE	NE	NE	NE	0	0	0	0
+Bactris caryotifolia	NE	NE	Threatened	NE	0	0	1	0
+Bactris caudata	NE	NE	NE	NE	0	0	0	0
+Bactris charnleyae	NE	NE	Possibly Threatened	NE	0	0	1	0
+Bactris chaveziae	NE	NE	NE	NE	0	0	0	0
+Bactris chocoensis	NE	NE	NE	NE	0	0	0	0
+Bactris coloniata	VU	NE	Threatened	NE	1	0	1	0
+Bactris coloradonis	NE	NE	NE	NE	0	0	0	0
+Bactris concinna	NE	NE	Possibly Threatened	NE	0	0	1	0
+Bactris constanciae	LC	NE	Not Threatened	NE	1	0	1	0
+Bactris corossilla	NE	NE	NE	NE	0	0	0	0
+Bactris cubensis	NE	NE	Not Threatened	NE	0	0	1	0
+Bactris cuspidata	NE	NE	NE	NE	0	0	0	0
+Bactris dianeura	NE	NE	NE	NE	0	0	0	0
+Bactris elegans	NE	NE	NE	NE	0	0	0	0
+Bactris faucium	NE	NE	Threatened	NE	0	0	1	0
+Bactris ferruginea	NE	NE	NE	Not Threatened	0	0	0	1
+Bactris fissifrons	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Bactris gasipaes	NE	NE	NE	NE	0	0	0	0
+Bactris gastoniana	NE	NE	NE	NE	0	0	0	0
+Bactris glandulosa	NE	NE	NE	NE	0	0	0	0
+Bactris glassmanii	NE	NE	NE	NE	0	0	0	0
+Bactris glaucescens	NE	LC	NE	Not Threatened	0	1	0	1
+Bactris gracilior	NE	NE	NE	NE	0	0	0	0
+Bactris grayumii	NE	NE	NE	NE	0	0	0	0
+Bactris guineensis	NE	NE	Threatened	NE	0	0	1	0
+Bactris halmoorei	NE	NE	NE	NE	0	0	0	0
+Bactris hatschbachii	NE	NE	NE	Not Threatened	0	0	0	1
+Bactris herrerana	NE	NE	NE	NE	0	0	0	0
+Bactris hirta	NE	NE	Threatened	NE	0	0	1	0
+Bactris horridispatha	NE	VU	NE	Threatened	0	1	0	1
+Bactris jamaicana	VU	NE	Threatened	NE	1	0	1	0
+Bactris killipii	NE	NE	NE	NE	0	0	0	0
+Bactris kunorum	NE	NE	NE	NE	0	0	0	0
+Bactris longiseta	VU	NE	Threatened	NE	1	0	1	0
+Bactris macroacantha	NE	NE	NE	NE	0	0	0	0
+Bactris major	NE	NE	Possibly Threatened	NE	0	0	2	0
+Bactris manriquei	NE	NE	NE	NE	0	0	0	0
+Bactris maraja	NE	NE	Possibly Threatened	NE	0	0	1	0
+Bactris martiana	NE	NE	NE	NE	0	0	0	0
+Bactris mexicana	NE	NE	NE	NE	0	0	0	0
+Bactris militaris	NE	NE	NE	NE	0	0	0	0
+Bactris nancibaensis	NE	NE	Threatened	NE	0	0	1	0
+Bactris obovata	NE	NE	NE	NE	0	0	0	0
+Bactris oligocarpa	NE	NE	NE	NE	0	0	0	0
+Bactris oligoclada	NE	NE	NE	NE	0	0	0	0
+Bactris panamensis	NE	NE	NE	NE	0	0	0	0
+Bactris pickelii	VU	NE	Threatened	Not Threatened	1	0	1	1
+Bactris pilosa	NE	NE	NE	NE	0	0	0	0
+Bactris pliniana	NE	NE	NE	NE	0	0	0	0
+Bactris plumeriana	NE	NE	NE	NE	0	0	0	0
+Bactris polystachya	NE	NE	NE	NE	0	0	0	0
+Bactris ptariana	NE	NE	Possibly Threatened	NE	0	0	1	0
+Bactris rhaphidacantha	NE	NE	Possibly Threatened	NE	0	0	1	0
+Bactris riparia	NE	NE	NE	NE	0	0	0	0
+Bactris rostrata	NE	NE	Threatened	NE	0	0	1	0
+Bactris schultesii	NE	NE	NE	NE	0	0	0	0
+Bactris setiflora	EN	NE	Threatened	NE	1	0	1	0
+Bactris setosa	NE	NE	NE	NE	0	0	0	0
+Bactris setulosa	NT	NE	Possibly Threatened	NE	1	0	1	0
+Bactris simplicifrons	NE	NE	NE	NE	0	0	0	0
+Bactris soeiroana	NE	NE	NE	NE	0	0	0	0
+Bactris sphaerocarpa	NE	NE	NE	NE	0	0	0	0
+Bactris syagroides	NE	NE	Threatened	NE	0	0	1	0
+Bactris tefensis	NE	NE	Threatened	NE	0	0	1	0
+Bactris timbuiensis	NE	NE	NE	Threatened	0	0	0	1
+Bactris tomentosa	NE	NE	NE	NE	0	0	0	0
+Bactris turbinocarpa	NE	LC	Threatened	Not Threatened	0	1	1	1
+Bactris vulgaris	NE	NE	NE	NE	0	0	0	0
+Balaka diffusa	NE	CR	NE	Threatened	0	1	0	1
+Balaka insularis	CR	NE	Threatened	NE	1	0	1	0
+Balaka longirostris	NE	LC	Not Threatened	Not Threatened	0	1	1	1
+Balaka macrocarpa	NE	EN	Threatened	Threatened	0	1	1	1
+Balaka microcarpa	NE	CR	Threatened	Threatened	0	1	1	1
+Balaka pauciflora	NE	NE	NE	NE	0	0	0	0
+Balaka samoensis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Balaka seemannii	NE	LC	Not Threatened	Not Threatened	0	1	1	1
+Balaka streptostachys	NE	CR	NE	Threatened	0	1	0	1
+Balaka tahitensis	NE	NE	Possibly Threatened	NE	0	0	3	0
+Barcella odora	NE	NE	Threatened	NE	0	0	1	0
+Basselinia deplanchei	NE	NT	Possibly Threatened	Possibly Threatened	0	1	1	1
+Basselinia eriostachys	NE	LC	NE	Not Threatened	0	1	0	1
+Basselinia favieri	NE	EN	Threatened	Threatened	0	1	1	1
+Basselinia glabrata	NE	VU	NE	Threatened	0	1	0	1
+Basselinia gracilis	NE	EN	Possibly Threatened	Threatened	0	1	1	1
+Basselinia humboldtiana	NE	NT	Possibly Threatened	Possibly Threatened	0	1	1	1
+Basselinia iterata	NE	EN	Threatened	Threatened	0	1	1	1
+Basselinia moorei	NE	CR	NE	Threatened	0	1	0	1
+Basselinia pancheri	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Basselinia porphyrea	NE	EN	Possibly Threatened	Threatened	0	1	1	1
+Basselinia sordida	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Basselinia tomentosa	NE	NT	Threatened	Possibly Threatened	0	1	1	1
+Basselinia velutina	NE	NT	Possibly Threatened	Possibly Threatened	0	1	1	1
+Basselinia vestita	NE	CR	Threatened	Threatened	0	1	1	1
+Beccariophoenix alfredii	NE	VU	NE	Threatened	0	1	0	1
+Beccariophoenix fenestralis	NE	NE	NE	NE	0	0	0	0
+Beccariophoenix madagascariensis	NE	VU	Threatened	Threatened	0	1	1	1
+Bentinckia condapanna	VU	NE	Threatened	NE	1	0	1	0
+Bentinckia nicobarica	EN	NE	Threatened	NE	1	0	1	0
+Bismarckia nobilis	NE	LC	NE	Not Threatened	0	1	0	1
+Borassodendron borneense	NE	NE	NE	NE	0	0	0	0
+Borassodendron machadonis	VU	NE	Threatened	NE	1	0	1	0
+Borassus aethiopum	NE	LC	Threatened	Not Threatened	0	1	1	1
+Borassus akeassii	NE	LC	NE	Not Threatened	0	1	0	1
+Borassus flabellifer	NE	NE	NE	NE	0	0	0	0
+Borassus heineanus	NE	NE	NE	NE	0	0	0	0
+Borassus madagascariensis	NE	EN	Threatened	Threatened	0	1	1	1
+Brahea aculeata	VU	NE	Threatened	Threatened	1	0	1	1
+Brahea armata	NE	LC	NE	Not Threatened	0	1	0	1
+Brahea brandegeei	NE	LC	NE	Not Threatened	0	1	0	1
+Brahea calcarea	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Brahea decumbens	NE	LC	Threatened	Not Threatened	0	1	1	1
+Brahea dulcis	NE	NE	NE	Threatened	0	2	0	4
+Brahea edulis	EN	NE	Threatened	Threatened	1	0	1	1
+Brahea moorei	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Brahea pimo	VU	NE	Threatened	NE	1	0	1	0
+Brahea salvadorensis	NE	NE	NE	NE	0	0	0	0
+Brahea sarukhanii	NE	NE	NE	NE	0	0	0	0
+Brassiophoenix drymophloeoides	NE	NE	NE	NE	0	0	0	0
+Brassiophoenix schumannii	NE	NE	NE	NE	0	0	0	0
+Burretiokentia dumasii	NE	EN	NE	Threatened	0	1	0	1
+Burretiokentia grandiflora	NE	EN	NE	Threatened	0	1	0	1
+Burretiokentia hapala	NE	VU	Threatened	Threatened	0	1	1	1
+Burretiokentia koghiensis	NE	CR	NE	Threatened	0	1	0	1
+Burretiokentia vieillardii	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Butia archeri	NE	NE	NE	Not Threatened	0	0	0	1
+Butia arenicola	NE	NE	NE	NE	0	0	0	0
+Butia campicola	NE	NE	Threatened	NE	0	0	1	0
+Butia capitata	NE	NE	NE	Threatened,Data Deficient	0	0	0	2
+Butia catarinensis	NE	NE	NE	NE	0	0	0	0
+Butia eriospatha	VU	NE	Threatened	Threatened	1	0	1	1
+Butia exilata	NE	NE	NE	NE	0	0	0	0
+Butia exospadix	NE	NE	NE	NE	0	0	0	0
+Butia lallemantii	NE	NE	NE	NE	0	0	0	0
+Butia lepidotispatha	NE	NE	NE	NE	0	0	0	0
+Butia leptospatha	NE	NE	Threatened	NE	0	0	1	0
+Butia marmorii	NE	NE	NE	NE	0	0	0	0
+Butia matogrossensis	NE	NE	NE	NE	0	0	0	0
+Butia microspadix	NE	NE	Possibly Threatened	Threatened	0	0	1	1
+Butia noblickii	NE	NE	NE	Threatened	0	0	0	1
+Butia odorata	NE	NE	NE	NE	0	0	0	0
+Butia paraguayensis	NE	NE	NE	NE	0	0	0	0
+Butia poni	NE	NE	NE	NE	0	0	0	0
+Butia pubispatha	NE	NE	NE	NE	0	0	0	0
+Butia purpurascens	VU	NE	Threatened	Threatened	1	0	1	1
+Butia witeckii	NE	NE	NE	NE	0	0	0	0
+Butia yatay	NE	NE	NE	NE	0	0	0	0
+Calamus acamptostachys	NE	NE	NE	NE	0	0	0	0
+Calamus acanthochlamys	NE	NE	NE	NE	0	0	0	0
+Calamus acanthophyllus	NE	NE	Not Threatened	NE	0	0	1	0
+Calamus acanthospathus	NE	NE	NE	NE	0	0	0	0
+Calamus acaulis	NE	NE	NE	NE	0	0	0	0
+Calamus acehensis	NE	NE	NE	NE	0	0	0	0
+Calamus adspersus	NE	NE	Threatened	NE	0	0	1	0
+Calamus affinis	NE	NE	Possibly Threatened	Threatened	0	0	1	1
+Calamus aidae	NE	NE	NE	NE	0	0	0	0
+Calamus albidus	NE	NE	NE	Threatened	0	0	0	1
+Calamus albus	NE	NE	NE	NE	0	0	0	0
+Calamus altiscandens	NE	NE	Data Deficient	NE	0	0	1	0
+Calamus andamanicus	NE	NE	Threatened	NE	0	0	1	0
+Calamus angustifolius	NE	NE	NE	NE	0	0	0	0
+Calamus anomalus	NE	NE	Not Threatened	NE	0	0	1	0
+Calamus arborescens	NE	NE	NE	NE	0	0	0	0
+Calamus aruensis	NE	NE	Not Threatened	NE	0	0	1	0
+Calamus arugda	NE	NE	NE	NE	0	0	0	0
+Calamus ashtonii	NE	NE	NE	NE	0	0	0	0
+Calamus asperrimus	NE	NE	Threatened	NE	0	0	1	0
+Calamus asteracanthus	NE	NE	NE	NE	0	0	0	0
+Calamus ater	NE	NE	NE	NE	0	0	0	0
+Calamus australis	NE	NE	NE	NE	0	0	0	0
+Calamus axillaris	NE	NE	NE	NE	0	0	0	0
+Calamus bachmaensis	NE	NE	NE	NE	0	0	0	0
+Calamus bacularis	NE	NE	NE	NE	0	0	0	0
+Calamus badius	NE	NE	NE	NE	0	0	0	0
+Calamus baiyerensis	NE	NE	NE	NE	0	0	0	0
+Calamus balerensis	NE	NE	NE	Threatened	0	0	0	1
+Calamus balingensis	NE	NE	Threatened	NE	0	0	1	0
+Calamus banggiensis	NE	NE	NE	NE	0	0	0	0
+Calamus bankae	NE	NE	Not Threatened	NE	0	0	1	0
+Calamus baratangensis	NE	NE	NE	NE	0	0	0	0
+Calamus barbatus	NE	NE	NE	NE	0	0	0	0
+Calamus barfodii	NE	NE	NE	NE	0	0	0	0
+Calamus batanensis	NE	NE	NE	Threatened	0	0	0	1
+Calamus beccarii	NE	NE	NE	Not Threatened	0	0	0	1
+Calamus beguinii	NE	NE	NE	NE	0	0	0	0
+Calamus bicolor	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus billitonensis	NE	NE	NE	NE	0	0	0	0
+Calamus bimanifer	NE	NE	Not Threatened	NE	0	0	1	0
+Calamus binnendijkii	NE	DD	NE	Data Deficient	0	1	0	1
+Calamus boniensis	NE	NE	NE	NE	0	0	0	0
+Calamus bousigonii	NE	NE	Data Deficient	NE	0	0	1	0
+Calamus brachypodus	NE	NE	NE	NE	0	0	0	0
+Calamus brandisii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus brevicaulis	NE	NE	NE	NE	0	0	0	0
+Calamus bulubabi	NE	NE	NE	NE	0	0	0	0
+Calamus burckianus	NE	NE	NE	NE	0	0	0	0
+Calamus burkillianus	NE	NE	NE	NE	0	0	0	0
+Calamus caesius	NE	NE	NE	NE	0	0	0	0
+Calamus calapparius	NE	NE	NE	NE	0	0	0	0
+Calamus calicarpus	NE	NE	NE	NE	0	0	0	0
+Calamus calospathus	NE	NE	NE	NE	0	0	0	0
+Calamus capillosus	NE	NE	NE	NE	0	0	0	0
+Calamus caryotoides	NE	LC	NE	Not Threatened	0	1	0	1
+Calamus castaneus	NE	NE	NE	NE	0	0	0	0
+Calamus cawa	NE	NE	NE	NE	0	0	0	0
+Calamus centralis	NE	NE	NE	NE	0	0	0	0
+Calamus ceratophorus	NE	NE	Threatened	NE	0	0	1	0
+Calamus cheirophyllus	NE	NE	NE	NE	0	0	0	0
+Calamus ciliaris	NE	NE	Threatened	NE	0	0	1	0
+Calamus clemensianus	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus cockburnii	NE	NE	Threatened	NE	0	0	1	0
+Calamus collarifer	NE	NE	NE	NE	0	0	0	0
+Calamus compsostachys	CR	NE	Threatened	Threatened	1	0	1	1
+Calamus comptus	NE	NE	NE	NE	0	0	0	0
+Calamus concinnus	NE	NE	NE	NE	0	0	0	0
+Calamus concolor	NE	NE	NE	NE	0	0	0	0
+Calamus confusus	NE	NE	NE	NE	0	0	0	0
+Calamus conirostris	NE	NE	NE	NE	0	0	0	0
+Calamus conjugatus	NE	NE	Threatened	NE	0	0	1	0
+Calamus conspectus	NE	NE	NE	NE	0	0	0	0
+Calamus convallium	NE	NE	NE	NE	0	0	0	0
+Calamus corneri	NE	NE	Threatened	NE	0	0	1	0
+Calamus crassifolius	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus crinitus	NE	NE	NE	NE	0	0	0	0
+Calamus cristatus	NE	NE	NE	NE	0	0	0	0
+Calamus croftii	NE	NE	NE	NE	0	0	0	0
+Calamus cumingianus	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus curranii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus cuthbertsonii	NE	NE	NE	NE	0	0	0	0
+Calamus daemonoropoides	NE	NE	NE	NE	0	0	0	0
+Calamus dasyacanthus	NE	NE	Data Deficient	NE	0	0	1	0
+Calamus deerratus	NE	LC	NE	Not Threatened	0	1	0	1
+Calamus delicatulus	NE	NE	Threatened	NE	0	0	1	0
+Calamus densiflorus	NE	NE	NE	NE	0	0	0	0
+Calamus depauperatus	NE	NE	NE	NE	0	0	0	0
+Calamus depressiusculus	NE	NE	NE	NE	0	0	0	0
+Calamus dianbaiensis	NE	NE	NE	Threatened	0	0	0	1
+Calamus didymocarpus	NE	NE	NE	NE	0	0	0	0
+Calamus didymophyllus	NE	NE	NE	NE	0	0	0	0
+Calamus diepenhorstii	NE	NE	NE	NE	0	0	0	0
+Calamus digitatus	NE	NE	Threatened	NE	0	0	1	0
+Calamus dilaceratus	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus dioicus	NE	NE	Data Deficient	NE	0	0	1	0
+Calamus discolor	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus distentus	NE	NE	NE	NE	0	0	0	0
+Calamus divaricatus	NE	NE	NE	NE	0	0	0	0
+Calamus dongnaiensis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus draco	NE	NE	NE	NE	0	0	0	0
+Calamus dracunculus	NE	NE	NE	NE	0	0	0	0
+Calamus dumetosus	NE	NE	NE	NE	0	0	0	0
+Calamus egregius	VU	NE	Threatened	Threatened	1	0	1	2
+Calamus elegans	NE	NE	NE	NE	0	0	0	0
+Calamus elongatus	NE	NE	NE	NE	0	0	0	0
+Calamus equestris	NE	NE	NE	NE	0	0	0	0
+Calamus erectus	NE	NE	Not Threatened	NE	0	0	1	0
+Calamus erinaceus	NE	NE	NE	NE	0	0	0	0
+Calamus erioacanthus	NE	LC	Threatened	Not Threatened	0	1	3	1
+Calamus erythrocarpus	NE	NE	NE	NE	0	0	0	0
+Calamus essigii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus eugenei	NE	NE	Threatened	NE	0	0	1	0
+Calamus evansii	NE	NE	NE	NE	0	0	0	0
+Calamus exilis	NE	NE	Threatened	NE	0	0	1	0
+Calamus extensus	NE	NE	NE	NE	0	0	0	0
+Calamus farinosus	NE	NE	NE	NE	0	0	0	0
+Calamus fertilis	NE	NE	Not Threatened	NE	0	0	1	0
+Calamus filipendulus	NE	NE	Threatened	NE	0	0	1	0
+Calamus filispadix	NE	NE	NE	NE	0	0	0	0
+Calamus fissilis	NE	NE	NE	NE	0	0	0	0
+Calamus fissus	NE	NE	NE	NE	0	0	0	0
+Calamus flabellatus	NE	NE	NE	NE	0	0	0	0
+Calamus flagellum	NE	NE	Not Threatened	NE	0	0	1	0
+Calamus flexilis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus floribundus	NE	NE	NE	NE	0	0	0	0
+Calamus forbesii	NE	NE	NE	NE	0	0	0	0
+Calamus formicarius	NE	NE	NE	NE	0	0	0	0
+Calamus formosanus	NE	NE	NE	Not Threatened	0	0	0	1
+Calamus foxworthyi	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus gamblei	NE	NE	NE	NE	0	0	0	0
+Calamus geniculatus	NE	NE	NE	NE	0	0	0	0
+Calamus georgei	NE	NE	NE	NE	0	0	0	0
+Calamus gibbsianus	NE	NE	NE	NE	0	0	0	0
+Calamus glaucescens	NE	NE	Threatened	NE	0	0	2	0
+Calamus godefroyi	NE	NT	Possibly Threatened	Possibly Threatened	0	1	1	1
+Calamus gonospermus	NE	NE	NE	NE	0	0	0	0
+Calamus gracilipes	NE	NE	NE	NE	0	0	0	0
+Calamus gracilis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus grandifolius	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus grandis	NE	NE	NE	NE	0	0	0	0
+Calamus griseus	NE	NE	NE	NE	0	0	0	0
+Calamus guruba	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus hallierianus	NE	NE	NE	NE	0	0	0	0
+Calamus halmaherensis	NE	NE	NE	NE	0	0	0	0
+Calamus harmandii	NE	NE	Threatened	NE	0	0	1	0
+Calamus heatubunii	NE	NE	NE	NE	0	0	0	0
+Calamus helferianus	NE	NE	NE	NE	0	0	0	0
+Calamus henryanus	NE	NE	Not Threatened	NE	0	0	1	0
+Calamus heteracanthus	NE	LC	NE	Not Threatened	0	1	0	1
+Calamus heteroideus	NE	NE	NE	NE	0	0	0	0
+Calamus hirsutus	NE	NE	NE	NE	0	0	0	0
+Calamus holttumii	NE	NE	Threatened	NE	0	0	1	0
+Calamus hookerianus	NE	NE	NE	NE	0	0	0	0
+Calamus horridus	NE	NE	NE	NE	0	0	0	0
+Calamus hukaungensis	NE	NE	NE	NE	0	0	0	0
+Calamus inermis	CR	NE	Threatened	Threatened	1	0	4	1
+Calamus ingens	NE	NE	NE	NE	0	0	0	0
+Calamus inops	NE	NE	NE	NE	0	0	0	0
+Calamus insignis	NE	NE	NE	NE	0	0	0	0
+Calamus interruptus	NE	NE	NE	NE	0	0	0	0
+Calamus jacobsii	NE	NE	NE	NE	0	0	0	0
+Calamus javensis	NE	NE	Threatened,Possibly Threatened	NE	0	0	2	0
+Calamus jenkinsianus	NE	NE	Not Threatened	NE	0	0	4	0
+Calamus jenningsianus	NE	NE	Possibly Threatened	Threatened	0	0	1	1
+Calamus johndransfieldii	NE	NE	NE	NE	0	0	0	0
+Calamus johnsii	NE	NE	NE	NE	0	0	0	0
+Calamus kampucheaensis	NE	NE	NE	NE	0	0	0	0
+Calamus kandariensis	NE	NE	NE	NE	0	0	0	0
+Calamus karnatakensis	NE	NE	NE	NE	0	0	0	0
+Calamus karuensis	NE	NE	NE	NE	0	0	0	0
+Calamus katikii	NE	NE	NE	NE	0	0	0	0
+Calamus kebariensis	NE	NE	NE	NE	0	0	0	0
+Calamus kiahii	NE	NE	NE	NE	0	0	0	0
+Calamus kingianus	NE	NE	Data Deficient	NE	0	0	1	0
+Calamus kjellbergii	NE	NE	NE	NE	0	0	0	0
+Calamus klossii	NE	NE	NE	NE	0	0	0	0
+Calamus komsaryi	NE	NE	NE	NE	0	0	0	0
+Calamus kontumensis	NE	NE	NE	NE	0	0	0	0
+Calamus koordersianus	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus korthalsii	NE	NE	NE	NE	0	0	0	0
+Calamus kostermansii	NE	NE	NE	NE	0	0	0	0
+Calamus kunstleri	NE	NE	NE	NE	0	0	0	0
+Calamus kurzianus	NE	NE	NE	NE	0	0	0	0
+Calamus lakshmanae	NE	NE	NE	NE	0	0	0	0
+Calamus lambirensis	NE	NE	NE	NE	0	0	0	0
+Calamus lamprolepis	NE	NE	NE	NE	0	0	0	0
+Calamus laoensis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus lateralis	NE	NE	NE	NE	0	0	0	0
+Calamus latifolius	NE	NE	Not Threatened	NE	0	0	1	0
+Calamus lauterbachii	NE	NE	NE	NE	0	0	0	0
+Calamus laxissimus	NE	NE	Threatened	NE	0	0	1	0
+Calamus leiocaulis	NE	NE	NE	NE	0	0	0	0
+Calamus leloi	NE	NE	NE	NE	0	0	0	0
+Calamus leptopus	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus leptospadix	NE	NE	NE	NE	0	0	0	0
+Calamus leptostachys	NE	NE	NE	NE	0	0	0	0
+Calamus lewisianus	NE	NE	NE	NE	0	0	0	0
+Calamus lobbianus	NE	NE	NE	NE	0	0	0	0
+Calamus loherianus	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus longibracteatus	NE	NE	NE	NE	0	0	0	0
+Calamus longipes	NE	NE	NE	NE	0	0	0	0
+Calamus longipinna	NE	NE	Not Threatened	NE	0	0	1	0
+Calamus longisetus	NE	NE	Not Threatened	NE	0	0	1	0
+Calamus longispatha	NE	NE	NE	NE	0	0	0	0
+Calamus longispinosus	NE	NE	NE	NE	0	0	0	0
+Calamus longistipes	NE	NE	NE	NE	0	0	0	0
+Calamus lucysmithiae	NE	NE	NE	NE	0	0	0	0
+Calamus luteus	NE	NE	NE	NE	0	0	0	0
+Calamus macrochlamys	NE	NE	Not Threatened	NE	0	0	1	0
+Calamus macrophyllus	NE	NE	Threatened	NE	0	0	1	0
+Calamus macropterus	NE	NE	NE	NE	0	0	0	0
+Calamus macrorhynchus	NE	NE	NE	Not Threatened	0	0	0	1
+Calamus macrosphaerion	NE	NE	NE	NE	0	0	0	0
+Calamus maculatus	NE	NE	NE	NE	0	0	0	0
+Calamus maiadum	NE	NE	NE	NE	0	0	0	0
+Calamus malawaliensis	NE	NE	NE	NE	0	0	0	0
+Calamus manan	NE	NE	NE	NE	0	0	0	0
+Calamus manii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus manillensis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus marginatus	NE	NE	NE	NE	0	0	0	0
+Calamus mattanensis	NE	NE	NE	NE	0	0	0	0
+Calamus maturbongsii	NE	NE	Data Deficient	NE	0	0	1	0
+Calamus megalocarpus	NE	NE	NE	NE	0	0	0	0
+Calamus megaphyllus	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus meghalayensis	NE	NE	NE	NE	0	0	0	0
+Calamus melanacanthos	NE	NE	NE	NE	0	0	0	0
+Calamus melanochaetes	NE	NE	NE	NE	0	0	0	0
+Calamus melanochrous	NE	NE	NE	Not Threatened	0	0	0	1
+Calamus melanoloma	NE	NE	Threatened	NE	0	0	1	0
+Calamus melanorhynchus	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus merrillii	NE	NE	Threatened	NE	0	0	1	0
+Calamus metzianus	NE	NE	Threatened	NE	0	0	1	0
+Calamus micracanthus	NE	NE	NE	NE	0	0	0	0
+Calamus micranthus	NE	NE	NE	NE	0	0	0	0
+Calamus microsphaerion	NE	NE	NE	NE	0	0	0	0
+Calamus microstachys	NE	NE	NE	NE	0	0	0	0
+Calamus minahassae	NE	NE	NE	NE	0	0	0	0
+Calamus minor	NE	NE	NE	NE	0	0	0	0
+Calamus minutus	NE	NE	Threatened	NE	0	0	1	0
+Calamus mirabilis	NE	NE	NE	NE	0	0	0	0
+Calamus mitis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus modestus	NE	LC	Data Deficient	Not Threatened	0	1	1	1
+Calamus mogeae	NE	NE	NE	NE	0	0	0	0
+Calamus mogeanus	NE	NE	NE	NE	0	0	0	0
+Calamus mollis	NE	NE	NE	NE	0	0	1	0
+Calamus mollispinus	NE	NE	Threatened	NE	0	0	2	0
+Calamus monticola	NE	NE	NE	NE	0	0	0	0
+Calamus moorei	NE	NE	Threatened	NE	0	0	1	0
+Calamus moorhousei	NE	NE	Threatened	NE	0	0	1	0
+Calamus moseleyanus	NE	NE	Possibly Threatened	NE	0	0	2	0
+Calamus moszkowskianus	NE	NE	NE	NE	0	0	0	0
+Calamus moti	NE	NE	NE	NE	0	0	0	0
+Calamus muelleri	NE	NE	NE	NE	0	0	0	0
+Calamus multispicatus	NE	NE	NE	Not Threatened	0	0	0	1
+Calamus muricatus	NE	NE	NE	NE	0	0	0	0
+Calamus myriacanthus	NE	NE	NE	NE	0	0	0	0
+Calamus myrianthus	NE	NE	NE	NE	0	0	0	0
+Calamus nagbettai	NE	NE	Threatened	NE	0	0	1	0
+Calamus nanduensis	NE	NE	NE	NE	0	0	0	0
+Calamus nannostachys	NE	NE	NE	NE	0	0	0	0
+Calamus nanodendron	NE	NE	NE	NE	0	0	0	0
+Calamus nematospadix	NE	NE	NE	NE	0	0	0	0
+Calamus nicobaricus	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus nicolai	NE	NE	NE	NE	0	0	0	0
+Calamus nielsenii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus niger	NE	NE	NE	NE	0	0	0	0
+Calamus nitidus	NE	NE	Threatened	NE	0	0	1	0
+Calamus novae-georgii	NE	NE	NE	NE	0	0	0	0
+Calamus nuichuaensis	NE	NE	NE	NE	0	0	0	0
+Calamus oblatus	NE	NE	NE	NE	0	0	0	0
+Calamus oblongus	NE	NE	NE	NE	0	0	0	0
+Calamus occidentalis	NE	NE	NE	NE	0	0	0	0
+Calamus ochrolepis	NE	NE	NE	NE	0	0	0	0
+Calamus ocreatus	NE	NE	NE	NE	0	0	0	0
+Calamus oligolepis	NE	NE	NE	Threatened	0	0	0	1
+Calamus oligophyllus	NE	NE	Threatened	NE	0	0	1	0
+Calamus oligostachys	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus optimus	NE	NE	NE	NE	0	0	0	0
+Calamus oresbius	NE	NE	NE	NE	0	0	0	0
+Calamus ornatus	NE	NE	NE	NE	0	0	0	0
+Calamus orthostachyus	NE	NE	NE	NE	0	0	0	0
+Calamus ovoideus	NE	NE	Threatened	NE	0	0	1	0
+Calamus oxleyanus	NE	LC	NE	Not Threatened	0	1	0	1
+Calamus oxycarpus	NE	NE	Data Deficient	Not Threatened	0	0	1	1
+Calamus oxycoccus	NE	NE	NE	NE	0	0	0	0
+Calamus pachypus	NE	NE	Not Threatened	NE	0	0	1	0
+Calamus pachyrostris	NE	NE	NE	NE	0	0	0	0
+Calamus pachystemonus	NE	NE	Threatened	NE	0	0	1	0
+Calamus padangensis	NE	NE	Threatened	NE	0	0	1	0
+Calamus palembanicus	NE	NE	NE	NE	0	0	0	0
+Calamus pandanosmus	NE	NE	NE	NE	0	0	0	0
+Calamus pannosus	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus papuanus	NE	NE	NE	NE	0	0	0	0
+Calamus papyraceus	NE	NE	NE	NE	0	0	0	0
+Calamus parutan	NE	NE	NE	NE	0	0	0	0
+Calamus parvifructus	NE	NE	NE	NE	0	0	0	0
+Calamus parvulus	NE	NE	NE	NE	0	0	0	0
+Calamus paspalanthus	NE	NE	NE	NE	0	0	0	0
+Calamus paulii	NE	NE	NE	NE	0	0	0	0
+Calamus pedicellaris	NE	NE	NE	NE	0	0	0	0
+Calamus pedicellatus	NE	NE	NE	NE	0	0	0	0
+Calamus penicillatus	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus perakensis	NE	NE	NE	NE	0	0	0	0
+Calamus peregrinus	NE	NE	NE	NE	0	0	0	0
+Calamus periacanthus	NE	NE	NE	NE	0	0	0	0
+Calamus pholidostachys	NE	NE	Data Deficient	NE	0	0	1	0
+Calamus pilosellus	NE	NE	NE	NE	0	0	0	0
+Calamus pilosissimus	NE	NE	NE	NE	0	0	0	0
+Calamus pintaudii	NE	NE	NE	NE	0	0	0	0
+Calamus plagiocyclus	NE	NE	NE	NE	0	0	0	0
+Calamus platyspathus	NE	NE	Data Deficient	NE	0	0	1	0
+Calamus plicatus	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus poensis	NE	NE	Threatened	NE	0	0	1	0
+Calamus pogonacanthus	NE	LC	NE	Not Threatened	0	1	0	1
+Calamus pogonotium	NE	NE	NE	NE	0	0	0	0
+Calamus poilanei	NE	NE	Threatened	NE	0	0	1	0
+Calamus politus	NE	NE	NE	NE	0	0	0	0
+Calamus polycladus	NE	NE	NE	NE	0	0	0	0
+Calamus polystachys	NE	NE	NE	NE	0	0	0	0
+Calamus pseudoconcolor	NE	NE	Threatened	NE	0	0	1	0
+Calamus pseudotenuis	NE	NE	NE	NE	0	0	0	0
+Calamus pseudozebrinus	NE	NE	NE	NE	0	0	0	0
+Calamus psilocladus	NE	NE	NE	NE	0	0	0	0
+Calamus pulcher	NE	NE	NE	NE	0	0	0	0
+Calamus pumilus	NE	NE	NE	NE	0	0	0	0
+Calamus pycnocarpus	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus pygmaeus	NE	NE	NE	NE	0	0	0	0
+Calamus quangngaiensis	NE	NE	NE	NE	0	0	0	0
+Calamus radiatus	NE	NE	Threatened	NE	0	0	1	0
+Calamus radicalis	NE	NE	NE	NE	0	0	0	0
+Calamus radulosus	NE	NE	Threatened	NE	0	0	1	0
+Calamus rarispinosus	NE	NE	NE	NE	0	0	0	0
+Calamus reinwardtii	NE	NE	NE	NE	0	0	0	0
+Calamus reticulatus	NE	NE	Not Threatened	NE	0	0	1	0
+Calamus retroflexus	NE	NE	NE	NE	0	0	0	0
+Calamus reyesianus	NE	NE	NE	NE	0	0	0	0
+Calamus rhabdocladus	NE	NE	Not Threatened	NE	0	0	1	0
+Calamus rheedei	NE	NE	NE	NE	0	0	0	0
+Calamus rhomboideus	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus rhytidomus	NE	NE	NE	NE	0	0	0	0
+Calamus ridleyanus	NE	NE	Threatened	NE	0	0	1	0
+Calamus riedelianus	NE	NE	NE	NE	0	0	0	0
+Calamus robinsonianus	NE	NE	Threatened	NE	0	0	1	0
+Calamus rotang	NE	NE	NE	NE	0	0	0	0
+Calamus ruber	NE	NE	NE	NE	0	0	0	0
+Calamus rudentum	NE	NE	Data Deficient	NE	0	0	1	0
+Calamus rugosus	NE	NE	NE	NE	0	0	0	0
+Calamus rumphii	NE	NE	NE	NE	0	0	0	0
+Calamus ruptilis	NE	NE	NE	NE	0	0	0	0
+Calamus ruvidus	NE	NE	NE	NE	0	0	0	0
+Calamus sabalensis	NE	CR	NE	Threatened	0	1	0	1
+Calamus sabensis	NE	NE	NE	NE	0	0	0	0
+Calamus sabut	NE	NE	NE	NE	0	0	0	0
+Calamus salicifolius	NE	LC	Data Deficient	Not Threatened	0	1	1	1
+Calamus samian	NE	NE	NE	NE	0	0	0	0
+Calamus sarasinorum	NE	NE	NE	NE	0	0	0	0
+Calamus sarawakensis	NE	NE	NE	NE	0	0	0	0
+Calamus sashae	NE	NE	NE	NE	0	0	0	0
+Calamus scabridulus	NE	NE	NE	NE	0	0	0	0
+Calamus scabrispathus	NE	DD	NE	Data Deficient	0	1	0	1
+Calamus scapigerus	NE	NE	NE	NE	0	0	0	0
+Calamus schistoacanthus	NE	NE	NE	NE	0	0	0	0
+Calamus schlechteri	NE	DD	NE	Data Deficient	0	1	0	1
+Calamus schlechterianus	NE	NE	NE	NE	0	0	0	0
+Calamus scipionum	NE	NE	NE	NE	0	0	0	0
+Calamus scleracanthus	NE	NE	NE	NE	0	0	0	0
+Calamus sedens	NE	NE	Threatened	NE	0	0	1	0
+Calamus sedisspirituum	NE	NE	NE	NE	0	0	0	0
+Calamus sekundurensis	NE	NE	NE	NE	0	0	0	0
+Calamus senalingensis	NE	NE	Threatened	NE	0	0	1	0
+Calamus sepal	NE	NE	Threatened	NE	0	0	1	0
+Calamus seriatus	NE	NE	NE	NE	0	0	0	0
+Calamus serpentinus	NE	NE	NE	NE	0	0	0	0
+Calamus serrulatus	NE	NE	NE	NE	0	0	0	0
+Calamus siberutensis	NE	NE	NE	NE	0	0	0	0
+Calamus simplex	NE	NE	Threatened	NE	0	0	1	0
+Calamus singalanus	NE	NE	NE	NE	0	0	0	0
+Calamus siphonospathus	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus sordidus	NE	NE	NE	NE	0	0	0	0
+Calamus spanostachys	NE	NE	NE	NE	0	0	0	0
+Calamus sparsiflorus	NE	NE	NE	NE	0	0	0	0
+Calamus spectatissimus	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus spiculifer	NE	NE	NE	NE	0	0	0	0
+Calamus spinifolius	NE	NE	NE	NE	0	0	0	0
+Calamus spinulinervis	NE	NE	NE	NE	0	0	0	0
+Calamus spiralis	NE	NE	NE	NE	0	0	0	0
+Calamus stenophyllus	NE	NE	NE	NE	0	0	0	0
+Calamus stolonifer	NE	NE	NE	NE	0	0	0	0
+Calamus suaveolens	NE	NE	Data Deficient	NE	0	0	1	0
+Calamus subangulatus	NE	NE	NE	NE	0	0	0	0
+Calamus sumbawensis	NE	NE	NE	NE	0	0	0	0
+Calamus superciliatus	NE	NE	NE	NE	0	0	0	0
+Calamus symphysipus	NE	NE	NE	NE	0	0	0	0
+Calamus takanensis	NE	NE	NE	NE	0	0	0	0
+Calamus tanakadatei	NE	NE	Threatened	NE	0	0	1	0
+Calamus temii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus tenompokensis	NE	NE	NE	NE	0	0	0	0
+Calamus tenuis	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Calamus tetradactyloides	NE	NE	Not Threatened	Threatened	0	0	1	1
+Calamus tetradactylus	NE	NE	Not Threatened	NE	0	0	1	0
+Calamus thwaitesii	NE	NE	NE	NE	0	0	0	0
+Calamus thysanolepis	NE	NE	Possibly Threatened	NE	0	0	2	0
+Calamus timorensis	NE	NE	NE	NE	0	0	0	0
+Calamus toli-toliensis	NE	NE	NE	NE	0	0	0	0
+Calamus trachycoleus	NE	NE	NE	NE	0	0	0	0
+Calamus treubianus	NE	NE	NE	NE	0	0	0	0
+Calamus trichrous	NE	NE	NE	NE	0	0	0	0
+Calamus tumidus	NE	NE	NE	NE	0	0	0	0
+Calamus unifarius	NE	NE	NE	NE	0	0	0	0
+Calamus unijugus	NE	NE	Threatened	NE	0	0	1	0
+Calamus urdanetanus	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus ursinus	NE	NE	NE	NE	0	0	0	0
+Calamus uschdraweitianus	NE	NE	NE	NE	0	0	0	0
+Calamus usitatus	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Calamus validus	NE	NE	NE	NE	0	0	0	0
+Calamus vattayila	NE	NE	NE	NE	0	0	0	0
+Calamus verticillaris	NE	NE	NE	NE	0	0	0	0
+Calamus vestitus	NE	NE	Not Threatened	NE	0	0	1	0
+Calamus vidalianus	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus viminalis	NE	LC	Not Threatened	Not Threatened	0	2	5	2
+Calamus vinosus	NE	NE	Possibly Threatened	Threatened	0	0	1	1
+Calamus viridissimus	NE	NE	NE	NE	0	0	0	0
+Calamus vitiensis	NE	NE	Not Threatened	NE	0	0	2	0
+Calamus walkeri	NE	NE	Possibly Threatened	NE	0	0	2	0
+Calamus wanggaii	NE	NE	Not Threatened	NE	0	0	1	0
+Calamus warburgii	NE	NE	NE	NE	0	0	0	0
+Calamus whitmorei	NE	NE	Threatened	NE	0	0	1	0
+Calamus wightii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calamus womersleyi	NE	NE	NE	NE	0	0	0	0
+Calamus wrightmyoensis	NE	NE	NE	NE	0	0	0	0
+Calamus wuliangshanensis	NE	NE	NE	Threatened	0	0	0	1
+Calamus yentuensis	NE	NE	NE	NE	0	0	0	0
+Calamus zebrinus	NE	NE	Not Threatened	NE	0	0	1	0
+Calamus zeylanicus	NE	NE	Threatened	NE	0	0	1	0
+Calamus zieckii	NE	NE	NE	NE	0	0	0	0
+Calamus zollingeri	NE	NE	NE	NE	0	0	0	0
+Calamus zonatus	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx albertisianus	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx amoenus	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx arfakianus	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx awa	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx caudiculatus	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx doxanthus	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx elegans	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx flabellatus	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx forbesii	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx geonomiformis	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx hollrungii	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx julianettii	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx lauterbachianus	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx laxiflorus	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx lepidotus	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx leptostachys	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx merrillianus	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx micholitzii	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx multifidus	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx pachystachys	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx pauciflorus	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx polyphyllus	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx pusillus	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx sessiliflorus	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx spicatus	NE	NE	NE	NE	0	0	0	0
+Calyptrocalyx yamutumene	NE	NE	NE	NE	0	0	0	0
+Calyptrogyne allenii	NE	NE	NE	NE	0	0	0	0
+Calyptrogyne anomala	NE	NE	Threatened	NE	0	0	1	0
+Calyptrogyne baudensis	NE	NE	NE	NE	0	0	0	0
+Calyptrogyne coloradensis	NE	NE	NE	NE	0	0	0	0
+Calyptrogyne condensata	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calyptrogyne costatifrons	NE	NE	NE	NE	0	0	0	0
+Calyptrogyne deneversii	NE	NE	NE	NE	0	0	0	0
+Calyptrogyne fortunensis	NE	NE	NE	NE	0	0	0	0
+Calyptrogyne ghiesbreghtiana	NE	NE	NE	NE	0	0	0	0
+Calyptrogyne herrerae	NE	NE	NE	NE	0	0	0	0
+Calyptrogyne kunorum	NE	NE	NE	NE	0	0	0	0
+Calyptrogyne osensis	NE	NE	NE	NE	0	0	0	0
+Calyptrogyne panamensis	NE	NE	NE	NE	0	0	0	0
+Calyptrogyne pubescens	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calyptrogyne sanblasensis	NE	NE	NE	NE	0	0	0	0
+Calyptrogyne trichostachys	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calyptrogyne tutensis	NE	NE	NE	NE	0	0	0	0
+Calyptronoma occidentalis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Calyptronoma plumeriana	NE	NE	NE	NE	0	0	0	0
+Calyptronoma rivalis	NE	NE	Threatened	Near Threatened	0	0	1	1
+Carpentaria acuminata	NE	NE	NE	NE	0	0	0	0
+Carpoxylon macrospermum	CR	NE	Threatened	NE	1	0	1	0
+Caryota alberti	NE	NE	NE	NE	0	0	0	0
+Caryota angustifolia	NE	NE	NE	NE	0	0	0	0
+Caryota cumingii	NE	NE	NE	NE	0	0	0	0
+Caryota javanica	NE	NE	NE	NE	0	0	0	0
+Caryota kiriwongensis	NE	NE	NE	NE	0	0	0	0
+Caryota maxima	NE	NE	NE	NE	0	0	0	0
+Caryota mitis	NE	NE	NE	NE	0	0	0	0
+Caryota monostachya	NE	NE	NE	NE	0	0	0	0
+Caryota no	LC	NE	Not Threatened	NE	1	0	1	0
+Caryota obtusa	NE	NE	NE	NE	0	0	0	0
+Caryota ophiopellis	NE	NE	NE	NE	0	0	0	0
+Caryota rumphiana	NE	NE	Possibly Threatened	NE	0	0	1	0
+Caryota sympetala	NE	NE	NE	NE	0	0	0	0
+Caryota urens	NE	LC	NE	Not Threatened	0	1	0	1
+Caryota zebrina	NE	NE	NE	NE	0	0	0	0
+Ceroxylon alpinum	EN	NE	Threatened	NE	1	0	1	0
+Ceroxylon amazonicum	EN	NE	Threatened	Threatened	1	0	1	1
+Ceroxylon ceriferum	NE	NE	NE	NE	0	0	0	0
+Ceroxylon echinulatum	VU	NE	Threatened	NE	1	0	1	0
+Ceroxylon parvifrons	NE	NE	NE	Threatened	0	0	0	1
+Ceroxylon parvum	NE	NE	NE	NE	0	0	0	0
+Ceroxylon peruvianum	NE	NE	NE	NE	0	0	0	0
+Ceroxylon pityrophyllum	NE	NE	Data Deficient	NE	0	0	1	0
+Ceroxylon quindiuense	VU	NE	Threatened	NE	1	0	1	0
+Ceroxylon sasaimae	CR	NE	Threatened	NE	1	0	1	0
+Ceroxylon ventricosum	NE	NE	NE	NE	0	0	0	0
+Ceroxylon vogelianum	NE	NE	NE	NE	0	0	0	0
+Chamaedorea adscendens	NE	VU	Threatened	Threatened	0	1	1	1
+Chamaedorea allenii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Chamaedorea alternans	NE	LC	NE	Not Threatened	0	1	0	1
+Chamaedorea amabilis	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea anemophila	NE	NE	NE	NE	0	0	0	0
+Chamaedorea angustisecta	NE	NE	Possibly Threatened	NE	0	0	1	0
+Chamaedorea arenbergiana	NE	NE	NE	NE	0	0	0	0
+Chamaedorea atrovirens	NE	NE	NE	NE	0	0	0	0
+Chamaedorea benziei	NE	NE	NE	NE	0	0	0	0
+Chamaedorea binderi	NE	NE	NE	NE	0	0	0	0
+Chamaedorea brachyclada	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea brachypoda	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea carchensis	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Chamaedorea castillo-montii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Chamaedorea cataractarum	NE	LC	NE	Not Threatened	0	1	0	1
+Chamaedorea christinae	NE	NE	Possibly Threatened	NE	0	0	1	0
+Chamaedorea correae	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea costaricana	NE	NE	NE	NE	0	0	0	0
+Chamaedorea crucensis	NE	NE	NE	NE	0	0	0	0
+Chamaedorea dammeriana	NE	NE	NE	NE	0	0	0	0
+Chamaedorea deckeriana	NE	NE	Possibly Threatened	NE	0	0	1	0
+Chamaedorea deneversiana	NE	NE	Possibly Threatened	NE	0	0	1	0
+Chamaedorea elatior	NE	LC	NE	Not Threatened	0	1	0	1
+Chamaedorea elegans	NE	NE	NE	NE	0	0	0	0
+Chamaedorea ernesti-augusti	NE	NE	NE	NE	0	0	0	0
+Chamaedorea falcifera	NE	NE	NE	NE	0	0	0	0
+Chamaedorea foveata	NE	VU	NE	Threatened	0	1	0	1
+Chamaedorea fractiflexa	NE	EN	Threatened	Threatened	0	1	1	1
+Chamaedorea fragrans	NE	NE	Possibly Threatened	NE	0	0	1	0
+Chamaedorea frondosa	NE	NE	NE	NE	0	0	0	0
+Chamaedorea geonomiformis	NE	NE	Possibly Threatened	Threatened	0	0	1	1
+Chamaedorea glaucifolia	NE	EN	Threatened	Threatened	0	1	1	1
+Chamaedorea graminifolia	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea guntheriana	NE	NE	Possibly Threatened	NE	0	0	1	0
+Chamaedorea hodelii	NE	NE	NE	NE	0	0	0	0
+Chamaedorea hooperiana	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea ibarrae	NE	LC	NE	Not Threatened	0	1	0	1
+Chamaedorea incrustata	NE	NE	NE	NE	0	0	0	0
+Chamaedorea keelerorum	NE	LC	NE	Not Threatened	0	1	0	1
+Chamaedorea klotzschiana	NE	EN	Possibly Threatened	Threatened	0	1	1	1
+Chamaedorea lehmannii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Chamaedorea liebmannii	NE	LC	NE	Not Threatened	0	1	0	1
+Chamaedorea linearis	NE	NE	NE	NE	0	0	0	0
+Chamaedorea lucidifrons	NE	NE	Possibly Threatened,Threatened	NE	0	0	2	0
+Chamaedorea macrospadix	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea matae	NE	NE	NE	NE	0	0	0	0
+Chamaedorea metallica	NE	NE	NE	Threatened	0	0	0	1
+Chamaedorea microphylla	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea microspadix	NE	LC	Threatened	Not Threatened	0	1	1	1
+Chamaedorea moliniana	NE	NE	NE	NE	0	0	0	0
+Chamaedorea nationsiana	NE	NE	Possibly Threatened	NE	0	0	1	0
+Chamaedorea neurochlamys	NE	NE	NE	NE	0	0	0	0
+Chamaedorea nubium	NE	LC	NE	Not Threatened	0	1	0	1
+Chamaedorea oblongata	NE	VU	NE	Threatened	0	1	0	1
+Chamaedorea oreophila	NE	NE	Threatened	Threatened	0	0	1	1
+Chamaedorea pachecoana	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea palmeriana	NE	NE	Possibly Threatened	NE	0	0	1	0
+Chamaedorea parvifolia	NE	NE	Possibly Threatened	NE	0	0	1	0
+Chamaedorea parvisecta	NE	NE	NE	NE	0	0	0	0
+Chamaedorea pauciflora	NE	NE	NE	NE	0	0	0	0
+Chamaedorea pedunculata	NE	NE	NE	NE	0	0	0	0
+Chamaedorea pinnatifrons	NE	LC	NE	Not Threatened	0	1	0	1
+Chamaedorea piscifolia	NE	NE	NE	NE	0	0	0	0
+Chamaedorea pittieri	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea plumosa	NE	CR	NE	Threatened	0	1	0	1
+Chamaedorea pochutlensis	NE	LC	Threatened	Not Threatened	0	1	1	1
+Chamaedorea ponderosa	NE	NE	NE	NE	0	0	0	0
+Chamaedorea pumila	NE	NE	Threatened	NE	0	0	2	0
+Chamaedorea pygmaea	NE	NE	Possibly Threatened	NE	0	0	1	0
+Chamaedorea queroana	NE	NE	Threatened	Threatened	0	0	1	1
+Chamaedorea radicalis	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea recurvata	NE	NE	NE	NE	0	0	0	0
+Chamaedorea rhizomatosa	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea ricardoi	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea rigida	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea robertii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Chamaedorea rojasiana	NE	NE	Possibly Threatened	NE	0	0	1	0
+Chamaedorea rosibeliae	NE	NE	NE	NE	0	0	0	0
+Chamaedorea rossteniorum	NE	NE	NE	NE	0	0	0	0
+Chamaedorea sartorii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Chamaedorea scheryi	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea schiedeana	NE	NE	Threatened	Threatened	0	0	1	1
+Chamaedorea schippii	NE	NE	NE	NE	0	0	0	0
+Chamaedorea seifrizii	NE	NE	Possibly Threatened,Threatened	NE	0	0	2	0
+Chamaedorea serpens	NE	NE	NE	NE	0	0	0	0
+Chamaedorea simplex	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea skutchii	NE	NE	NE	NE	0	0	0	0
+Chamaedorea smithii	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea stenocarpa	NE	NE	NE	NE	0	0	0	0
+Chamaedorea stolonifera	NE	NE	Threatened	Threatened	0	0	1	1
+Chamaedorea stricta	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea subjectifolia	NE	NE	NE	NE	0	0	0	0
+Chamaedorea tenerrima	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea tepejilote	NE	NE	NE	NE	0	0	0	0
+Chamaedorea tuerckheimii	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea undulatifolia	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea verapazensis	NE	NE	NE	NE	0	0	0	0
+Chamaedorea verecunda	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea volcanensis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Chamaedorea vulgata	NE	NE	NE	NE	0	0	0	0
+Chamaedorea warscewiczii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Chamaedorea whitelockiana	NE	NE	Threatened	NE	0	0	1	0
+Chamaedorea woodsoniana	NE	NE	NE	NE	0	0	0	0
+Chamaedorea zamorae	NE	NE	NE	NE	0	0	0	0
+Chamaerops humilis	NE	LC	NE	Not Threatened	0	1	0	1
+Chambeyronia lepidota	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Chambeyronia macrocarpa	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Chelyocarpus chuco	NE	NE	Possibly Threatened	NE	0	0	1	0
+Chelyocarpus dianeurus	NT	NE	Possibly Threatened	NE	1	0	1	0
+Chelyocarpus repens	NE	NE	Threatened	NE	0	0	1	0
+Chelyocarpus ulei	NE	NE	NE	NE	0	0	0	0
+Chuniophoenix hainanensis	EN	NE	Threatened	Threatened	1	0	1	1
+Chuniophoenix nana	NE	NE	Threatened	Threatened	0	0	1	1
+Clinosperma bracteale	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Clinosperma lanuginosa	NE	EN	NE	Threatened	0	1	0	1
+Clinosperma macrocarpa	NE	CR	NE	Threatened	0	1	0	1
+Clinosperma vaginata	NE	NT	NE	Possibly Threatened	0	1	0	1
+Clinostigma carolinense	NE	NE	NE	NE	0	0	0	0
+Clinostigma collegarum	NE	NE	NE	NE	0	0	0	0
+Clinostigma exorrhizum	NE	LC	Not Threatened	Not Threatened	0	1	1	1
+Clinostigma gronophyllum	NE	NE	NE	NE	0	0	0	0
+Clinostigma haerestigma	DD	NE	Data Deficient	NE	1	0	1	0
+Clinostigma harlandii	NT	NE	Possibly Threatened	NE	1	0	1	0
+Clinostigma onchorhynchum	NE	NE	NE	NE	0	0	0	0
+Clinostigma ponapense	NE	NE	NE	NE	0	0	0	0
+Clinostigma samoense	EN	NE	Threatened	NE	1	0	1	0
+Clinostigma savoryanum	NE	NE	NE	NE	0	0	0	0
+Clinostigma warburgii	NE	NE	NE	NE	0	0	0	0
+Coccothrinax acunana	NE	NE	Threatened	NE	0	0	1	0
+Coccothrinax alexandri	NE	NE	Threatened	NE	0	0	1	0
+Coccothrinax alta	NE	NE	NE	NE	0	0	0	0
+Coccothrinax argentata	NE	NE	Not Threatened	NE	0	0	1	0
+Coccothrinax argentea	NE	NE	NE	NE	0	0	0	0
+Coccothrinax baracoensis	NE	NE	Data Deficient	NE	0	0	1	0
+Coccothrinax barbadensis	NE	NE	NE	Not Threatened	0	0	0	1
+Coccothrinax bermudezii	NE	NE	Threatened	NE	0	0	1	0
+Coccothrinax borhidiana	CR	NE	Threatened	Threatened	1	0	1	1
+Coccothrinax boschiana	NE	NE	NE	NE	0	0	0	0
+Coccothrinax camagueyana	NE	NE	Threatened	NE	0	0	1	0
+Coccothrinax clarensis	NE	NE	Not Threatened	NE	0	0	1	0
+Coccothrinax concolor	NE	NE	NE	NE	0	0	0	0
+Coccothrinax crinita	EN	NE	Threatened	NE	1	0	1	0
+Coccothrinax cupularis	NE	NE	Threatened	NE	0	0	1	0
+Coccothrinax ekmanii	DD	NE	Data Deficient	NE	1	0	1	0
+Coccothrinax elegans	NE	NE	NE	NE	0	0	0	0
+Coccothrinax fagildei	NE	NE	Threatened	NE	0	0	1	0
+Coccothrinax fragrans	NE	NE	Data Deficient	NE	0	0	1	0
+Coccothrinax garciana	NE	NE	Threatened	NE	0	0	1	0
+Coccothrinax gracilis	NE	NE	NE	NE	0	0	0	0
+Coccothrinax guantanamensis	NE	NE	Not Threatened	NE	0	0	1	0
+Coccothrinax gundlachii	LC	NE	Not Threatened	NE	1	0	1	0
+Coccothrinax hioramii	NE	NE	Not Threatened	NE	0	0	1	0
+Coccothrinax inaguensis	DD	NE	Data Deficient	NE	1	0	1	0
+Coccothrinax jamaicensis	NE	NE	NE	NE	0	0	0	0
+Coccothrinax jimenezii	NE	NE	NE	NE	0	0	0	0
+Coccothrinax leonis	NE	NE	Threatened	NE	0	0	1	0
+Coccothrinax litoralis	NE	NE	Not Threatened	NE	0	0	1	0
+Coccothrinax macroglossa	NE	NE	Not Threatened	NE	0	0	1	0
+Coccothrinax microphylla	NE	NE	Threatened	NE	0	0	1	0
+Coccothrinax miraguama	NE	NE	Not Threatened	NE	0	0	1	0
+Coccothrinax moaensis	NE	NE	Threatened	NE	0	0	1	0
+Coccothrinax montana	NE	NE	NE	NE	0	0	0	0
+Coccothrinax munizii	NE	NE	Not Threatened	NE	0	0	1	0
+Coccothrinax muricata	NE	NE	Not Threatened	NE	0	0	1	0
+Coccothrinax nipensis	NE	NE	Threatened	NE	0	0	1	0
+Coccothrinax orientalis	NE	NE	Not Threatened	NE	0	0	1	0
+Coccothrinax pauciramosa	VU	NE	Threatened	NE	1	0	1	0
+Coccothrinax proctorii	NE	EN	NE	Threatened	0	1	0	1
+Coccothrinax pseudorigida	NE	NE	Threatened	NE	0	0	1	0
+Coccothrinax pumila	NE	NE	Data Deficient	NE	0	0	1	0
+Coccothrinax readii	NE	NE	NE	Threatened	0	0	0	1
+Coccothrinax rigida	NE	NE	Data Deficient	NE	0	0	1	0
+Coccothrinax salvatoris	NE	NE	Threatened	NE	0	0	1	0
+Coccothrinax saxicola	NE	NE	Not Threatened	NE	0	0	1	0
+Coccothrinax scoparia	NE	NE	NE	NE	0	0	0	0
+Coccothrinax spissa	NE	NE	NE	NE	0	0	0	0
+Coccothrinax torrida	NE	NE	NE	NE	0	0	0	0
+Coccothrinax trinitensis	NE	NE	Data Deficient	NE	0	0	1	0
+Coccothrinax victorinii	NE	NE	Threatened	NE	0	0	1	0
+Coccothrinax yunquensis	NE	NE	Threatened	NE	0	0	1	0
+Coccothrinax yuraguana	NE	NE	Not Threatened	NE	0	0	1	0
+Cocos nucifera	NE	NE	NE	NE	0	0	0	0
+Colpothrinax aphanopetala	NE	NE	NE	NE	0	0	0	0
+Colpothrinax cookii	NE	NE	NE	NE	0	0	0	0
+Colpothrinax wrightii	VU	NE	Threatened	NE	1	0	1	0
+Copernicia alba	NE	NE	NE	NE	0	0	0	0
+Copernicia baileyana	LC	NE	Not Threatened	NE	1	0	1	0
+Copernicia berteroana	NE	NE	NE	NE	0	0	0	0
+Copernicia brittonorum	VU	NE	Threatened	NE	1	0	1	0
+Copernicia cowellii	NE	NE	Threatened	NE	0	0	1	0
+Copernicia curbeloi	NE	NE	Threatened	NE	0	0	1	0
+Copernicia curtissii	NE	NE	Not Threatened	NE	0	0	1	0
+Copernicia ekmanii	EN	NE	Threatened	NE	1	0	1	0
+Copernicia fallaensis	NE	NE	Threatened	Threatened	0	0	1	1
+Copernicia gigas	VU	NE	Threatened	NE	1	0	1	0
+Copernicia glabrescens	NE	NE	Not Threatened	NE	0	0	1	0
+Copernicia hospita	NE	NE	Not Threatened	NE	0	0	1	0
+Copernicia humicola	NE	NE	Data Deficient	NE	0	0	1	0
+Copernicia longiglossa	NE	NE	Data Deficient	NE	0	0	1	0
+Copernicia macroglossa	NE	NE	Not Threatened	NE	0	0	1	0
+Copernicia molinetii	NE	NE	Data Deficient	NE	0	0	1	0
+Copernicia oxycalyx	NE	NE	NE	NE	0	0	0	0
+Copernicia prunifera	NE	NE	NE	NE	0	0	0	0
+Copernicia rigida	LC	NE	Not Threatened	NE	1	0	1	0
+Copernicia roigii	NE	NE	Not Threatened	NE	0	0	1	0
+Copernicia tectorum	NE	LC	NE	Not Threatened	0	1	0	1
+Copernicia yarey	NE	NE	Threatened	NE	0	0	1	0
+Corypha lecomtei	NE	NE	NE	NE	0	0	0	0
+Corypha microclada	VU	NE	Threatened	NE	1	0	1	0
+Corypha taliera	EW	NE	Extinct	NE	1	0	1	0
+Corypha umbraculifera	NE	NE	Data Deficient	NE	1	0	1	0
+Corypha utan	DD	LC	Data Deficient	Not Threatened	1	1	1	1
+Cryosophila bartlettii	EN	NE	Threatened	NE	1	0	1	0
+Cryosophila cookii	CR	NE	Threatened	NE	1	0	1	0
+Cryosophila grayumii	CR	NE	Threatened	NE	1	0	1	0
+Cryosophila guagara	NT	NE	Possibly Threatened	NE	1	0	1	0
+Cryosophila kalbreyeri	NT	NE	Possibly Threatened	NE	1	0	1	0
+Cryosophila macrocarpa	NE	NE	Data Deficient	NE	0	0	1	0
+Cryosophila nana	NT	NE	Possibly Threatened	NE	1	0	1	0
+Cryosophila stauracantha	NE	NE	NE	NE	0	0	0	0
+Cryosophila warscewiczii	NE	NE	NE	NE	0	0	0	0
+Cryosophila williamsii	EW	NE	Extinct	NE	1	0	1	0
+Cyphokentia cerifera	NE	NT	NE	Possibly Threatened	0	1	0	1
+Cyphokentia macrostachya	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Cyphophoenix alba	NE	LC	NE	Not Threatened	0	1	0	1
+Cyphophoenix elegans	NE	EN	Threatened	Threatened	0	1	1	1
+Cyphophoenix fulcita	NE	LC	NE	Not Threatened	0	1	0	1
+Cyphophoenix nucele	NE	VU	Threatened	Threatened	0	1	1	1
+Cyphosperma balansae	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Cyphosperma naboutinense	NE	CR	NE	Threatened	0	1	0	1
+Cyphosperma tanga	NE	CR	Threatened	Threatened	0	1	1	1
+Cyphosperma trichospadix	NE	VU	Threatened	Threatened	0	1	1	1
+Cyphosperma voutmelense	NE	EN	NE	Threatened	0	1	0	1
+Cyrtostachys bakeri	NE	NE	NE	NE	0	0	0	0
+Cyrtostachys barbata	NE	NE	NE	NE	0	0	0	0
+Cyrtostachys elegans	NE	NT	NE	Possibly Threatened	0	1	0	1
+Cyrtostachys excelsa	NE	NE	NE	NE	0	0	0	0
+Cyrtostachys glauca	NE	LC	NE	Not Threatened	0	1	0	1
+Cyrtostachys loriae	DD	NE	Data Deficient	NE	1	0	1	0
+Cyrtostachys renda	NE	NE	NE	NE	0	0	0	0
+Deckenia nobilis	NE	VU	Threatened	Threatened	0	1	1	1
+Desmoncus chinantlensis	NE	NE	NE	NE	0	0	0	0
+Desmoncus cirrhifer	NE	NE	Possibly Threatened	NE	0	0	1	0
+Desmoncus costaricensis	NE	NE	NE	NE	0	0	0	0
+Desmoncus giganteus	NE	NE	NE	NE	0	0	0	0
+Desmoncus horridus	NE	NE	NE	NE	0	0	0	0
+Desmoncus interjectus	NE	NE	NE	NE	0	0	0	0
+Desmoncus kunarius	NE	NE	NE	NE	0	0	0	0
+Desmoncus latisectus	NE	NE	Threatened	NE	0	0	1	0
+Desmoncus leptoclonos	NE	NE	NE	NE	0	0	0	0
+Desmoncus loretanus	NE	NE	NE	NE	0	0	0	0
+Desmoncus madrensis	NE	NE	NE	NE	0	0	0	0
+Desmoncus mitis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Desmoncus moorei	NE	NE	NE	NE	0	0	0	0
+Desmoncus myriacanthos	NE	NE	NE	NE	0	0	0	0
+Desmoncus obovoideus	NE	NE	NE	NE	0	0	0	0
+Desmoncus orthacanthos	NE	NE	NE	NE	0	0	0	0
+Desmoncus osensis	NE	NE	NE	NE	0	0	0	0
+Desmoncus parvulus	NE	NE	NE	NE	0	0	0	0
+Desmoncus polyacanthos	NE	NE	Possibly Threatened	NE	0	0	1	0
+Desmoncus prunifer	NE	NE	NE	NE	0	0	0	0
+Desmoncus pumilus	NE	NE	NE	NE	0	0	0	0
+Desmoncus setosus	NE	NE	NE	NE	0	0	0	0
+Desmoncus stans	NE	NE	Possibly Threatened	NE	0	0	1	0
+Desmoncus vacivus	NE	NE	NE	NE	0	0	0	0
+Dictyocaryum fuscum	NE	NE	Possibly Threatened	NE	0	0	1	0
+Dictyocaryum lamarckianum	NE	NE	NE	NE	0	0	0	0
+Dictyocaryum ptarianum	NE	NE	NE	NE	0	0	0	0
+Dictyosperma album	CR	NE	Threatened	NE	1	0	1	0
+Dransfieldia micrantha	NE	NE	NE	NE	0	0	0	0
+Drymophloeus litigiosus	NE	NE	NE	NE	0	0	0	0
+Drymophloeus oliviformis	DD	NE	Data Deficient	NE	1	0	1	0
+Drymophloeus whitmeeanus	NE	NE	NE	NE	0	0	0	0
+Dypsis acaulis	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis acuminum	NE	EN	NE	Threatened	0	1	0	1
+Dypsis albofarinosa	NE	CR	NE	Threatened	0	1	0	1
+Dypsis ambanjae	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis ambilaensis	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis ambositrae	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis andapae	NE	EN	Possibly Threatened	Threatened	0	1	1	1
+Dypsis andilamenensis	NE	CR	NE	Threatened	0	1	0	1
+Dypsis andrianatonga	NE	VU	Possibly Threatened	Threatened	0	1	1	1
+Dypsis angusta	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis angustifolia	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis anjae	NE	CR	NE	Threatened	0	1	0	1
+Dypsis ankaizinensis	NE	DD	NE	Data Deficient	0	1	0	1
+Dypsis ankirindro	NE	NT	NE	Possibly Threatened	0	1	0	1
+Dypsis antanambensis	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis aquatilis	NE	CR	Possibly Threatened	Threatened	0	1	1	1
+Dypsis arenarum	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis baronii	NE	LC	NE	Not Threatened	0	1	0	1
+Dypsis basilonga	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis beentjei	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis bejofo	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis bernieriana	NE	NE	Threatened	Threatened	0	0	1	1
+Dypsis betamponensis	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis betsimisarakae	NE	VU	NE	Threatened	0	1	0	1
+Dypsis boiviniana	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis bonsai	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis bosseri	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis brevicaulis	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis brittiana	NE	CR	NE	Threatened	0	1	0	1
+Dypsis cabadae	NE	NE	NE	NE	0	0	0	0
+Dypsis canaliculata	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis canescens	NE	DD	Threatened	Data Deficient	0	1	1	1
+Dypsis carlsmithii	NE	CR	NE	Threatened	0	1	0	1
+Dypsis catatiana	NE	LC	NE	Not Threatened	0	1	0	1
+Dypsis caudata	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis ceracea	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis commersoniana	NE	DD	Threatened	Data Deficient	0	1	1	1
+Dypsis concinna	NE	NT	Threatened	Possibly Threatened	0	1	1	1
+Dypsis confusa	NE	NT	Threatened	Possibly Threatened	0	1	1	1
+Dypsis cookei	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis coriacea	NE	NT	Threatened	Possibly Threatened	0	1	1	1
+Dypsis corniculata	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis coursii	NE	LC	Threatened	Not Threatened	0	1	1	1
+Dypsis crinita	NE	NT	Possibly Threatened	Possibly Threatened	0	1	1	1
+Dypsis culminis	NE	EN	NE	Threatened	0	1	0	1
+Dypsis curtisii	NE	EN	Possibly Threatened	Threatened	0	1	1	1
+Dypsis decaryi	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis decipiens	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis declivium	NE	NE	NE	NE	0	0	0	0
+Dypsis delicatula	NE	VU	NE	Threatened	0	1	0	1
+Dypsis digitata	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis dracaenoides	NE	CR	NE	Threatened	0	1	0	1
+Dypsis dransfieldii	NE	NT	Threatened	Possibly Threatened	0	1	1	1
+Dypsis elegans	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis eriostachys	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis faneva	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis fanjana	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis fasciculata	NE	NT	Threatened	Possibly Threatened	0	1	1	1
+Dypsis fibrosa	NE	LC	NE	Not Threatened	0	1	0	1
+Dypsis forficifolia	NE	LC	NE	Not Threatened	0	1	0	1
+Dypsis furcata	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis gautieri	NE	VU	NE	Threatened	0	1	0	1
+Dypsis glabrescens	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis gronophyllum	NE	CR	NE	Threatened	0	1	0	1
+Dypsis henrici	NE	DD	NE	Data Deficient	0	1	0	1
+Dypsis heteromorpha	NE	DD	Possibly Threatened	Data Deficient	0	1	1	1
+Dypsis heterophylla	NE	NT	Possibly Threatened	Possibly Threatened	0	1	1	1
+Dypsis hiarakae	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis hildebrandtii	NE	NT	Threatened	Possibly Threatened	0	1	1	1
+Dypsis hovomantsina	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis humbertii	NE	NE	Threatened	Threatened	0	1	3	1
+Dypsis humblotiana	NE	NE	NE	NE	0	0	0	0
+Dypsis humilis	NE	CR	NE	Threatened	0	1	0	1
+Dypsis ifanadianae	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis integra	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis intermedia	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis interrupta	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis jeremiei	NE	CR	NE	Threatened	0	1	0	1
+Dypsis jumelleana	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis laevis	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis lanceolata	VU	NE	Threatened	NE	1	0	1	0
+Dypsis lantzeana	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis lanuginosa	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis lastelliana	NE	LC	NE	Not Threatened	0	1	0	1
+Dypsis leptocheilos	NE	CR	NE	Threatened	0	1	0	1
+Dypsis leucomalla	NE	NE	NE	NE	0	0	0	0
+Dypsis ligulata	NE	DD	Threatened	Data Deficient	0	1	1	1
+Dypsis lilacina	NE	NE	NE	NE	0	0	0	0
+Dypsis linearis	NE	NE	Threatened	Threatened	0	1	2	1
+Dypsis lokohoensis	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis louvelii	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis lucens	NE	DD	Threatened	Data Deficient	0	1	1	1
+Dypsis lutea	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis lutescens	NE	NT	NE	Possibly Threatened	0	1	0	1
+Dypsis madagascariensis	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Dypsis mahia	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis makirae	NE	VU	NE	Threatened	0	1	0	1
+Dypsis malcomberi	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis mananjarensis	NE	NT	Threatened	Possibly Threatened	0	1	1	1
+Dypsis mangorensis	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis marojejyi	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis mcdonaldiana	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis metallica	NE	CR	NE	Threatened	0	1	0	1
+Dypsis minuta	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis mirabilis	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis mocquerysiana	NE	NT	Threatened	Possibly Threatened	0	1	1	1
+Dypsis monostachya	NE	DD	Threatened	Data Deficient	0	1	1	1
+Dypsis montana	NE	VU	NE	Threatened	0	1	0	1
+Dypsis moorei	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis nauseosa	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis nodifera	NE	LC	NE	Not Threatened	0	1	0	1
+Dypsis nossibensis	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis occidentalis	NE	VU	NE	Threatened	0	1	0	1
+Dypsis onilahensis	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis oreophila	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis oropedionis	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis ovobontsira	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis pachyramea	NE	LC	Threatened	Not Threatened	0	1	1	1
+Dypsis paludosa	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis pembana	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis perrieri	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis pervillei	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis pilulifera	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis pinnatifrons	NE	LC	NE	Not Threatened	0	1	0	1
+Dypsis plumosa	NE	DD	NE	Data Deficient	0	1	0	1
+Dypsis plurisecta	NE	DD	Threatened	Data Deficient	0	1	1	1
+Dypsis poivreana	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis prestoniana	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis procera	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis procumbens	NE	NT	NE	Possibly Threatened	0	1	0	1
+Dypsis psammophila	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis pulchella	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis pumila	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis pusilla	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis pustulata	NE	NE	NE	NE	0	0	0	0
+Dypsis rakotonasoloi	NE	CR	NE	Threatened	0	1	0	1
+Dypsis ramentacea	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis reflexa	NE	CR	NE	Threatened	0	1	0	1
+Dypsis remotiflora	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis rivularis	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis robusta	NE	CR	NE	Threatened	0	1	0	1
+Dypsis rosea	NE	NE	NE	NE	0	0	0	0
+Dypsis sahanofensis	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis saintelucei	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis sancta	NE	NE	NE	Threatened	0	1	1	1
+Dypsis sanctaemariae	NE	CR	Threatened	Threatened	0	2	2	2
+Dypsis scandens	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis schatzii	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis scottiana	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis serpentina	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis simianensis	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis singularis	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis soanieranae	NE	DD	Threatened	Data Deficient	0	1	1	1
+Dypsis spicata	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Dypsis subacaulis	NE	NE	NE	NE	0	0	0	0
+Dypsis tanalensis	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis tenuissima	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis thermarum	NE	VU	Possibly Threatened	Threatened	0	1	1	1
+Dypsis thiryana	NE	VU	Possibly Threatened	Threatened	0	1	1	1
+Dypsis thouarsiana	NE	DD	NE	Data Deficient	0	1	0	1
+Dypsis tokoravina	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis trapezoidea	NE	CR	Threatened	Threatened	0	1	1	1
+Dypsis tsaratananensis	NE	DD	Possibly Threatened	Data Deficient	0	1	1	1
+Dypsis tsaravoasira	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis turkii	NE	EN	NE	Threatened	0	1	0	1
+Dypsis utilis	NE	EN	Threatened	Threatened	0	1	1	1
+Dypsis viridis	NE	VU	Threatened	Threatened	0	1	1	1
+Dypsis vonitrandambo	NE	CR	NE	Threatened	0	1	0	1
+Elaeis guineensis	NE	LC	NE	Not Threatened	0	1	0	1
+Elaeis oleifera	NE	NE	NE	NE	0	0	0	0
+Eleiodoxa conferta	NE	NE	NE	NE	0	0	0	0
+Eremospatha barendii	NE	CR	NE	Threatened	0	1	0	1
+Eremospatha cabrae	NE	LC	NE	Not Threatened	0	1	0	1
+Eremospatha cuspidata	NE	LC	NE	Not Threatened	0	1	0	1
+Eremospatha dransfieldii	NE	EN	NE	Threatened	0	1	0	1
+Eremospatha haullevilleana	NE	LC	NE	Not Threatened	0	1	0	1
+Eremospatha hookeri	NE	LC	NE	Not Threatened	0	1	0	1
+Eremospatha laurentii	NE	LC	NE	Not Threatened	0	1	0	1
+Eremospatha macrocarpa	NE	LC	NE	Not Threatened	0	1	0	1
+Eremospatha quinquecostulata	NE	LC	NE	Not Threatened	0	1	0	1
+Eremospatha tessmanniana	NE	LC	NE	Not Threatened	0	1	0	1
+Eremospatha wendlandiana	NE	LC	NE	Not Threatened	0	1	0	1
+Eugeissona ambigua	NE	NE	NE	NE	0	0	0	0
+Eugeissona brachystachys	NE	NE	Possibly Threatened	NE	0	0	1	0
+Eugeissona insignis	NE	NE	NE	NE	0	0	0	0
+Eugeissona minor	NE	NE	NE	NE	0	0	0	0
+Eugeissona tristis	NE	NE	NE	NE	0	0	0	0
+Eugeissona utilis	NE	NE	NE	NE	0	0	0	0
+Euterpe broadwayi	NE	NE	NE	NE	0	0	0	0
+Euterpe catinga	NE	NE	Possibly Threatened	NE	0	0	1	0
+Euterpe edulis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Euterpe longibracteata	NE	NE	NE	NE	0	0	0	0
+Euterpe luminosa	VU	NE	Threatened	NE	1	0	1	0
+Euterpe oleracea	NE	NE	NE	NE	0	0	0	0
+Euterpe precatoria	NE	NE	NE	NE	0	0	0	0
+Gaussia attenuata	VU	NE	Threatened	Threatened	1	0	1	1
+Gaussia gomez-pompae	VU	NE	Threatened	Threatened	1	0	1	1
+Gaussia maya	VU	NE	Threatened	NE	1	0	1	0
+Gaussia princeps	NE	NE	Not Threatened	NE	0	0	1	0
+Gaussia spirituana	EN	NE	Threatened	NE	1	0	1	0
+Geonoma aspidiifolia	NE	NE	NE	NE	0	0	0	0
+Geonoma baculifera	NE	LC	NE	Not Threatened	0	1	0	1
+Geonoma bernalii	NE	NE	NE	NE	0	0	0	0
+Geonoma braunii	NE	NE	NE	NE	0	0	0	0
+Geonoma brenesii	NE	NE	NE	NE	0	0	0	0
+Geonoma brongniartii	NE	NE	NE	NE	0	0	0	0
+Geonoma calyptrogynoidea	NE	NE	NE	NE	0	0	0	0
+Geonoma camana	NE	NE	NE	NE	0	0	0	0
+Geonoma chlamydostachys	NE	NE	Threatened	NE	0	0	1	0
+Geonoma chococola	NE	NE	NE	NE	0	0	0	0
+Geonoma concinna	NE	NE	NE	NE	0	0	0	0
+Geonoma concinnoidea	NE	NE	NE	NE	0	0	0	0
+Geonoma congesta	NE	NE	Possibly Threatened	NE	0	0	1	0
+Geonoma cuneata	EN	NE	Threatened	NE	1	0	1	0
+Geonoma deneversii	NE	NE	NE	NE	0	0	0	0
+Geonoma deversa	NE	NE	Threatened	NE	0	0	1	0
+Geonoma dindoensis	NE	NE	NE	NE	0	0	0	0
+Geonoma divisa	NE	NE	Possibly Threatened	NE	0	0	1	0
+Geonoma elegans	NE	NE	Threatened	Not Threatened	0	0	1	1
+Geonoma epetiolata	NE	NE	NE	NE	0	0	0	0
+Geonoma euspatha	NE	NE	NE	NE	0	0	0	0
+Geonoma ferruginea	NE	NE	NE	NE	0	0	0	0
+Geonoma fosteri	NE	NE	NE	NE	0	0	0	0
+Geonoma frontinensis	NE	NE	NE	NE	0	0	0	0
+Geonoma galeanoae	NE	NE	NE	NE	0	0	0	0
+Geonoma gentryi	NE	NE	NE	NE	0	0	0	0
+Geonoma hollinensis	NE	NE	NE	NE	0	0	0	0
+Geonoma hugonis	NE	NE	NE	NE	0	0	0	0
+Geonoma interrupta	NE	NE	NE	NE	0	0	0	0
+Geonoma lanata	NE	NE	NE	NE	0	0	0	0
+Geonoma laxiflora	NE	NE	NE	NE	0	0	0	0
+Geonoma lehmannii	NE	NE	NE	NE	0	0	0	0
+Geonoma leptospadix	NE	NE	NE	NE	0	0	0	0
+Geonoma longepedunculata	NE	NE	NE	NE	0	0	0	0
+Geonoma longivaginata	NE	NE	NE	NE	0	0	0	0
+Geonoma macrostachys	NE	NE	NE	NE	0	0	0	0
+Geonoma maxima	NE	NE	NE	NE	0	0	0	0
+Geonoma monospatha	NE	NE	NE	NE	0	0	0	0
+Geonoma mooreana	NE	NE	NE	NE	0	0	0	0
+Geonoma multisecta	NE	NE	Threatened	NE	0	0	1	0
+Geonoma occidentalis	NE	NE	NE	NE	0	0	0	0
+Geonoma oldemanii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Geonoma oligoclona	NE	NE	NE	NE	0	0	0	0
+Geonoma operculata	NE	NE	NE	NE	0	0	0	0
+Geonoma orbignyana	NE	NE	Possibly Threatened	NE	0	0	3	0
+Geonoma paradoxa	NE	NE	Possibly Threatened	NE	0	0	1	0
+Geonoma pauciflora	NE	NE	Threatened	NE	0	0	1	0
+Geonoma peruviana	NE	NE	NE	NE	0	0	0	0
+Geonoma pinnatifrons	NE	NE	Threatened,Possibly Threatened	Near Threatened	0	0	2	1
+Geonoma poeppigiana	NE	NE	NE	NE	0	0	0	0
+Geonoma pohliana	NE	NE	Possibly Threatened,Threatened	NE	0	0	3	0
+Geonoma poiteauana	NE	NE	NE	NE	0	0	0	0
+Geonoma sanmartinensis	NE	NE	NE	NE	0	0	0	0
+Geonoma santanderensis	NE	NE	Threatened	NE	0	0	1	0
+Geonoma schizocarpa	NE	NE	NE	NE	0	0	0	0
+Geonoma schottiana	NE	NE	NE	Not Threatened	0	0	0	1
+Geonoma scoparia	NE	NE	Possibly Threatened	NE	0	0	1	0
+Geonoma simplicifrons	NE	NE	NE	NE	0	0	0	0
+Geonoma spinescens	NE	NE	NE	NE	0	0	0	0
+Geonoma stricta	NE	NE	Possibly Threatened	NE	0	0	1	0
+Geonoma talamancana	NE	NE	NE	NE	0	0	0	0
+Geonoma tenuissima	NE	NE	Possibly Threatened	NE	0	0	1	0
+Geonoma triandra	NE	NE	NE	NE	0	0	0	0
+Geonoma triglochin	NE	NE	NE	NE	0	0	0	0
+Geonoma trigona	NE	NE	Data Deficient	NE	0	0	1	0
+Geonoma umbraculiformis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Geonoma undata	NE	NE	Threatened,Possibly Threatened	Threatened	0	0	3	1
+Geonoma venosa	NE	NE	NE	NE	0	0	0	0
+Guihaia argyrata	NE	NE	Threatened	NE	0	0	1	0
+Guihaia grossifibrosa	NE	NE	Threatened	NE	0	0	1	0
+Guihaia lancifolia	NE	NE	NE	NE	0	0	0	0
+Hedyscepe canterburyana	VU	NE	Threatened	NE	1	0	1	0
+Hemithrinax compacta	NE	NE	Threatened	NE	0	0	1	0
+Hemithrinax ekmaniana	CR	NE	Threatened	NE	1	0	2	0
+Hemithrinax rivularis	VU	NE	Threatened	NE	1	0	2	0
+Heterospathe annectens	NE	NE	NE	NE	0	0	0	0
+Heterospathe arfakiana	NE	NE	NE	NE	0	0	0	0
+Heterospathe barfodii	NE	NE	NE	NE	0	0	0	0
+Heterospathe brevicaulis	NE	NE	NE	Threatened	0	0	0	1
+Heterospathe cagayanensis	NE	NE	NE	NE	0	0	0	0
+Heterospathe califrons	NE	NE	NE	Threatened	0	0	0	1
+Heterospathe clemensiae	NE	NE	NE	NE	0	0	0	0
+Heterospathe compsoclada	NE	NE	NE	NE	0	0	0	0
+Heterospathe delicatula	NE	NE	NE	NE	0	0	0	0
+Heterospathe dransfieldii	NE	NE	NE	Threatened	0	0	0	1
+Heterospathe elata	NE	NE	NE	NE	0	0	0	0
+Heterospathe elegans	NE	NE	NE	NE	0	0	0	0
+Heterospathe elmeri	NE	NE	Possibly Threatened	NE	0	0	1	0
+Heterospathe glabra	NE	NE	NE	NE	0	0	0	0
+Heterospathe glauca	NE	NE	NE	NE	0	0	0	0
+Heterospathe intermedia	NE	NE	NE	NE	0	0	0	0
+Heterospathe kajewskii	NE	NE	NE	NE	0	0	0	0
+Heterospathe ledermanniana	NE	NE	NE	NE	0	0	0	0
+Heterospathe lepidota	NE	NE	NE	NE	0	0	0	0
+Heterospathe longipes	NE	EN	Threatened	Threatened	0	1	1	1
+Heterospathe macgregorii	NE	NE	NE	NE	0	0	0	0
+Heterospathe minor	NE	NE	Possibly Threatened	NE	0	0	1	0
+Heterospathe muelleriana	NE	NE	NE	NE	0	0	0	0
+Heterospathe negrosensis	NE	NE	NE	NE	0	0	0	0
+Heterospathe obriensis	NE	NE	NE	NE	0	0	0	0
+Heterospathe parviflora	NE	NE	NE	NE	0	0	0	0
+Heterospathe philippinensis	NE	NE	NE	NE	0	0	0	0
+Heterospathe phillipsii	NE	EN	NE	Threatened	0	1	0	1
+Heterospathe pilosa	NE	NE	NE	NE	0	0	0	0
+Heterospathe porcata	NE	NE	NE	Data Deficient	0	0	0	1
+Heterospathe pulchra	NE	NE	NE	NE	0	0	0	0
+Heterospathe pullenii	NE	NE	NE	NE	0	0	0	0
+Heterospathe ramulosa	NE	NE	NE	NE	0	0	0	0
+Heterospathe salomonensis	NE	NE	NE	NE	0	0	0	0
+Heterospathe scitula	NE	NE	NE	Threatened	0	0	0	1
+Heterospathe sensisi	NE	NE	NE	NE	0	0	0	0
+Heterospathe sibuyanensis	NE	NE	NE	Threatened	0	0	0	1
+Heterospathe sphaerocarpa	NE	NE	NE	NE	0	0	0	0
+Heterospathe trispatha	NE	NE	NE	Threatened	0	0	0	1
+Heterospathe uniformis	NE	NE	NE	NE	0	0	0	0
+Heterospathe woodfordiana	NE	NE	Possibly Threatened	NE	0	0	1	0
+Howea belmoreana	VU	NE	Threatened	NE	1	0	1	0
+Howea forsteriana	VU	NE	Threatened	NE	1	0	1	0
+Hydriastele affinis	NE	NE	NE	NE	0	0	0	0
+Hydriastele aprica	NE	NE	NE	NE	0	0	0	0
+Hydriastele beccariana	NE	NE	NE	NE	0	0	0	0
+Hydriastele beguinii	NE	NE	NE	NE	0	0	0	0
+Hydriastele biakensis	NE	NE	NE	Threatened	0	0	0	1
+Hydriastele boumae	NE	LC	Data Deficient	Not Threatened	0	1	1	1
+Hydriastele brassii	NE	NE	NE	NE	0	0	0	0
+Hydriastele cariosa	NE	NE	NE	NE	0	0	0	0
+Hydriastele carrii	NE	NE	NE	NE	0	0	0	0
+Hydriastele chaunostachys	NE	NE	NE	NE	0	0	0	0
+Hydriastele costata	NE	NE	NE	NE	0	0	0	0
+Hydriastele cyclopensis	NE	NE	NE	NE	0	0	0	0
+Hydriastele cylindrocarpa	NE	NE	NE	NE	0	0	0	0
+Hydriastele dransfieldii	NE	NE	NE	NE	0	0	0	0
+Hydriastele flabellata	NE	NE	NE	NE	0	0	0	0
+Hydriastele geelvinkiana	NE	NE	NE	NE	0	0	0	0
+Hydriastele gibbsiana	NE	NE	NE	NE	0	0	0	0
+Hydriastele gracilis	NE	NE	NE	NE	0	0	0	0
+Hydriastele hombronii	DD	NE	Data Deficient	NE	1	0	1	0
+Hydriastele kasesa	NE	NE	NE	NE	0	0	0	0
+Hydriastele kjellbergii	NE	NE	NE	NE	0	0	0	0
+Hydriastele ledermanniana	NE	NE	NE	NE	0	0	0	0
+Hydriastele lepidota	NE	NE	NE	NE	0	0	0	0
+Hydriastele longispatha	NE	NE	NE	NE	0	0	0	0
+Hydriastele lurida	NE	NE	NE	NE	0	0	0	0
+Hydriastele macrospadix	NE	NE	NE	NE	0	0	0	0
+Hydriastele manusii	NE	NE	NE	NE	0	0	0	0
+Hydriastele mayrii	NE	NE	NE	NE	0	0	0	0
+Hydriastele micrantha	NE	NE	NE	NE	0	0	0	0
+Hydriastele microcarpa	NE	NE	NE	NE	0	0	0	0
+Hydriastele microspadix	NE	NE	NE	NE	0	0	0	0
+Hydriastele moluccana	NE	NE	NE	NE	0	0	0	0
+Hydriastele montana	NE	NE	NE	NE	0	0	0	0
+Hydriastele nannostachys	NE	NE	NE	NE	0	0	0	0
+Hydriastele oxypetala	NE	NE	NE	NE	0	0	0	0
+Hydriastele palauensis	NE	NE	NE	NE	0	0	0	0
+Hydriastele pinangoides	NE	NE	NE	NE	0	0	0	0
+Hydriastele pleurocarpa	NE	NE	NE	NE	0	0	0	0
+Hydriastele procera	NE	NE	NE	NE	0	0	0	0
+Hydriastele ramsayi	NE	NE	NE	NE	0	0	0	0
+Hydriastele rheophytica	NE	NE	NE	NE	0	0	0	0
+Hydriastele rhopalocarpa	NE	NE	NE	NE	0	0	0	0
+Hydriastele rostrata	NE	NE	NE	NE	0	0	0	0
+Hydriastele sarasinorum	NE	NE	NE	NE	0	0	0	0
+Hydriastele selebica	NE	NE	NE	NE	0	0	0	0
+Hydriastele valida	NE	NE	NE	NE	0	0	0	0
+Hydriastele variabilis	NE	NE	NE	NE	0	0	0	0
+Hydriastele vitiensis	NE	VU	Threatened	Threatened	0	1	1	1
+Hydriastele wendlandiana	NE	NE	NE	NE	0	0	0	0
+Hyophorbe amaricaulis	CR	NE	Threatened	NE	1	0	1	0
+Hyophorbe indica	EN	NE	Threatened	NE	1	0	1	0
+Hyophorbe lagenicaulis	CR	NE	Threatened	NE	1	0	1	0
+Hyophorbe vaughanii	CR	NE	Threatened	NE	1	0	1	0
+Hyophorbe verschaffeltii	CR	NE	Threatened	NE	1	0	1	0
+Hyospathe chiriqui	NE	NE	NE	NE	0	0	0	0
+Hyospathe elegans	NE	NE	Threatened	NE	0	0	1	0
+Hyospathe frontinensis	NE	NE	Threatened	NE	0	0	1	0
+Hyospathe macrorhachis	NT	NE	Possibly Threatened	NE	1	0	1	0
+Hyospathe peruviana	NE	NE	NE	NE	0	0	0	0
+Hyospathe pittieri	NE	NE	NE	NE	0	0	0	0
+Hyospathe wendlandiana	NE	NE	Threatened	NE	0	0	1	0
+Hyphaene compressa	NE	LC	NE	Not Threatened	0	1	0	1
+Hyphaene coriacea	NE	LC	NE	Not Threatened	0	1	0	1
+Hyphaene dichotoma	NT	NE	Possibly Threatened	NE	1	0	1	0
+Hyphaene guineensis	NE	LC	NE	Not Threatened	0	1	0	1
+Hyphaene macrosperma	NE	DD	NE	Data Deficient	0	1	0	1
+Hyphaene petersiana	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Hyphaene reptans	NE	DD	NE	Data Deficient	0	1	0	1
+Hyphaene thebaica	NE	LC	NE	Not Threatened	0	1	0	1
+Iguanura ambigua	NE	NE	Threatened	NE	0	0	1	0
+Iguanura asli	NE	NE	NE	NE	0	0	0	0
+Iguanura belumensis	NE	NE	NE	NE	0	0	0	0
+Iguanura bicornis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Iguanura borneensis	NE	NE	NE	NE	0	0	0	0
+Iguanura cemurung	NE	NE	NE	NE	0	0	0	0
+Iguanura chaiana	NE	NE	Threatened	NE	0	0	1	0
+Iguanura corniculata	NE	NE	Threatened	NE	0	0	1	0
+Iguanura curvata	NE	NE	Possibly Threatened	NE	0	0	1	0
+Iguanura diffusa	NE	NE	NE	NE	0	0	0	0
+Iguanura divergens	NE	NE	NE	NE	0	0	0	0
+Iguanura elegans	NE	NE	Threatened	NE	0	0	1	0
+Iguanura geonomiformis	NE	NE	NE	NE	0	0	0	0
+Iguanura humilis	NE	NE	NE	NE	0	0	0	0
+Iguanura kelantanensis	NE	NE	NE	NE	0	0	0	0
+Iguanura leucocarpa	NE	NE	Threatened	NE	0	0	1	0
+Iguanura macrostachya	NE	NE	NE	NE	0	0	0	0
+Iguanura melinauensis	NE	NE	Threatened	NE	0	0	1	0
+Iguanura minor	NE	NE	Threatened	NE	0	0	1	0
+Iguanura mirabilis	NE	NE	NE	NE	0	0	0	0
+Iguanura myochodoides	NE	NE	Threatened	NE	0	0	1	0
+Iguanura palmuncula	NE	NE	Threatened	NE	0	0	1	0
+Iguanura parvula	NE	NE	NE	NE	0	0	0	0
+Iguanura perdana	NE	NE	NE	NE	0	0	0	0
+Iguanura piahensis	NE	NE	NE	NE	0	0	0	0
+Iguanura polymorpha	NE	NE	Possibly Threatened	NE	0	0	1	0
+Iguanura prolifera	NE	NE	NE	NE	0	0	0	0
+Iguanura remotiflora	NE	NE	Threatened	NE	0	0	1	0
+Iguanura sanderiana	NE	NE	Threatened	NE	0	0	1	0
+Iguanura speciosa	NE	NE	NE	NE	0	0	0	0
+Iguanura tenuis	NE	NE	NE	NE	0	0	0	0
+Iguanura thalangensis	NE	NE	NE	NE	0	0	0	0
+Iguanura wallichiana	NE	NE	NE	NE	0	0	0	0
+Iriartea deltoidea	NE	LC	NE	Not Threatened	0	1	0	1
+Iriartella setigera	NE	NE	NE	NE	0	0	0	0
+Iriartella stenocarpa	NE	NE	NE	NE	0	0	0	0
+Itaya amicorum	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Jailoloa halmaherensis	NE	NE	NE	NE	0	0	0	0
+Johannesteijsmannia altifrons	NE	NE	Threatened	NE	0	0	1	0
+Johannesteijsmannia lanceolata	NE	NE	Threatened	NE	0	0	1	0
+Johannesteijsmannia magnifica	NE	NE	Threatened	NE	0	0	1	0
+Johannesteijsmannia perakensis	NE	NE	Threatened	NE	0	0	1	0
+Juania australis	VU	NE	Threatened	NE	1	0	1	0
+Jubaea chilensis	VU	NE	Threatened	NE	1	0	1	0
+Jubaeopsis caffra	VU	NE	Threatened	NE	1	0	1	0
+Kentiopsis magnifica	NE	EN	NE	Threatened	0	1	0	1
+Kentiopsis oliviformis	NE	EN	Threatened	Threatened	0	1	1	1
+Kentiopsis piersoniorum	NE	VU	NE	Threatened	0	1	0	1
+Kentiopsis pyriformis	NE	EN	NE	Threatened	0	1	0	1
+Kerriodoxa elegans	NE	NE	Possibly Threatened	NE	0	0	1	0
+Korthalsia angustifolia	NE	NE	NE	NE	0	0	0	0
+Korthalsia bejaudii	NE	NE	Data Deficient	NE	0	0	1	0
+Korthalsia brassii	NE	NE	NE	NE	0	0	0	0
+Korthalsia celebica	NE	NE	NE	NE	0	0	0	0
+Korthalsia cheb	NE	NE	NE	NE	0	0	0	0
+Korthalsia concolor	NE	NE	NE	NE	0	0	0	0
+Korthalsia debilis	NE	NE	NE	NE	0	0	0	0
+Korthalsia echinometra	NE	NE	NE	NE	0	0	0	0
+Korthalsia ferox	NE	NE	NE	NE	0	0	0	0
+Korthalsia flagellaris	NE	NE	NE	NE	0	0	0	0
+Korthalsia furcata	NE	NE	NE	NE	0	0	0	0
+Korthalsia furtadoana	NE	NE	NE	NE	0	0	0	0
+Korthalsia hispida	NE	NE	NE	NE	0	0	0	0
+Korthalsia jala	NE	NE	NE	NE	0	0	0	0
+Korthalsia junghuhnii	NE	NE	Threatened	NE	0	0	1	0
+Korthalsia laciniosa	NE	NE	Not Threatened	NE	0	0	1	0
+Korthalsia lanceolata	NE	NE	Threatened	NE	0	0	1	0
+Korthalsia merrillii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Korthalsia minor	NE	NE	NE	NE	0	0	0	0
+Korthalsia paucijuga	NE	NE	NE	NE	0	0	0	0
+Korthalsia rigida	NE	NE	NE	NE	0	0	0	0
+Korthalsia robusta	NE	NE	NE	NE	0	0	0	0
+Korthalsia rogersii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Korthalsia rostrata	NE	NE	NE	NE	0	0	0	0
+Korthalsia scaphigeroides	NE	NE	NE	NE	0	0	0	0
+Korthalsia scortechinii	NE	NE	NE	NE	0	0	0	0
+Korthalsia tenuissima	NE	NE	Threatened	NE	0	0	1	0
+Korthalsia zippelii	NE	NE	NE	NE	0	0	0	0
+Laccospadix australasicus	NE	NE	NE	NE	0	0	0	0
+Laccosperma acutiflorum	NE	LC	NE	Not Threatened	0	1	0	1
+Laccosperma cristalensis	NE	DD	NE	Data Deficient	0	1	0	1
+Laccosperma korupense	NE	NE	NE	NE	0	0	0	0
+Laccosperma laeve	NE	LC	NE	Not Threatened	0	1	0	1
+Laccosperma opacum	NE	LC	NE	Not Threatened	0	1	0	1
+Laccosperma robustum	NE	LC	NE	Not Threatened	0	1	0	1
+Laccosperma secundiflorum	NE	LC	NE	Not Threatened	0	1	0	1
+Lanonia acaulis	NE	NE	NE	NE	0	0	0	0
+Lanonia calciphila	NE	NE	Threatened,Possibly Threatened	NE	0	0	3	0
+Lanonia centralis	NE	NE	NE	NE	0	0	0	0
+Lanonia dasyantha	VU	NE	Threatened	NE	1	0	1	0
+Lanonia gracilis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Lanonia hainanensis	NE	NE	NE	NE	0	0	0	0
+Lanonia hexasepala	NE	NE	Threatened	NE	0	0	1	0
+Lanonia magalonii	NE	NE	NE	NE	0	0	0	0
+Latania loddigesii	EN	NE	Threatened	NE	1	0	1	0
+Latania lontaroides	EN	NE	Threatened	NE	1	0	1	0
+Latania verschaffeltii	EN	NE	Threatened	NE	1	0	1	0
+Lemurophoenix halleuxii	NE	EN	Threatened	Threatened	0	1	1	1
+Leopoldinia piassaba	NE	NE	Possibly Threatened	NE	0	0	1	0
+Leopoldinia pulchra	NE	NE	Possibly Threatened	NE	0	0	1	0
+Lepidocaryum tenue	NE	NE	Possibly Threatened	NE	0	0	1	0
+Lepidorrhachis mooreana	NE	NE	Threatened	NE	0	0	1	0
+Leucothrinax morrisii	NE	NE	Not Threatened	Not Threatened	0	0	1	1
+Licuala acuminata	NE	NE	NE	NE	0	0	0	0
+Licuala acutifida	NE	NE	Possibly Threatened	NE	0	0	1	0
+Licuala adscendens	NE	NE	NE	NE	0	0	0	0
+Licuala ahlidurii	NE	NE	NE	NE	0	0	0	0
+Licuala angustiloba	NE	NE	NE	NE	0	0	0	0
+Licuala anomala	NE	NE	NE	NE	0	0	0	0
+Licuala aruensis	NE	NE	NE	NE	0	0	0	0
+Licuala atrovirens	NE	NE	NE	Data Deficient	0	0	0	1
+Licuala atroviridis	NE	NE	NE	NE	0	0	0	0
+Licuala averyanovii	NE	NE	NE	NE	0	0	0	0
+Licuala bachmaensis	NE	NE	NE	NE	0	0	0	0
+Licuala bacularia	NE	NE	NE	NE	0	0	0	0
+Licuala bayana	NE	NE	NE	NE	0	0	0	0
+Licuala beccariana	NE	NE	NE	NE	0	0	0	0
+Licuala bellatula	NE	NE	NE	NE	0	0	0	0
+Licuala bidentata	NE	NE	NE	Not Threatened	0	0	0	1
+Licuala bidoupensis	NE	NE	NE	NE	0	0	0	0
+Licuala bifida	NE	NE	NE	NE	0	0	0	0
+Licuala bintulensis	NE	NE	NE	Possibly Threatened	0	0	0	1
+Licuala bissula	NE	NE	NE	NE	0	0	0	0
+Licuala borneensis	NE	EN	NE	Threatened	0	1	0	1
+Licuala bracteata	NE	NE	NE	NE	0	0	0	0
+Licuala brevicalyx	NE	NE	NE	NE	0	0	0	0
+Licuala bruneiana	NE	NE	NE	Threatened	0	0	0	1
+Licuala burretii	NE	NE	NE	Threatened	0	0	0	1
+Licuala cabalionii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Licuala cameronensis	NE	NE	NE	NE	0	0	0	0
+Licuala campestris	NE	NE	NE	Not Threatened	0	0	0	1
+Licuala cattienensis	NE	NE	NE	NE	0	0	0	0
+Licuala celebica	NE	NE	NE	NE	0	0	0	0
+Licuala chaiana	NE	NE	NE	Data Deficient	0	0	0	1
+Licuala collina	NE	NE	NE	Threatened	0	0	0	1
+Licuala concinna	NE	NE	NE	NE	0	0	0	0
+Licuala cordata	NE	NE	NE	Threatened	0	0	0	1
+Licuala corneri	NE	NE	Threatened	NE	0	0	1	0
+Licuala crassiflora	NE	NE	NE	NE	0	0	0	0
+Licuala dakrongensis	NE	NE	NE	NE	0	0	0	0
+Licuala debilis	NE	NE	NE	NE	0	0	0	0
+Licuala densiflora	NE	NE	NE	Threatened	0	0	0	1
+Licuala distans	NE	NE	NE	NE	0	0	0	0
+Licuala egregia	NE	NE	NE	NE	0	0	0	0
+Licuala elegans	NE	NE	NE	NE	0	0	0	0
+Licuala ellipsoidalis	NE	NE	NE	NE	0	0	0	0
+Licuala elliptica	NE	NE	NE	Threatened	0	0	0	1
+Licuala exigua	NE	NE	NE	Data Deficient	0	0	0	1
+Licuala ferruginea	NE	NE	NE	NE	0	0	0	0
+Licuala ferruginoides	NE	NE	NE	NE	0	0	0	0
+Licuala flammula	NE	NE	NE	Threatened	0	0	0	1
+Licuala flavida	NE	NE	NE	NE	0	0	0	0
+Licuala flexuosa	NE	NE	NE	NE	0	0	0	0
+Licuala fordiana	NE	NE	NE	Not Threatened	0	0	0	1
+Licuala fractiflexa	NE	NE	NE	NE	0	0	0	0
+Licuala gjellerupii	NE	NE	NE	NE	0	0	0	0
+Licuala glaberrima	NE	NE	Possibly Threatened	NE	0	0	1	0
+Licuala glabra	NE	NE	NE	Possibly Threatened	0	0	0	1
+Licuala graminifolia	NE	NE	NE	NE	0	0	0	0
+Licuala grandiflora	NE	NE	NE	NE	0	0	0	0
+Licuala grandis	NE	NE	NE	NE	0	0	0	0
+Licuala hallieriana	NE	NE	Threatened	Threatened	0	0	1	1
+Licuala insignis	NE	NE	NE	NE	0	0	0	0
+Licuala intermedia	NE	NE	NE	Not Threatened	0	0	0	1
+Licuala kamarudinii	NE	NE	NE	NE	0	0	0	0
+Licuala kemamanensis	NE	NE	Threatened	NE	0	0	1	0
+Licuala khoonmengii	NE	NE	NE	NE	0	0	0	0
+Licuala kiahii	NE	NE	Threatened	NE	0	0	1	0
+Licuala kingiana	NE	NE	NE	NE	0	0	0	0
+Licuala klossii	NE	NE	NE	NE	0	0	0	0
+Licuala kuchingensis	NE	NE	NE	Threatened	0	0	0	1
+Licuala kunstleri	NE	NE	NE	NE	0	0	0	0
+Licuala lambii	NE	NE	NE	Data Deficient	0	0	0	1
+Licuala lanata	NE	NE	Threatened	Threatened	0	0	1	1
+Licuala lanuginosa	NE	NE	Threatened	NE	0	0	1	0
+Licuala lauterbachii	NE	NE	NE	NE	0	0	0	0
+Licuala leopoldii	NE	NE	NE	Data Deficient	0	0	0	1
+Licuala leprosa	NE	NE	NE	NE	0	0	0	0
+Licuala leptocalyx	NE	NE	NE	NE	0	0	0	0
+Licuala leucocarpa	NE	NE	NE	Data Deficient	0	0	0	1
+Licuala linearis	NE	NE	NE	NE	0	0	0	0
+Licuala longicalycata	NE	NE	Threatened	NE	0	0	1	0
+Licuala longiflora	NE	NE	NE	NE	0	0	0	0
+Licuala longipes	NE	NE	NE	NE	0	0	0	0
+Licuala longispadix	NE	NE	Threatened	NE	0	0	1	0
+Licuala macrantha	NE	NE	NE	NE	0	0	0	0
+Licuala maculata	NE	NE	NE	Data Deficient	0	0	0	1
+Licuala magna	NE	NE	NE	NE	0	0	0	0
+Licuala malajana	NE	LC	Threatened	Not Threatened	0	1	1	1
+Licuala manglaensis	NE	NE	NE	NE	0	0	0	0
+Licuala mattanensis	NE	NE	NE	Threatened	0	0	0	1
+Licuala meijeri	NE	NE	NE	Possibly Threatened	0	0	0	1
+Licuala merguensis	NE	NE	NE	NE	0	0	0	0
+Licuala micholitzii	NE	NE	NE	Threatened	0	0	0	1
+Licuala micrantha	NE	NE	NE	NE	0	0	0	0
+Licuala mirabilis	NE	NE	Threatened	NE	0	0	1	0
+Licuala miriensis	NE	NE	NE	Threatened	0	0	0	1
+Licuala modesta	NE	NE	Threatened	NE	0	0	1	0
+Licuala montana	NE	NE	NE	NE	0	0	0	0
+Licuala moszkowskiana	NE	NE	NE	NE	0	0	0	0
+Licuala moyseyi	NE	NE	Threatened	NE	0	0	1	0
+Licuala mukahensis	NE	NE	NE	Threatened	0	0	0	1
+Licuala mustapana	NE	NE	NE	NE	0	0	0	0
+Licuala nana	NE	NE	NE	NE	0	0	0	0
+Licuala naumannii	NE	NE	NE	NE	0	0	0	0
+Licuala naumoniensis	NE	NE	NE	NE	0	0	0	0
+Licuala olivifera	NE	NE	NE	Not Threatened	0	0	0	1
+Licuala oliviformis	NE	NE	NE	NE	0	0	0	0
+Licuala oninensis	NE	NE	NE	NE	0	0	0	0
+Licuala orbicularis	NE	NE	NE	Threatened	0	0	0	1
+Licuala oryzoides	NE	NE	NE	Data Deficient	0	0	0	1
+Licuala pachycalyx	NE	NE	NE	NE	0	0	0	0
+Licuala pahangensis	NE	NE	Threatened	NE	0	0	1	0
+Licuala palas	NE	NE	NE	NE	0	0	0	0
+Licuala paludosa	NE	NE	NE	Threatened	0	0	0	1
+Licuala parviflora	NE	NE	NE	NE	0	0	0	0
+Licuala patens	NE	NE	NE	NE	0	0	0	0
+Licuala paucisecta	NE	NE	NE	Threatened	0	0	0	1
+Licuala peekelii	NE	NE	NE	NE	0	0	0	0
+Licuala peltata	NE	NE	NE	NE	0	0	0	0
+Licuala penduliflora	NE	NE	NE	NE	0	0	0	0
+Licuala petiolulata	NE	NE	NE	Not Threatened	0	0	0	1
+Licuala pilosa	NE	NE	NE	Data Deficient	0	0	0	1
+Licuala pitta	NE	NE	NE	NE	0	0	0	0
+Licuala platydactyla	NE	NE	NE	NE	0	0	0	0
+Licuala polyschista	NE	DD	NE	Data Deficient	0	1	0	1
+Licuala poonsakii	NE	NE	NE	NE	0	0	0	0
+Licuala pseudovalida	NE	NE	NE	NE	0	0	0	0
+Licuala pulchella	NE	NE	NE	NE	0	0	0	0
+Licuala pumila	NE	NE	Possibly Threatened	NE	0	0	1	0
+Licuala punctulata	NE	NE	NE	Threatened	0	0	0	1
+Licuala pusilla	NE	NE	Threatened	NE	0	0	1	0
+Licuala radula	NE	NE	NE	NE	0	0	0	0
+Licuala ramsayi	NE	NE	NE	NE	0	0	0	0
+Licuala reptans	NE	NE	NE	Data Deficient	0	0	0	1
+Licuala rheophytica	NE	NE	NE	Threatened	0	0	0	1
+Licuala ridleyana	NE	NE	Threatened,Possibly Threatened	NE	0	0	3	0
+Licuala robinsoniana	NE	NE	Possibly Threatened	NE	0	0	1	0
+Licuala robusta	NE	NE	NE	NE	0	0	0	0
+Licuala rubiginosa	NE	NE	NE	Threatened	0	0	0	1
+Licuala rumphii	NE	NE	NE	NE	0	0	0	0
+Licuala ruthiae	NE	NE	NE	NE	0	0	0	0
+Licuala sabahana	NE	NE	NE	Threatened	0	0	0	1
+Licuala sallehana	NE	NE	NE	NE	0	0	0	0
+Licuala sarawakensis	NE	NE	NE	Threatened	0	0	0	1
+Licuala scortechinii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Licuala simplex	NE	NE	NE	NE	0	0	0	0
+Licuala spathellifera	NE	NE	NE	Threatened	0	0	0	1
+Licuala spectabilis	NE	NE	NE	NE	0	0	0	0
+Licuala spicata	NE	NE	NE	Threatened	0	0	0	1
+Licuala spinosa	NE	NE	NE	Not Threatened	0	0	0	1
+Licuala steinii	NE	DD	NE	Data Deficient	0	1	0	1
+Licuala stipitata	NE	NE	NE	NE	0	0	0	0
+Licuala stongensis	NE	NE	NE	NE	0	0	0	0
+Licuala tanycola	NE	NE	NE	NE	0	0	0	0
+Licuala taynguyensis	NE	NE	NE	NE	0	0	0	0
+Licuala telifera	NE	LC	NE	Not Threatened	0	1	0	1
+Licuala tenuissima	NE	NE	NE	NE	0	0	0	0
+Licuala terengganuensis	NE	NE	NE	NE	0	0	0	0
+Licuala thoana	NE	NE	NE	NE	0	0	0	0
+Licuala tiomanensis	NE	NE	Threatened	NE	0	0	1	0
+Licuala triphylla	NE	NE	NE	Not Threatened	0	0	0	1
+Licuala urciflora	NE	NE	NE	NE	0	0	0	0
+Licuala whitmorei	NE	NE	NE	NE	0	0	0	0
+Licuala yiiana	NE	NE	NE	Data Deficient	0	0	0	1
+Linospadix albertisianus	NE	NE	NE	NE	0	0	0	0
+Linospadix apetiolatus	NE	NE	NE	NE	0	0	0	0
+Linospadix caninus	NE	NE	NE	NE	0	0	0	0
+Linospadix microcaryus	NE	NE	NE	NE	0	0	0	0
+Linospadix minor	NE	NE	NE	NE	0	0	0	0
+Linospadix monostachyos	NE	NE	NE	NE	0	0	0	0
+Linospadix palmerianus	NE	NT	NE	Possibly Threatened	0	1	0	1
+Livistona alfredii	NT	NE	Possibly Threatened	NE	1	0	1	0
+Livistona australis	NE	NE	NE	NE	0	0	0	0
+Livistona benthamii	NE	NE	NE	NE	0	0	0	0
+Livistona boninensis	NE	NE	NE	NE	0	0	0	0
+Livistona carinensis	VU	NE	Threatened	NE	1	0	1	0
+Livistona chinensis	NE	NE	NE	NE	0	0	0	0
+Livistona concinna	NE	NE	NE	NE	0	0	0	0
+Livistona decora	NE	NE	NE	NE	0	0	0	0
+Livistona drudei	EN	NE	Threatened	NE	1	0	1	0
+Livistona eastonii	NE	NE	NE	NE	0	0	0	0
+Livistona endauensis	NT	NE	Possibly Threatened	NE	1	0	1	0
+Livistona exigua	NE	NE	Possibly Threatened	NE	0	0	1	0
+Livistona fulva	NE	NE	NE	NE	0	0	0	0
+Livistona halongensis	NE	NE	NE	NE	0	0	0	0
+Livistona humilis	NE	NE	NE	NE	0	0	0	0
+Livistona inermis	NE	NE	NE	NE	0	0	0	0
+Livistona jenkinsiana	NE	NE	Threatened	NE	0	0	1	0
+Livistona lanuginosa	NE	NE	Threatened	NE	0	0	1	0
+Livistona lorophylla	NE	LC	NE	Not Threatened	0	1	0	1
+Livistona mariae	NT	NE	Possibly Threatened	NE	1	0	1	0
+Livistona muelleri	NE	NE	NE	NE	0	0	0	0
+Livistona nasmophila	NE	NE	NE	NE	0	0	0	0
+Livistona nitida	NE	NE	NE	NE	0	0	0	0
+Livistona rigida	NE	NE	NE	NE	0	0	0	0
+Livistona saribus	DD	NE	Data Deficient	NE	1	0	1	0
+Livistona speciosa	NE	NE	NE	NE	0	0	0	0
+Livistona tahanensis	NT	NE	Possibly Threatened	NE	1	0	1	0
+Livistona victoriae	NE	NE	NE	NE	0	0	0	0
+Lodoicea maldivica	NE	EN	Threatened	Threatened	0	1	1	1
+Loxococcus rupicola	CR	NE	Threatened	NE	1	0	1	0
+Manicaria martiana	NE	NE	NE	NE	0	0	0	0
+Manicaria saccifera	NE	NE	NE	NE	0	0	0	0
+Manjekia maturbongsii	NE	NE	NE	Threatened	0	0	0	1
+Marojejya darianii	NE	EN	Threatened	Threatened	0	1	1	1
+Marojejya insignis	NE	LC	Threatened	Not Threatened	0	1	1	1
+Masoala kona	NE	EN	Threatened	Threatened	0	1	1	1
+Masoala madagascariensis	NE	CR	Threatened	Threatened	0	1	1	1
+Mauritia carana	NT	NE	Possibly Threatened	NE	1	0	1	0
+Mauritia flexuosa	NE	NE	NE	NE	0	0	0	0
+Mauritiella aculeata	NE	NE	Possibly Threatened	NE	0	0	1	0
+Mauritiella armata	NE	NE	NE	NE	0	0	0	0
+Mauritiella macroclada	NE	NE	NE	NE	0	0	0	0
+Mauritiella pumila	NE	NE	NE	NE	0	0	0	0
+Maxburretia furtadoana	NE	NE	Threatened	NE	0	0	1	0
+Maxburretia gracilis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Maxburretia rupicola	NE	NE	Threatened	NE	0	0	1	0
+Medemia argun	CR	NE	Possibly Threatened,Threatened	NE	1	0	2	0
+Metroxylon amicarum	NE	NT	Threatened	Possibly Threatened	0	1	1	1
+Metroxylon paulcoxii	NE	NE	NE	NE	0	0	0	0
+Metroxylon sagu	NE	NE	NE	NE	0	0	0	0
+Metroxylon salomonense	NE	NE	NE	NE	0	0	0	0
+Metroxylon upoluense	NE	NE	NE	NE	0	0	0	0
+Metroxylon vitiense	NE	EN	NE	Threatened	0	1	0	1
+Metroxylon warburgii	LC	NE	Not Threatened	NE	1	0	1	0
+Myrialepis paradoxa	NE	NE	Not Threatened	NE	0	0	1	0
+Nannorrhops baluchestanica	NE	NE	NE	NE	0	0	0	0
+Nannorrhops ritchieana	NE	NE	NE	NE	0	0	0	0
+Nenga banaensis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Nenga gajah	NE	NT	Threatened	Possibly Threatened	0	1	1	1
+Nenga grandiflora	NE	NE	Possibly Threatened	NE	0	0	1	0
+Nenga macrocarpa	NE	NE	NE	NE	0	0	0	0
+Nenga pumila	NE	NE	NE	NE	0	0	0	0
+Neonicholsonia watsonii	NE	NE	NE	NE	0	0	0	0
+Neoveitchia brunnea	NE	NE	NE	NE	0	0	0	0
+Neoveitchia storckii	NE	EN	Threatened	Threatened	0	1	1	1
+Nephrosperma vanhoutteanum	NE	LC	Threatened	Not Threatened	0	1	1	1
+Normanbya normanbyi	VU	NE	Threatened	NE	1	0	1	0
+Nypa fruticans	NE	LC	NE	Not Threatened	0	1	0	1
+Oenocarpus bacaba	NE	NE	NE	NE	0	0	0	0
+Oenocarpus balickii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Oenocarpus bataua	NE	NE	Possibly Threatened	NE	0	0	1	0
+Oenocarpus circumtextus	VU	NE	Threatened	NE	1	0	1	0
+Oenocarpus distichus	NE	NE	NE	NE	0	0	0	0
+Oenocarpus makeru	DD	NE	Possibly Threatened	NE	1	0	1	0
+Oenocarpus mapora	NE	NE	Threatened	NE	0	0	1	0
+Oenocarpus minor	NE	NE	Possibly Threatened	NE	0	0	1	0
+Oenocarpus simplex	DD	NE	Possibly Threatened	NE	1	0	1	0
+Oncocalamus macrospathus	NE	LC	NE	Not Threatened	0	1	0	1
+Oncocalamus mannii	NE	LC	NE	Not Threatened	0	1	0	1
+Oncocalamus tuleyi	NE	LC	NE	Not Threatened	0	1	0	1
+Oncocalamus wrightianus	NE	EN	NE	Threatened	0	1	0	1
+Oncosperma fasciculatum	NT	NE	Threatened	NE	1	0	1	0
+Oncosperma gracilipes	NE	NE	NE	NE	0	0	0	0
+Oncosperma horridum	NE	NE	NE	NE	0	0	0	0
+Oncosperma platyphyllum	VU	NE	Threatened	Threatened	1	0	1	1
+Oncosperma tigillarium	NE	NE	NE	NE	0	0	0	0
+Orania archboldiana	NE	NE	NE	NE	0	0	0	0
+Orania bakeri	NE	NE	NE	NE	0	0	0	0
+Orania dafonsoroensis	NE	NE	NE	NE	0	0	0	0
+Orania decipiens	NT	NE	Possibly Threatened	NE	1	0	1	0
+Orania deflexa	NE	NE	NE	NE	0	0	0	0
+Orania disticha	NE	NE	NE	NE	0	0	0	0
+Orania ferruginea	NE	NE	NE	NE	0	0	0	0
+Orania gagavu	NE	NE	NE	NE	0	0	0	0
+Orania glauca	NE	NE	NE	NE	0	0	0	0
+Orania grandiflora	NE	NE	NE	NE	0	0	0	0
+Orania lauterbachiana	NE	NE	NE	NE	0	0	0	0
+Orania littoralis	NE	NE	NE	NE	0	0	0	0
+Orania longisquama	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Orania longistaminodia	NE	NE	NE	NE	0	0	0	0
+Orania macropetala	NE	NE	NE	NE	0	0	0	0
+Orania micrantha	NE	NE	NE	NE	0	0	0	0
+Orania oreophila	NE	NE	NE	NE	0	0	0	0
+Orania palindan	NE	NE	NE	NE	0	0	0	0
+Orania paraguanensis	NE	NE	NE	NE	0	0	0	0
+Orania parva	NE	NE	NE	NE	0	0	0	0
+Orania ravaka	NE	VU	Threatened	Threatened	0	1	1	1
+Orania regalis	NE	NE	NE	NE	0	0	0	0
+Orania subdisticha	NE	NE	NE	NE	0	0	0	0
+Orania sylvicola	NT	NE	Possibly Threatened	NE	1	0	1	0
+Orania tabubilensis	NE	NE	NE	NE	0	0	0	0
+Orania timikae	NE	NE	NE	NE	0	0	0	0
+Orania trispatha	NE	VU	Threatened	Threatened	0	1	1	1
+Orania zonae	NE	NE	NE	NE	0	0	0	0
+Oraniopsis appendiculata	NE	NE	NE	NE	0	0	0	0
+Parajubaea cocoides	NE	NE	NE	NE	0	0	0	0
+Parajubaea sunkha	EN	NE	Threatened	NE	1	0	1	0
+Parajubaea torallyi	EN	NE	Threatened	Threatened	1	0	1	1
+Pelagodoxa henryana	CR	NE	Threatened	NE	1	0	1	0
+Phoenicophorium borsigianum	NE	LC	Threatened	Not Threatened	0	1	1	1
+Phoenix acaulis	NE	NE	NE	NE	0	0	0	0
+Phoenix atlantica	NE	EN	NE	Threatened	0	1	0	1
+Phoenix caespitosa	NE	NE	NE	NE	0	0	0	0
+Phoenix canariensis	NE	LC	NE	Not Threatened	0	1	0	1
+Phoenix dactylifera	NE	NE	NE	NE	0	0	0	0
+Phoenix loureiroi	NE	NE	Threatened	NE	0	0	1	0
+Phoenix paludosa	NE	NT	NE	Possibly Threatened	0	1	0	1
+Phoenix pusilla	NE	NE	Possibly Threatened	NE	0	0	2	0
+Phoenix reclinata	NE	LC	NE	Not Threatened	0	1	0	1
+Phoenix roebelenii	NE	NE	NE	NE	0	0	0	0
+Phoenix rupicola	NT	NE	Possibly Threatened	NE	1	0	1	0
+Phoenix sylvestris	NE	NE	NE	NE	0	0	0	0
+Phoenix theophrasti	NT	NE	Possibly Threatened	NE	1	0	1	0
+Pholidocarpus ihur	NE	NE	NE	NE	0	0	0	0
+Pholidocarpus kingianus	VU	NE	Threatened	NE	1	0	1	0
+Pholidocarpus macrocarpus	VU	NE	Threatened	NE	1	0	1	0
+Pholidocarpus majadum	NE	LC	NE	Not Threatened	0	1	0	1
+Pholidocarpus mucronatus	NE	NE	NE	NE	0	0	0	0
+Pholidocarpus sumatranus	NE	NE	NE	NE	0	0	0	0
+Pholidostachys amazonensis	NE	NE	NE	NE	0	0	0	0
+Pholidostachys dactyloides	NE	NE	NE	NE	0	0	0	0
+Pholidostachys kalbreyeri	NE	NE	NE	NE	0	0	0	0
+Pholidostachys occidentalis	NE	NE	NE	NE	0	0	0	0
+Pholidostachys panamensis	NE	NE	NE	NE	0	0	0	0
+Pholidostachys pulchra	NE	NE	NE	NE	0	0	0	0
+Pholidostachys sanluisensis	NE	NE	NE	NE	0	0	0	0
+Pholidostachys synanthera	NE	NE	NE	NE	0	0	0	0
+Physokentia avia	NE	NE	NE	NE	0	0	0	0
+Physokentia dennisii	DD	NE	Data Deficient	NE	1	0	1	0
+Physokentia insolita	NE	NE	NE	NE	0	0	0	0
+Physokentia petiolata	NE	NT	Threatened	Possibly Threatened	0	1	1	1
+Physokentia tete	NT	NE	Possibly Threatened	NE	1	0	1	0
+Physokentia thurstonii	NE	NT	Possibly Threatened	Possibly Threatened	0	1	1	1
+Physokentia whitmorei	NE	NE	NE	NE	0	0	0	0
+Phytelephas aequatorialis	NT	NE	Possibly Threatened	NE	1	0	1	0
+Phytelephas macrocarpa	NT	NE	Possibly Threatened	NE	1	0	1	0
+Phytelephas tenuicaulis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Phytelephas tumacana	EN	NE	Threatened	NE	1	0	1	0
+Pigafetta elata	NE	NE	NE	NE	0	0	0	0
+Pigafetta filaris	NE	NE	NE	NE	0	0	0	0
+Pinanga acaulis	NE	NE	Threatened	NE	0	0	1	0
+Pinanga acuminata	NE	NE	NE	NE	0	0	0	0
+Pinanga adangensis	NE	NE	Threatened	NE	0	0	1	0
+Pinanga albescens	NE	NE	Possibly Threatened	NE	0	0	1	0
+Pinanga andamanensis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Pinanga angustisecta	NE	NE	NE	NE	0	0	0	0
+Pinanga annamensis	NE	NE	NE	NE	0	0	0	0
+Pinanga arinasae	NE	NE	NE	NE	0	0	0	0
+Pinanga aristata	NE	NE	NE	NE	0	0	0	0
+Pinanga arundinacea	NE	NE	NE	NE	0	0	0	0
+Pinanga auriculata	NE	NE	NE	NE	0	0	0	0
+Pinanga badia	NE	NE	NE	NE	0	0	0	0
+Pinanga basilanensis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Pinanga batanensis	NE	NE	NE	Threatened	0	0	0	1
+Pinanga baviensis	NE	NE	NE	NE	0	0	0	0
+Pinanga bicolana	NE	NE	NE	Threatened	0	0	0	1
+Pinanga borneensis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Pinanga brevipes	NE	NE	NE	NE	0	0	0	0
+Pinanga brewsteriana	NE	NE	NE	NE	0	0	0	0
+Pinanga caesia	NE	NE	NE	NE	0	0	0	0
+Pinanga capitata	NE	NE	NE	NE	0	0	0	0
+Pinanga cattienensis	NE	NE	NE	NE	0	0	0	0
+Pinanga celebica	NE	NE	Possibly Threatened	NE	0	0	1	0
+Pinanga chaiana	NE	NE	NE	NE	0	0	0	0
+Pinanga cleistantha	NE	NE	Threatened	NE	0	0	1	0
+Pinanga copelandii	NE	NE	NE	NE	0	0	0	0
+Pinanga coronata	NE	NE	NE	NE	0	0	0	0
+Pinanga crassipes	NE	NE	NE	NE	0	0	0	0
+Pinanga cucullata	NE	NE	NE	NE	0	0	0	0
+Pinanga cupularis	NE	NE	NE	NE	0	0	0	0
+Pinanga curranii	NE	NE	NE	NE	0	0	0	0
+Pinanga declinata	NE	NE	NE	NE	0	0	0	0
+Pinanga decora	NE	NE	NE	NE	0	0	0	0
+Pinanga densiflora	NE	NE	NE	NE	0	0	0	0
+Pinanga dicksonii	NE	NE	Threatened	NE	0	0	1	0
+Pinanga disticha	NE	NE	NE	NE	0	0	0	0
+Pinanga dumetosa	NE	NE	NE	NE	0	0	0	0
+Pinanga egregia	NE	NE	NE	NE	0	0	0	0
+Pinanga forbesii	NE	DD	NE	Data Deficient	0	1	0	1
+Pinanga fractiflexa	NE	NE	NE	NE	0	0	0	0
+Pinanga furfuracea	NE	NE	NE	NE	0	0	0	0
+Pinanga geonomiformis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Pinanga glauca	NE	NE	NE	NE	0	0	0	0
+Pinanga glaucescens	NE	NE	Threatened	NE	0	0	1	0
+Pinanga glaucifolia	NE	NE	NE	Threatened	0	0	0	1
+Pinanga globulifera	NE	NE	NE	NE	0	0	0	0
+Pinanga gracilis	NE	NE	NE	NE	0	0	0	0
+Pinanga gracillima	NE	NE	NE	NE	0	0	0	0
+Pinanga grandijuga	NE	NE	NE	NE	0	0	0	0
+Pinanga grandis	NE	NE	NE	NE	0	0	0	0
+Pinanga griffithii	NE	NE	NE	NE	0	0	0	0
+Pinanga heterophylla	NE	NE	Possibly Threatened	NE	0	0	1	0
+Pinanga hexasticha	NE	NE	NE	NE	0	0	0	0
+Pinanga hookeriana	NE	NE	NE	NE	0	0	0	0
+Pinanga humilis	NE	NE	NE	NE	0	0	0	0
+Pinanga hymenospatha	NE	NE	NE	NE	0	0	0	0
+Pinanga inaequalis	NE	NE	NE	NE	0	0	0	0
+Pinanga insignis	NE	NE	NE	NE	0	0	0	0
+Pinanga isabelensis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Pinanga jamariensis	NE	NE	NE	NE	0	0	0	0
+Pinanga jambusana	NE	NE	NE	NE	0	0	0	0
+Pinanga javana	NE	NE	Threatened	NE	0	0	1	0
+Pinanga johorensis	NE	NE	NE	NE	0	0	0	0
+Pinanga keahii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Pinanga kontumensis	NE	NE	NE	NE	0	0	0	0
+Pinanga lacei	NE	NE	NE	NE	0	0	0	0
+Pinanga latisecta	NE	NE	NE	NE	0	0	0	0
+Pinanga lepidota	NE	NE	NE	NE	0	0	0	0
+Pinanga ligulata	NE	NE	Possibly Threatened	NE	0	0	1	0
+Pinanga limbangensis	NE	NE	NE	NE	0	0	0	0
+Pinanga limosa	NE	NE	NE	NE	0	0	0	0
+Pinanga macrospadix	NE	NE	NE	NE	0	0	0	0
+Pinanga maculata	NE	NE	Possibly Threatened	NE	0	0	1	0
+Pinanga malaiana	NE	NE	NE	NE	0	0	0	0
+Pinanga manii	NE	NE	Threatened	NE	0	0	1	0
+Pinanga megalocarpa	NE	NE	NE	NE	0	0	0	0
+Pinanga micholitzii	NE	NE	NE	NE	0	0	0	0
+Pinanga minor	NE	NE	NE	NE	0	0	0	0
+Pinanga minuta	NE	NE	NE	NE	0	0	0	0
+Pinanga mirabilis	NE	NE	NE	NE	0	0	0	0
+Pinanga modesta	NE	NE	NE	NE	0	0	0	0
+Pinanga mooreana	NE	NE	NE	NE	0	0	0	0
+Pinanga negrosensis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Pinanga nuichuensis	NE	NE	NE	NE	0	0	0	0
+Pinanga pachycarpa	NE	NE	NE	NE	0	0	0	0
+Pinanga pachyphylla	NE	NE	Possibly Threatened	NE	0	0	1	0
+Pinanga palustris	NE	NE	NE	NE	0	0	0	0
+Pinanga pantiensis	NE	NE	NE	NE	0	0	0	0
+Pinanga paradoxa	NE	NE	NE	NE	0	0	0	0
+Pinanga parvula	NE	NE	NE	NE	0	0	0	0
+Pinanga patula	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Pinanga pectinata	NE	NE	Threatened	NE	0	0	1	0
+Pinanga perakensis	NE	NE	Threatened	NE	0	0	1	0
+Pinanga philippinensis	NE	NE	NE	NE	0	0	0	0
+Pinanga pilosa	NE	NE	NE	NE	0	0	0	0
+Pinanga plicata	NE	NE	NE	NE	0	0	0	0
+Pinanga polymorpha	NE	NE	NE	NE	0	0	0	0
+Pinanga porrecta	NE	NE	NE	NE	0	0	0	0
+Pinanga pulchella	NE	NE	NE	NE	0	0	0	0
+Pinanga purpurea	NE	NE	NE	NE	0	0	0	0
+Pinanga quadrijuga	NE	NE	NE	NE	0	0	0	0
+Pinanga ridleyana	NE	NE	NE	NE	0	0	0	0
+Pinanga rigida	NE	NE	Possibly Threatened	NE	0	0	1	0
+Pinanga riparia	NE	NE	NE	NE	0	0	0	0
+Pinanga rivularis	NE	NE	NE	NE	0	0	0	0
+Pinanga rumphiana	NE	NE	Possibly Threatened	NE	0	0	1	0
+Pinanga rupestris	NE	NE	NE	NE	0	0	0	0
+Pinanga salicifolia	NE	NE	NE	NE	0	0	0	0
+Pinanga samarana	NE	NE	Possibly Threatened	Threatened	0	0	1	1
+Pinanga sarmentosa	NE	NE	NE	NE	0	0	0	0
+Pinanga sclerophylla	NE	NE	Possibly Threatened	Threatened	0	0	1	1
+Pinanga scortechinii	NE	NE	NE	NE	0	0	0	0
+Pinanga sembilan	NE	NE	NE	NE	0	0	0	0
+Pinanga sessilifolia	NE	NE	NE	NE	0	0	0	0
+Pinanga sibuyanensis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Pinanga sierramadreana	NE	NE	NE	NE	0	0	0	0
+Pinanga simplicifrons	NE	NE	NE	NE	0	0	0	0
+Pinanga singaporensis	NE	NE	NE	NE	0	0	0	0
+Pinanga sobolifera	NE	NE	NE	Threatened	0	0	0	1
+Pinanga speciosa	NE	NE	NE	NE	0	0	0	0
+Pinanga stricta	NE	NE	Threatened	NE	0	0	1	0
+Pinanga stylosa	NE	NE	NE	NE	0	0	0	0
+Pinanga subintegra	NE	NE	Threatened	NE	0	0	1	0
+Pinanga subruminata	NE	NT	Threatened	Possibly Threatened	0	1	1	1
+Pinanga sylvestris	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Pinanga tashiroi	CR	NE	Threatened	Threatened	1	0	1	1
+Pinanga tenacinervis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Pinanga tenella	NE	NE	NE	NE	0	0	0	0
+Pinanga tomentella	NE	NE	NE	NE	0	0	0	0
+Pinanga tomentosa	NE	NE	NE	NE	0	0	0	0
+Pinanga trichoneura	NE	NE	NE	NE	0	0	0	0
+Pinanga uncinata	NE	NE	NE	NE	0	0	0	0
+Pinanga urdanetensis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Pinanga urosperma	NE	NE	Possibly Threatened	NE	0	0	1	0
+Pinanga variegata	NE	NE	NE	NE	0	0	0	0
+Pinanga veitchii	NE	NE	NE	NE	0	0	0	0
+Pinanga versicolor	NE	NE	NE	NE	0	0	0	0
+Pinanga watanaiana	NE	NE	NE	NE	0	0	0	0
+Pinanga woodiana	NE	NE	Possibly Threatened	NE	0	0	1	0
+Pinanga yassinii	NE	NE	NE	NE	0	0	0	0
+Plectocomia assamica	NE	NE	Possibly Threatened	NE	0	0	1	0
+Plectocomia billitonensis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Plectocomia bractealis	NE	NE	NE	NE	0	0	0	0
+Plectocomia dransfieldiana	NE	EN	Threatened	Threatened	0	1	1	1
+Plectocomia elmeri	NE	NE	Possibly Threatened	Threatened	0	0	1	1
+Plectocomia elongata	NE	NE	Not Threatened	NE	0	0	1	0
+Plectocomia himalayana	NE	LC	Data Deficient	Not Threatened	0	1	1	1
+Plectocomia khasyana	NE	NE	NE	NE	0	0	0	0
+Plectocomia longistigma	NE	NE	Possibly Threatened	NE	0	0	1	0
+Plectocomia lorzingii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Plectocomia macrostachya	NE	NE	NE	NE	0	0	0	0
+Plectocomia microstachys	EN	NE	Threatened	Threatened	1	0	1	1
+Plectocomia mulleri	NE	NE	NE	NE	0	0	0	0
+Plectocomia pierreana	NE	NE	Threatened,Not Threatened	NE	0	0	2	0
+Plectocomia pygmaea	NE	NE	Possibly Threatened	NE	0	0	1	0
+Plectocomiopsis corneri	NE	NE	NE	NE	0	0	0	0
+Plectocomiopsis geminiflora	NE	NE	Not Threatened	NE	0	0	1	0
+Plectocomiopsis mira	NE	NE	NE	NE	0	0	0	0
+Plectocomiopsis songthanhensis	NE	NE	NE	NE	0	0	0	0
+Plectocomiopsis triquetra	NE	LC	NE	Not Threatened	0	1	0	1
+Plectocomiopsis wrayi	NE	NE	Threatened	NE	0	0	1	0
+Podococcus acaulis	NE	NE	NE	NE	0	0	0	0
+Podococcus barteri	NE	NE	NE	NE	0	0	0	0
+Ponapea hentyi	EN	NE	Threatened	NE	1	0	1	0
+Ponapea hosinoi	NE	NE	NE	NE	0	0	0	0
+Ponapea ledermanniana	NE	NE	NE	NE	0	0	0	0
+Ponapea palauensis	NE	NE	NE	NE	0	0	0	0
+Prestoea acuminata	NE	NE	Threatened	Not Threatened	0	0	2	1
+Prestoea carderi	NE	NE	NE	NE	0	0	0	0
+Prestoea decurrens	NE	NE	NE	NE	0	0	0	0
+Prestoea ensiformis	NE	NE	NE	NE	0	0	0	0
+Prestoea longepetiolata	NE	NE	Threatened	NE	0	0	1	0
+Prestoea pubens	LC	NE	Not Threatened	NE	1	0	1	0
+Prestoea pubigera	NE	NE	NE	NE	0	0	0	0
+Prestoea schultzeana	NE	NE	NE	NE	0	0	0	0
+Prestoea simplicifolia	NE	NE	Threatened	NE	0	0	1	0
+Prestoea tenuiramosa	NT	NE	Possibly Threatened	NE	1	0	1	0
+Pritchardia arecina	NE	NE	Threatened	NE	0	0	1	0
+Pritchardia bakeri	NE	NE	NE	Threatened	0	0	0	1
+Pritchardia beccariana	NE	NE	Threatened	NE	0	0	1	0
+Pritchardia flynnii	NE	EN	NE	Threatened	0	1	0	1
+Pritchardia forbesiana	EN	NE	Threatened	NE	1	0	1	0
+Pritchardia glabrata	EN	NE	Data Deficient,Threatened	NE	3	0	3	0
+Pritchardia gordonii	NE	NE	NE	NE	0	0	0	0
+Pritchardia hardyi	CR	NE	Threatened	NE	1	0	1	0
+Pritchardia hillebrandii	NE	NE	Threatened	NE	0	0	1	0
+Pritchardia kaalae	CR	NE	Threatened	NE	1	0	1	0
+Pritchardia kahukuensis	NE	NE	NE	NE	0	0	0	0
+Pritchardia lanigera	EN	NE	Threatened	NE	1	0	1	0
+Pritchardia lowreyana	VU	NE	Threatened	NE	1	0	1	0
+Pritchardia maideniana	CR	NE	Threatened	NE	1	0	1	0
+Pritchardia martii	NE	NE	Threatened	NE	0	0	1	0
+Pritchardia minor	NE	EN	Threatened	Threatened	0	1	1	1
+Pritchardia mitiaroana	NE	NE	NE	NE	0	0	0	0
+Pritchardia munroi	CR	NE	Threatened	NE	1	0	1	0
+Pritchardia napaliensis	CR	NE	Threatened	NE	2	0	2	0
+Pritchardia pacifica	NE	NE	NE	NE	0	0	0	0
+Pritchardia perlmanii	EN	NE	Threatened	NE	1	0	1	0
+Pritchardia remota	CR,EN	NE	Threatened	NE	2	0	2	0
+Pritchardia schattaueri	CR	NE	Threatened	NE	1	0	1	0
+Pritchardia thurstonii	NE	VU	Possibly Threatened	Threatened	0	1	1	1
+Pritchardia viscosa	CR	NE	Threatened	NE	1	0	1	0
+Pritchardia vuylstekeana	NE	NE	NE	NE	0	0	0	0
+Pritchardia waialealeana	VU	NE	Threatened	NE	1	0	1	0
+Pritchardia woodii	NE	NE	NE	NE	0	0	0	0
+Pseudophoenix ekmanii	CR	NE	Threatened	NE	1	0	1	0
+Pseudophoenix lediniana	CR	NE	Threatened	NE	1	0	1	0
+Pseudophoenix sargentii	NE	NE	Not Threatened	Not Threatened	0	0	1	1
+Pseudophoenix vinifera	NE	NE	NE	NE	0	0	0	0
+Ptychococcus lepidotus	NE	NE	NE	NE	0	0	0	0
+Ptychococcus paradoxus	NE	LC	NE	Not Threatened	0	1	0	1
+Ptychosperma ambiguum	NE	NE	NE	NE	0	0	0	0
+Ptychosperma buabe	NE	NE	NE	NE	0	0	0	0
+Ptychosperma burretianum	NE	NE	NE	NE	0	0	0	0
+Ptychosperma caryotoides	NE	NE	NE	NE	0	0	0	0
+Ptychosperma cuneatum	NE	NE	NE	NE	0	0	0	0
+Ptychosperma elegans	NE	NE	NE	NE	0	0	0	0
+Ptychosperma furcatum	NE	NE	NE	NE	0	0	0	0
+Ptychosperma gracile	NE	NT	Possibly Threatened	Possibly Threatened	0	1	1	1
+Ptychosperma hartmannii	NE	NE	NE	NE	0	0	0	0
+Ptychosperma lauterbachii	NE	NE	NE	NE	0	0	0	0
+Ptychosperma lineare	NE	NE	NE	NE	0	0	0	0
+Ptychosperma macarthurii	NE	NE	Threatened	NE	0	0	1	0
+Ptychosperma macrocerum	NE	NE	NE	NE	0	0	0	0
+Ptychosperma mambare	NE	NE	NE	NE	0	0	0	0
+Ptychosperma microcarpum	NE	LC	NE	Not Threatened	0	1	0	1
+Ptychosperma mooreanum	NE	NE	NE	NE	0	0	0	0
+Ptychosperma nicolai	NE	NE	NE	NE	0	0	0	0
+Ptychosperma praemorsum	NE	NE	NE	NE	0	0	0	0
+Ptychosperma propinquum	NE	NE	NE	NE	0	0	0	0
+Ptychosperma pullenii	NE	NE	NE	NE	0	0	0	0
+Ptychosperma ramosissimum	NE	NE	NE	NE	0	0	0	0
+Ptychosperma rosselense	NE	NE	NE	NE	0	0	0	0
+Ptychosperma salomonense	NE	NE	NE	NE	0	0	0	0
+Ptychosperma sanderianum	NE	NE	NE	NE	0	0	0	0
+Ptychosperma schefferi	NE	NE	NE	NE	0	0	0	0
+Ptychosperma streimannii	NE	NE	NE	NE	0	0	0	0
+Ptychosperma tagulense	NE	NE	NE	NE	0	0	0	0
+Ptychosperma vestitum	NE	NE	NE	NE	0	0	0	0
+Ptychosperma waitianum	NE	NE	NE	NE	0	0	0	0
+Raphia africana	NE	NE	NE	NE	0	0	0	0
+Raphia australis	NE	VU	Possibly Threatened	Threatened	0	1	1	1
+Raphia farinifera	NE	NE	NE	Not Threatened	0	0	0	1
+Raphia gentiliana	NE	NE	NE	NE	0	0	0	0
+Raphia hookeri	NE	NE	NE	NE	0	0	0	0
+Raphia laurentii	NE	NE	NE	NE	0	0	0	0
+Raphia longiflora	NE	DD	NE	Data Deficient	0	1	0	1
+Raphia mambillensis	NE	LC	NE	Not Threatened	0	1	0	1
+Raphia mannii	NE	NE	NE	NE	0	0	0	0
+Raphia matombe	NE	NE	NE	NE	0	0	0	0
+Raphia monbuttorum	NE	NE	NE	NE	0	0	0	0
+Raphia palma-pinus	NE	DD	NE	Data Deficient	0	1	0	1
+Raphia regalis	VU	NE	Threatened	NE	1	0	1	0
+Raphia rostrata	NE	NE	NE	NE	0	0	0	0
+Raphia ruwenzorica	NE	NE	NE	NE	0	0	0	0
+Raphia sese	NE	NE	NE	NE	0	0	0	0
+Raphia sudanica	NE	DD	NE	Data Deficient	0	1	0	1
+Raphia taedigera	NE	NE	NE	NE	0	0	0	0
+Raphia textilis	NE	NE	NE	NE	0	0	0	0
+Raphia vinifera	NE	NE	NE	NE	0	0	0	0
+Ravenea albicans	NE	EN	Threatened	Threatened	0	1	1	1
+Ravenea beentjei	NE	CR	NE	Threatened	0	1	0	1
+Ravenea declivium	NE	NE	NE	NE	0	0	0	0
+Ravenea delicatula	NE	CR	NE	Threatened	0	1	0	1
+Ravenea dransfieldii	NE	EN	Threatened	Threatened	0	1	1	1
+Ravenea glauca	NE	VU	Threatened	Threatened	0	1	1	1
+Ravenea hildebrandtii	EN	NE	Threatened	NE	1	0	1	0
+Ravenea hypoleuca	NE	CR	NE	Threatened	0	1	0	1
+Ravenea julietiae	NE	EN	Threatened	Threatened	0	1	1	1
+Ravenea krociana	NE	EN	Threatened	Threatened	0	1	1	1
+Ravenea lakatra	NE	CR	Threatened	Threatened	0	1	1	1
+Ravenea latisecta	NE	CR	Threatened	Threatened	0	1	1	1
+Ravenea louvelii	NE	CR	Threatened	Threatened	0	1	1	1
+Ravenea madagascariensis	NE	LC	Possibly Threatened	Not Threatened	0	1	1	1
+Ravenea moorei	CR	NE	Threatened	NE	1	0	1	0
+Ravenea musicalis	NE	CR	Threatened	Threatened	0	1	1	1
+Ravenea nana	NE	EN	Threatened	Threatened	0	1	1	1
+Ravenea rivularis	NE	VU	Threatened	Threatened	0	1	1	1
+Ravenea robustior	NE	NT	Possibly Threatened	Possibly Threatened	0	1	1	1
+Ravenea sambiranensis	NE	LC	Threatened	Not Threatened	0	1	1	1
+Ravenea xerophila	NE	VU	Threatened	Threatened	0	1	1	1
+Reinhardtia elegans	NE	NE	Possibly Threatened	Threatened	0	0	1	1
+Reinhardtia gracilis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Reinhardtia koschnyana	NE	NE	Threatened	NE	0	0	1	0
+Reinhardtia latisecta	NE	NE	NE	NE	0	0	0	0
+Reinhardtia paiewonskiana	NE	NE	Threatened	NE	0	0	1	0
+Reinhardtia simplex	NE	NE	Possibly Threatened	NE	0	0	1	0
+Rhapidophyllum hystrix	NE	NE	Not Threatened	NE	0	0	1	0
+Rhapis evansii	NE	NE	NE	NE	0	0	0	0
+Rhapis excelsa	NE	NE	Possibly Threatened	NE	0	0	1	0
+Rhapis gracilis	NE	NE	NE	NE	0	0	0	0
+Rhapis humilis	NE	NE	NE	NE	0	0	0	0
+Rhapis kebangensis	NE	NE	NE	NE	0	0	0	0
+Rhapis laosensis	NE	NE	NE	NE	0	0	0	0
+Rhapis micrantha	NE	NE	NE	NE	0	0	0	0
+Rhapis puhuongensis	NE	NE	NE	NE	0	0	0	0
+Rhapis robusta	NE	NE	NE	NE	0	0	0	0
+Rhapis subtilis	NE	NE	NE	NE	0	0	0	0
+Rhapis vidalii	NE	NE	NE	NE	0	0	0	0
+Rhopaloblaste augusta	VU	NE	Data Deficient	NE	1	0	1	0
+Rhopaloblaste ceramica	NE	NE	Not Threatened	NE	0	0	1	0
+Rhopaloblaste elegans	DD	NE	Data Deficient	NE	1	0	1	0
+Rhopaloblaste gideonii	NE	NE	Data Deficient	NE	0	0	1	0
+Rhopaloblaste ledermanniana	NE	NE	Not Threatened	NE	0	0	1	0
+Rhopaloblaste singaporensis	NT	NE	Not Threatened	NE	1	0	1	0
+Rhopalostylis baueri	NT	NE	Possibly Threatened	NE	1	0	1	0
+Rhopalostylis sapida	NT	NE	Possibly Threatened	NE	1	0	1	0
+Roscheria melanochaetes	NE	NT	Threatened	Possibly Threatened	0	1	1	1
+Roystonea altissima	NE	NE	Possibly Threatened	NE	0	0	1	0
+Roystonea borinquena	NE	NE	Possibly Threatened	Near Threatened	0	0	1	1
+Roystonea dunlapiana	EN	NE	Threatened	NE	1	0	1	0
+Roystonea lenis	VU	NE	Threatened	NE	1	0	1	0
+Roystonea maisiana	NE	NE	Threatened	NE	0	0	1	0
+Roystonea oleracea	NE	NE	NE	NE	0	0	0	0
+Roystonea princeps	NT	NE	Possibly Threatened	NE	1	0	1	0
+Roystonea regia	CR	NE	Threatened	NE	1	0	2	0
+Roystonea stellata	EN	NE	Threatened	NE	1	0	1	0
+Roystonea violacea	NE	NE	Threatened	NE	0	0	1	0
+Sabal bermudana	NE	EN	Threatened	Threatened	0	1	1	1
+Sabal causiarum	NE	NE	NE	Near Threatened	0	0	0	1
+Sabal domingensis	NE	NE	NE	NE	0	0	0	0
+Sabal etonia	NE	NE	Not Threatened	NE	0	0	2	0
+Sabal gretherae	NE	NE	Threatened	Threatened	0	0	1	1
+Sabal maritima	NE	NE	NE	NE	0	0	0	0
+Sabal mauritiiformis	NE	NE	Threatened	NE	0	0	1	0
+Sabal mexicana	NE	NE	Not Threatened	NE	0	0	1	0
+Sabal minor	NE	NE	Not Threatened	NE	0	0	1	0
+Sabal palmetto	NE	NE	Not Threatened	NE	0	0	1	0
+Sabal pumos	VU	NE	Threatened	NE	1	0	1	0
+Sabal rosei	NE	NE	NE	NE	0	0	0	0
+Sabal uresana	VU	NE	Threatened	Threatened	1	0	1	1
+Sabal yapa	NE	NE	Not Threatened	NE	0	0	1	0
+Sabinaria magnifica	NE	NE	NE	NE	0	0	0	0
+Salacca acehensis	NE	NE	NE	NE	0	0	0	0
+Salacca affinis	NE	NE	NE	NE	0	0	0	0
+Salacca bakeriana	NE	NE	NE	NE	0	0	0	0
+Salacca clemensiana	NE	NE	Possibly Threatened	NE	0	0	1	0
+Salacca dolicholepis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Salacca dransfieldiana	NE	NE	Possibly Threatened	NE	0	0	1	0
+Salacca flabellata	NE	NE	Possibly Threatened	NE	0	0	1	0
+Salacca glabrescens	NE	NE	NE	NE	0	0	0	0
+Salacca graciliflora	NE	NE	Threatened	NE	0	0	1	0
+Salacca griffithii	NE	NE	NE	NE	0	0	0	0
+Salacca lophospatha	NE	NE	Threatened	NE	0	0	1	0
+Salacca magnifica	NE	NE	NE	NE	0	0	0	0
+Salacca minuta	NE	NE	Possibly Threatened	NE	0	0	1	0
+Salacca multiflora	NE	NE	Threatened	NE	0	0	1	0
+Salacca ramosiana	NE	NE	NE	NE	0	0	0	0
+Salacca rupicola	NE	NE	Possibly Threatened	NE	0	0	1	0
+Salacca sarawakensis	NE	NE	NE	NE	0	0	0	0
+Salacca secunda	NE	NE	NE	NE	0	0	0	0
+Salacca stolonifera	NE	NE	NE	NE	0	0	0	0
+Salacca sumatrana	NE	NE	NE	NE	0	0	0	0
+Salacca vermicularis	NE	NE	NE	NE	0	0	0	0
+Salacca wallichiana	NE	NE	NE	NE	0	0	0	0
+Salacca zalacca	NE	NE	NE	NE	0	0	0	0
+Saribus brevifolius	NE	NE	NE	NE	0	0	0	0
+Saribus chocolatinus	NE	NE	NE	NE	0	0	0	0
+Saribus jeanneneyi	NE	CR	Threatened	Threatened	0	1	1	1
+Saribus merrillii	NE	NE	NE	NE	0	0	0	0
+Saribus papuanus	NE	NE	NE	NE	0	0	0	0
+Saribus rotundifolius	VU	NE	Threatened	NE	1	0	1	0
+Saribus surru	NE	NE	NE	NE	0	0	0	0
+Saribus tothur	NE	NE	NE	NE	0	0	0	0
+Saribus woodfordii	VU	NE	Threatened	NE	1	0	1	0
+Satakentia liukiuensis	DD	NE	Data Deficient	NE	1	0	1	0
+Satranala decussilvae	NE	EN	Threatened	Threatened	0	1	1	1
+Schippia concolor	VU	NE	Threatened	NE	1	0	1	0
+Sclerosperma mannii	NE	NE	NE	NE	0	0	0	0
+Sclerosperma profizianum	NE	NE	NE	NE	0	0	0	0
+Sclerosperma walkeri	NE	NE	NE	NE	0	0	0	0
+Serenoa repens	NE	NE	Not Threatened	NE	0	0	1	0
+Socratea exorrhiza	NE	NE	NE	NE	0	0	0	0
+Socratea hecatonandra	NE	NE	Possibly Threatened	NE	0	0	1	0
+Socratea karstenii	NE	NE	NE	NE	0	0	0	0
+Socratea rostrata	NE	NE	NE	NE	0	0	0	0
+Socratea salazarii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Sommieria leucophylla	NE	NE	NE	NE	0	0	0	0
+Syagrus allagopteroides	NE	NE	NE	NE	0	0	0	0
+Syagrus amara	NE	NE	NE	Threatened	0	0	0	1
+Syagrus angustifolia	NE	NE	NE	NE	0	0	0	0
+Syagrus botryophora	NT	NE	Possibly Threatened	Not Threatened	1	0	1	1
+Syagrus caerulescens	NE	NE	NE	NE	0	0	0	0
+Syagrus campestris	NE	NE	NE	NE	0	0	0	0
+Syagrus campylospatha	NE	NE	NE	NE	0	0	0	0
+Syagrus cardenasii	NE	NE	Threatened	NE	0	0	1	0
+Syagrus cearensis	NE	NE	NE	NE	0	0	0	0
+Syagrus cerqueirana	NE	NE	NE	NE	0	0	0	0
+Syagrus cocoides	NE	NE	NE	NE	0	0	0	0
+Syagrus comosa	NE	NE	NE	NE	0	0	0	0
+Syagrus coronata	NE	NE	NE	NE	0	0	0	0
+Syagrus deflexa	NE	NE	NE	NE	0	0	0	0
+Syagrus duartei	NE	NE	Possibly Threatened	NE	0	0	1	0
+Syagrus emasensis	NE	NE	NE	NE	0	0	0	0
+Syagrus evansiana	NE	NE	NE	NE	0	0	0	0
+Syagrus flexuosa	NE	NE	Possibly Threatened	NE	0	0	1	0
+Syagrus glaucescens	VU	NE	Threatened	Threatened	1	0	1	1
+Syagrus glazioviana	NE	NE	NE	NE	0	0	0	0
+Syagrus gouveiana	NE	NE	NE	NE	0	0	0	0
+Syagrus graminifolia	NE	NE	Possibly Threatened	NE	0	0	1	0
+Syagrus guimaraesensis	NE	NE	NE	NE	0	0	0	0
+Syagrus harleyi	NE	NE	Possibly Threatened	NE	0	0	1	0
+Syagrus hoehnei	NE	NE	Possibly Threatened	NE	0	0	1	0
+Syagrus inajai	NE	NE	NE	NE	0	0	0	0
+Syagrus insignis	NE	NE	NE	Threatened	0	0	0	1
+Syagrus itacambirana	NE	NE	NE	NE	0	0	0	0
+Syagrus itapebiensis	NE	NE	NE	NE	0	0	0	0
+Syagrus kellyana	NE	NE	NE	NE	0	0	0	0
+Syagrus lilliputiana	NE	NE	NE	NE	0	0	0	0
+Syagrus loefgrenii	NE	NE	NE	NE	0	0	0	0
+Syagrus longipedunculata	NE	NE	NE	NE	0	0	0	0
+Syagrus lorenzoniorum	NE	NE	NE	NE	0	0	0	0
+Syagrus macrocarpa	EN	NE	Threatened	Threatened	1	0	1	1
+Syagrus mendanhensis	NE	NE	NE	Threatened	0	0	0	1
+Syagrus menzeliana	NE	NE	NE	NE	0	0	0	0
+Syagrus microphylla	NE	NE	Possibly Threatened	NE	0	0	1	0
+Syagrus minor	NE	NE	NE	NE	0	0	0	0
+Syagrus oleracea	NE	NE	NE	NE	0	0	0	0
+Syagrus orinocensis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Syagrus petraea	NE	NE	NE	NE	0	0	0	0
+Syagrus picrophylla	LC	NE	Not Threatened	Threatened	1	0	1	1
+Syagrus pleioclada	NE	NE	Possibly Threatened	NE	0	0	1	0
+Syagrus pleiocladoides	NE	NE	NE	NE	0	0	0	0
+Syagrus pompeoi	NE	NE	NE	NE	0	0	0	0
+Syagrus procumbens	NE	NE	NE	NE	0	0	0	0
+Syagrus pseudococos	LC	NE	Not Threatened	Not Threatened	1	0	1	1
+Syagrus romanzoffiana	NE	NE	NE	NE	0	0	0	0
+Syagrus rupicola	NE	NE	NE	NE	0	0	0	0
+Syagrus ruschiana	LC	NE	Not Threatened	Threatened	1	0	1	1
+Syagrus sancona	NE	NE	NE	NE	0	0	0	0
+Syagrus santosii	NE	NE	NE	NE	0	0	0	0
+Syagrus schizophylla	NE	NE	NE	Not Threatened	0	0	0	1
+Syagrus smithii	LC	NE	Not Threatened	NE	1	0	1	0
+Syagrus stenopetala	NE	NE	NE	NE	0	0	0	0
+Syagrus stratincola	VU	NE	Threatened	NE	1	0	1	0
+Syagrus vagans	NE	NE	NE	NE	0	0	0	0
+Syagrus vermicularis	NE	NE	NE	NE	0	0	0	0
+Syagrus weddelliana	NE	NE	Threatened	NE	0	0	1	0
+Syagrus werdermannii	NE	NE	Possibly Threatened	NE	0	0	1	0
+Syagrus yungasensis	NE	NE	NE	Threatened	0	0	0	1
+Synechanthus dasystachys	NE	NE	NE	NE	0	0	0	0
+Synechanthus fibrosus	NE	NE	NE	NE	0	0	0	0
+Synechanthus warscewiczianus	NE	NE	NE	NE	0	0	0	0
+Tahina spectabilis	NE	CR	NE	Threatened	0	1	0	1
+Tectiphiala ferox	CR	NE	Threatened	NE	1	0	1	0
+Thrinax excelsa	NE	NE	Possibly Threatened	NE	0	0	1	0
+Thrinax parviflora	NE	NE	Threatened	NE	0	0	3	0
+Thrinax radiata	NE	NE	Not Threatened	NE	0	0	1	0
+Trachycarpus fortunei	NE	NE	NE	NE	0	0	0	0
+Trachycarpus geminisectus	NE	NE	NE	NE	0	0	0	0
+Trachycarpus latisectus	NE	NE	NE	NE	0	0	0	0
+Trachycarpus martianus	NE	NE	NE	NE	0	0	0	0
+Trachycarpus nanus	NE	NE	NE	Threatened	0	0	0	1
+Trachycarpus oreophilus	NE	NE	NE	NE	0	0	0	0
+Trachycarpus princeps	NE	NE	NE	Data Deficient	0	0	0	1
+Trachycarpus ravenii	NE	NE	NE	NE	0	0	0	0
+Trachycarpus takil	NE	NE	Possibly Threatened	NE	0	0	1	0
+Trachycarpus ukhrulensis	NE	NE	NE	NE	0	0	0	0
+Trithrinax brasiliensis	DD	NE	Data Deficient	NE	1	0	1	0
+Trithrinax campestris	NE	NE	NE	NE	0	0	0	0
+Trithrinax schizophylla	NE	NE	Possibly Threatened	NE	0	0	2	0
+Veitchia arecina	LC,EN	NE	Not Threatened,Threatened	NE	2	0	2	0
+Veitchia filifera	NE	LC	Threatened	Not Threatened	0	1	3	1
+Veitchia joannis	NE	LC	Not Threatened	Not Threatened	0	1	1	1
+Veitchia lepidota	DD	NE	Data Deficient	NE	1	0	1	0
+Veitchia metiti	NT	NE	Possibly Threatened	NE	1	0	1	0
+Veitchia pachyclada	DD	NE	Data Deficient	NE	1	0	1	0
+Veitchia simulans	NE	DD	Threatened	Data Deficient	0	1	1	1
+Veitchia spiralis	NT	NE	Possibly Threatened	NE	1	0	1	0
+Veitchia subdisticha	DD	NE	Data Deficient	NE	1	0	1	0
+Veitchia subglobosa	NE	NE	NE	NE	0	0	0	0
+Veitchia vitiensis	NE	LC	Not Threatened	Not Threatened	0	1	1	1
+Veitchia winin	NE	NE	NE	NE	0	0	0	0
+Verschaffeltia splendida	NE	NT	Threatened	Possibly Threatened	0	1	1	1
+Voanioala gerardii	NE	CR	Threatened	Threatened	0	1	1	1
+Wallaceodoxa raja-ampat	NE	NE	NE	NE	0	0	0	0
+Wallichia caryotoides	NE	NE	NE	NE	0	0	0	0
+Wallichia disticha	NE	NE	NE	NE	0	0	0	0
+Wallichia gracilis	NE	NE	NE	NE	0	0	0	0
+Wallichia lidiae	NE	NE	NE	NE	0	0	0	0
+Wallichia marianneae	NE	NE	NE	NE	0	0	0	0
+Wallichia nana	NE	NE	NE	NE	0	0	0	0
+Wallichia oblongifolia	NE	NE	NE	NE	0	0	0	0
+Wallichia triandra	LC	NE	Not Threatened	NE	1	0	1	0
+Washingtonia filifera	NT	NE	Not Threatened	NE	1	0	1	0
+Washingtonia robusta	NE	NE	NE	NE	0	0	0	0
+Welfia alfredii	NE	NE	NE	NE	0	0	0	0
+Welfia regia	NE	NE	NE	NE	0	0	0	0
+Wendlandiella gracilis	NE	NE	Possibly Threatened	NE	0	0	3	0
+Wettinia aequalis	NE	NE	NE	NE	0	0	0	0
+Wettinia aequatorialis	VU	NE	Threatened	NE	1	0	1	0
+Wettinia anomala	LC	NE	Not Threatened	NE	1	0	1	0
+Wettinia augusta	NE	NE	Possibly Threatened	NE	0	0	1	0
+Wettinia castanea	NE	NT	Possibly Threatened	Possibly Threatened	0	1	1	1
+Wettinia disticha	LC	NE	Not Threatened	NE	1	0	1	0
+Wettinia drudei	LC	NE	Not Threatened	NE	1	0	1	0
+Wettinia fascicularis	LC	NE	Not Threatened	NE	1	0	1	0
+Wettinia hirsuta	EN	NE	Threatened	NE	1	0	1	0
+Wettinia kalbreyeri	LC	NE	Not Threatened	NE	1	0	1	0
+Wettinia lanata	NE	NE	Possibly Threatened	NE	0	0	1	0
+Wettinia longipetala	VU	NE	Threatened	NE	1	0	1	0
+Wettinia maynensis	NE	NE	Possibly Threatened	NE	0	0	1	0
+Wettinia microcarpa	NE	NE	Threatened	NE	0	0	1	0
+Wettinia minima	EN	NE	Threatened	Threatened	1	0	1	1
+Wettinia oxycarpa	NE	NE	NE	NE	0	0	0	0
+Wettinia panamensis	NE	NE	NE	NE	0	0	0	0
+Wettinia praemorsa	NE	NE	NE	NE	0	0	0	0
+Wettinia quinaria	NE	NE	NE	NE	0	0	0	0
+Wettinia radiata	NE	NE	NE	NE	0	0	0	0
+Wettinia verruculosa	NE	NE	NE	NE	0	0	0	0
+Wodyetia bifurcata	NT	NE	Possibly Threatened	NE	1	0	1	0
+Zombia antillarum	NE	NE	NE	NE	0	0	0	0
