@@ -1,0 +1,397 @@
+---
+title: "SHAP analysis for palms (B. E. Walker)"
+output: 
+  html_document:
+    code_folding: hide
+---
+
+```{r libraries, message=FALSE, warning=FALSE}
+library(here)     # handle file paths
+library(dplyr)    # manipulate data
+library(tidyr)    # reshape data
+library(readr)    # read text data
+library(readxl)   # read excel files
+library(randomForest) # random forest models
+library(caret)    # machine learning control
+library(shapper)  # calculates shap functions
+library(purrr)    # functional programming
+library(ggplot2)  # plotting
+library(ggforce)  # forces in plotting - for beeswarm plot
+library(patchwork) # joining plots together
+library(glue)     # string interpolation
+library(writexl)  # saving data to excel files
+```
+
+```{r permutation importance functions}
+#' Shuffles the values in a specified column of a DataFrame.
+#' 
+#' @param data A DataFrame
+#' @param var The name of the column to shuffle, as a string
+shuffle_values <- function(data, var) {
+  var <- sym(var)
+  
+  data %>%
+    mutate(!! var := sample(!! var))
+}
+
+#' Calculates the accuracy of model predictions on given data.
+#' 
+#'  Assumes the labels are included in a column called `target` 
+#'  and the examples have a unique id in a column called `accepted_name`.
+#' 
+#' @param model A trained model that makes predictions using the `predict` function.
+#' @param data A DataFrame of examples to make predictions for.
+calculate_accuracy <- function(model, data) {
+  obs <- data$target
+  pred <- predict(model, newdata=select(data, -accepted_name, -target))
+  
+  mean(pred == obs)
+}
+
+#' Calculate the permutation feature importance.
+#' 
+#' This will calculate the feature importance for all columns of the
+#' provided DataFrame, except an id column named `accepted_name` and
+#' a column of labels called `target`. The feature importance is calculated
+#' as the mean decrease in accuracy.
+#' 
+#' @param model A trained model to calculate the importance for.
+#' @param data A DataFrame of examples. 
+#' @param repeats Number of times to shuffle each column.
+permutation_importance <- function(model, data, repeats=10) {
+  features <- 
+    data %>%
+    select(-accepted_name, -target) %>%
+    colnames()
+  
+  baseline <- calculate_accuracy(rf_model, data)
+  
+  features %>%
+    map(~rep(calculate_accuracy(rf_model, shuffle_values(data, .x)), repeats)) %>%
+    map_dbl(~mean(baseline - .x)) %>%
+    set_names(features) %>%
+    tibble::enframe(name="feature", value="importance")
+}
+
+```
+
+```{r load data, warning=FALSE, message=FALSE}
+# trained models
+models <- read_rds(here("data/trained_models.rds"))
+
+# model performances
+performance <- read_excel(here("data/model_performance.xlsx"),
+                          skip=3)
+# input data
+inputs <- read_delim(here("data/scaled_input_data.txt"), delim="\t")
+```
+
+# SHAP values for exploring palm predictions
+
+In this notebook I've calculated SHAP values for the test set predictions for the two models chosen for downstream analysis.
+
+## Setting up the analysis
+
+The two models that were used for downstream analysis were `RFt__DS_1_down_DPM_rf_mt` and `NN___DS_1_smote_Kappa_nn`. This means the first is a random forest model trained using downsampling with the classification threshold chosen to maximise DPM, and the second is a single-layered neural network trained using smote resampling with hyperparameters chosen to maximise Kappa.
+
+```{r select models}
+# choose models used for downstream analysis
+rf_model <- models$RFt___DS_1_down_DPM_rf_mt
+nn_model <- models$NN___DS_1_smote_Kappa_nn
+```
+
+The features used for both models were:
+
+```{r get model predictors}
+# get feature names
+rf_features <- rf_model$finalModel$xNames
+nn_features <- nn_model$finalModel$xNames
+
+glue("rf features: {glue_collapse(rf_features, ', ')}")
+glue("NN features: {glue_collapse(nn_features, ', ')}")
+```
+
+Both the same. So I'll use the same input data to select the predictors used, and split the data into the training and test sets.
+
+```{r split data}
+# get training data
+rf_train <- 
+  inputs %>%
+  filter(Subset == "TRAIN") %>%
+  select(all_of(c("accepted_name", rf_features)), target=IUCN_TS_sum)
+
+nn_train <-
+  inputs %>%
+  filter(Subset == "TRAIN") %>%
+  select(all_of(c("accepted_name", nn_features)), target=IUCN_TS_sum)
+
+# get test data
+rf_test <- 
+  inputs %>%
+  filter(Subset == "TEST") %>%
+  select(all_of(c("accepted_name", rf_features)), target=IUCN_TS_sum)
+
+nn_test <-
+  inputs %>%
+  filter(Subset == "TEST") %>%
+  select(all_of(c("accepted_name", nn_features)), target=IUCN_TS_sum)
+
+glue("train size: {nrow(nn_train)} species ({format(mean(nn_train$target == 'nonLC'), digits=2)} threatened)")
+glue("test size: {nrow(nn_test)} species ({format(mean(nn_test$target == 'nonLC'), digits=2)} threatened)")
+```
+
+## calculate SHAP values for test set
+
+SHAP is a method for explaining predictions by using game theory to fairly distribute the predicted value between the features.
+
+It is based on the concept of Shapley values but with some differences in calculation that make them faster. One difference is that SHAP represents Shapely values as a linear model of "coalitions" of features. This speeds up computation and allows all examples in a dataset to be explained, thereby allowing us to use SHAP for local and global explanations.
+
+[This book chapter](https://christophm.github.io/interpretable-ml-book/shap.html#kernelshap) gives a good explanation of how the SHAP values are calculated. The important thing for us is that for each instance, if generates groups of features ("coalitions") where some are randomly set to missing. The missing values are replaced with randomly sampled values from the background data.
+
+In our case, the background data I'm using is the training set data. This means that all the explanations are expressed as differences from the average training set prediction.
+
+```{r calculate SHAP, warning=FALSE, message=FALSE}
+# predictions need to come out as a matrix, otherwise it breaks
+fun <- function(model, data) as.matrix(predict(model, newdata=data, type="prob"))
+
+rf_shap <- individual_variable_effect(rf_model, data=select(rf_train, -accepted_name, -target),
+                                      new_observation=select(rf_test, -accepted_name, -target),
+                                      predict_function=fun, nsamples=50)
+
+nn_shap <- individual_variable_effect(nn_model, data=select(nn_train, -accepted_name, -target),
+                                      new_observation=select(nn_test, -accepted_name, -target),
+                                      predict_function=fun, nsample=50)
+
+# tidy up the results and link back to the species info
+rf_shap <-
+  rf_shap %>%
+  # only interested in one class - SHAP results are symmetric for two classes
+  filter(`_ylevel_` == "nonLC") %>%
+  # want to remove all transformed feature values
+  select(starts_with("_")) %>%
+  # rename and keep only the columns we care about
+  select(id=`_id_`, prob=`_yhat_`, mean_prob=`_yhat_mean_`, 
+         feature=`_vname_`, shap=`_attribution_`) %>%
+  # join to input data
+  left_join(
+    rf_test %>%
+      # add in the predicted value
+      mutate(pred=predict(rf_model, newdata=.)) %>%
+      # add an index to join to SHAP data
+      tibble::rowid_to_column() %>%
+      pivot_longer(cols=c(-accepted_name, -target, -rowid, -pred), names_to="feature"),
+    by=c("id"="rowid", "feature")
+  )
+
+nn_shap <-
+  nn_shap %>%
+  filter(`_ylevel_` == "nonLC") %>%
+  select(starts_with("_")) %>%
+  select(id=`_id_`, prob=`_yhat_`, mean_prob=`_yhat_mean_`, 
+         feature=`_vname_`, shap=`_attribution_`) %>%
+  left_join(
+    nn_test %>%
+      mutate(pred=predict(nn_model, newdata=.)) %>%
+      tibble::rowid_to_column() %>%
+      pivot_longer(cols=c(-accepted_name, -target, -rowid, -pred), names_to="feature"),
+    by=c("id"="rowid", "feature")
+  )
+```
+
+## Calculate permutation importance on test set
+
+```{r calculate permutation importance}
+rf_importance <- permutation_importance(rf_model, rf_test, repeats=1000)
+nn_importance <- permutation_importance(nn_model, nn_test, repeats=1000)
+```
+
+
+## Global explanations
+
+```{r plot importances}
+shap_importance <-
+  rf_shap %>%
+  mutate(model="rf") %>%
+  bind_rows(
+    nn_shap %>% mutate(model="nn")
+  ) %>%
+  group_by(feature, model) %>%
+  summarise(shap=mean(abs(shap)), .groups="drop") %>%
+  mutate(feature=reorder(feature, shap)) %>%
+  ggplot(mapping=aes(x=shap, y=feature, fill=model)) +
+  geom_col(colour="black", position="dodge") +
+  scale_fill_brewer(palette="Set1") +
+  labs(x="mean |SHAP|", y="")
+
+perm_importance <-
+  rf_importance %>%
+  mutate(model="rf") %>%
+  bind_rows(
+    nn_importance %>% mutate(model="nn")
+  ) %>%
+  mutate(feature=reorder(feature, importance)) %>%
+  ggplot(mapping=aes(x=importance, y=feature, fill=model)) +
+  geom_col(position="dodge", colour="black") +
+  scale_fill_brewer(palette="Set1") +
+  labs(x="mean decrease accuracy", y="")
+
+
+perm_importance / shap_importance +
+  plot_layout(guides = "collect") & 
+  theme(legend.position = 'bottom')
+```
+
+
+## SHAP value comparison
+
+```{r all shaps plot}
+scale_values <- function(values) {
+  (values - min(values, na.rm=TRUE)) / (max(values, na.rm=TRUE) - min(values, na.rm=TRUE))
+}
+
+(shap_value_plot <-
+  nn_shap %>%
+  mutate(feature=reorder(feature, abs(shap), FUN=mean)) %>%
+  group_by(feature) %>%
+  mutate(scaled_value=scale_values(value)) %>%
+  ungroup() %>%
+  mutate(model="nn") %>%
+  bind_rows(
+    rf_shap %>%
+      mutate(feature=reorder(feature, abs(shap), FUN=mean)) %>%
+      group_by(feature) %>%
+      mutate(scaled_value=scale_values(value)) %>%
+      ungroup() %>%
+      mutate(model="rf")
+  ) %>%
+  ggplot(mapping=aes(y=shap, x=feature, colour=scaled_value)) +
+  geom_sina() +
+  coord_flip() +
+  scale_colour_gradient(low="#FFCC33", high="#6600CC", 
+                        breaks=c(0,1), labels=c("Low","High"),
+                        name="Feature value") +
+  labs(y="SHAP value", x="") +
+  facet_wrap(~model))
+```
+
+## Examining wrong predictions
+
+```{r random forest paths, message=FALSE, warning=FALSE, fig.width=10, fig.height=7}
+rf_shap %>%
+  mutate(feature=reorder(feature, abs(shap), FUN=mean)) %>%
+  arrange(feature) %>%
+  arrange(id) %>%
+  group_by(id) %>%
+  mutate(cumshap=mean_prob + cumsum(shap)) %>%
+  ungroup() %>%
+  select(-value, -shap) %>%
+  mutate(feature_order=as.numeric(feature)) %>%
+  mutate(baseline=mean_prob) %>%
+  pivot_wider(names_from=feature, values_from=cumshap) %>%
+  pivot_longer(baseline:TDWG3, names_to="feature", values_to="cumshap") %>%
+  filter(! is.na(cumshap)) %>%
+  distinct(across(-feature_order), .keep_all=TRUE) %>%
+  mutate(feature_order=ifelse(feature == "baseline", 0, feature_order)) %>%
+  mutate(feature=reorder(feature, feature_order)) %>%
+  mutate(wrong=target != pred) %>%
+  mutate(label=ifelse(wrong & feature_order == max(feature_order), 
+                      accepted_name, NA_character_)) %>%
+  ggplot(mapping=aes(y=cumshap, x=feature)) +
+  stat_summary(geom="hline", mapping=aes(yintercept=mean_prob), 
+               fun=first, linetype=2, colour="grey50") +
+  geom_line(mapping=aes(group=id, colour=prob, alpha=wrong, 
+                        linetype=wrong, size=wrong)) +
+  geom_text(mapping=aes(label=label, colour=prob), hjust=0, vjust=0.5) +
+  scale_colour_gradient(low="#FFCC33", high="#6600CC", name="") +
+  scale_alpha_manual(values=c(`TRUE`=1, `FALSE`=0.25)) +
+  scale_linetype_manual(values=c(`TRUE`=6, `FALSE`=1)) +
+  scale_size_manual(values=c(`TRUE`=1, `FALSE`=0.5)) +
+  scale_x_discrete(expand=expansion(add=c(0, 2))) +
+  labs(x="", y="Predicted probability threatened") +
+  guides(colour=FALSE, alpha=FALSE, linetype=FALSE, size=FALSE)
+```
+
+
+
+```{r inspecting some examples}
+examples <- c("Roystonea borinquena", "Chamaedorea oreophila",
+              "Chamaedorea fractiflexa", "Chamaedorea metallica")
+rf_shap %>%
+  filter(accepted_name %in% examples) %>%
+  select(accepted_name, pred, feature, value) %>%
+  pivot_wider(names_from="feature", values_from="value") %>%
+  left_join(
+    inputs %>% select(accepted_name, Nocc),
+    by="accepted_name"
+  )
+```
+
+
+
+```{r neural net paths, message=FALSE, warning=FALSE, fig.width=10, fig.height=7}
+nn_shap %>%
+  mutate(feature=reorder(feature, abs(shap), FUN=mean)) %>%
+  arrange(feature) %>%
+  arrange(id) %>%
+  group_by(id) %>%
+  mutate(cumshap=mean_prob + cumsum(shap)) %>%
+  ungroup() %>%
+  select(-value, -shap) %>%
+  mutate(feature_order=as.numeric(feature)) %>%
+  mutate(baseline=mean_prob) %>%
+  pivot_wider(names_from=feature, values_from=cumshap) %>%
+  pivot_longer(baseline:TDWG3, names_to="feature", values_to="cumshap") %>%
+  filter(! is.na(cumshap)) %>%
+  distinct(across(-feature_order), .keep_all=TRUE) %>%
+  mutate(feature_order=ifelse(feature == "baseline", 0, feature_order)) %>%
+  mutate(feature=reorder(feature, feature_order)) %>%
+  mutate(wrong=target != pred) %>%
+  mutate(label=ifelse(wrong & feature_order == max(feature_order), 
+                      accepted_name, NA_character_)) %>%
+  ggplot(mapping=aes(y=cumshap, x=feature)) +
+  stat_summary(geom="hline", mapping=aes(yintercept=mean_prob), 
+               fun=first, linetype=2, colour="grey50") +
+  geom_line(mapping=aes(group=id, colour=prob, alpha=wrong, 
+                        linetype=wrong, size=wrong)) +
+  geom_text(mapping=aes(label=label, colour=prob), hjust=0, vjust=0.5) +
+  scale_colour_gradient(low="#FFCC33", high="#6600CC", name="") +
+  scale_alpha_manual(values=c(`TRUE`=1, `FALSE`=0.25)) +
+  scale_linetype_manual(values=c(`TRUE`=6, `FALSE`=1)) +
+  scale_size_manual(values=c(`TRUE`=1, `FALSE`=0.5)) +
+  scale_x_discrete(expand=expansion(add=c(0, 2))) +
+  scale_y_continuous(limits=c(0, 1)) +
+  labs(x="", y="Predicted probability threatened") +
+  guides(colour=FALSE, alpha=FALSE, linetype=FALSE, size=FALSE)
+```
+
+
+
+```{r inspecting some nn examples}
+examples <- c(
+  "Allagoptera brevicalyx",
+  "Brahea brandegeei",
+  "Attalea oleifera",
+  "Pinanga patula"
+)
+
+nn_shap %>%
+  filter(accepted_name %in% examples) %>%
+  select(accepted_name, pred, feature, value) %>%
+  pivot_wider(names_from="feature", values_from="value") %>%
+  left_join(
+    inputs %>% select(accepted_name, Nocc),
+    by="accepted_name"
+  )
+```
+
+
+```{r save shap values, include=FALSE}
+write_xlsx(list(
+  `RFt___DS_1_down_DPM_rf_mt`=rf_shap,
+  `NN___DS_1_smote_Kappa_nn`=nn_shap
+  ),
+here("output/shap_values.xlsx"))
+```
+
+
+
