@@ -1,0 +1,9 @@
+"name"	"size"	"decay"	"convergence"
+"1"	"M_D_0.75_none_Kappa_nn"	1	0.005	0
+"2"	"M_D_0.75_smote_Kappa_nn"	1	0.05	0
+"3"	"M_D_0.75_up_Kappa_nn"	1	0.05	0
+"4"	"M_D_0.75_down_Kappa_nn"	1	0.01	0
+"5"	"M_D_1_none_Kappa_nn"	1	1	0
+"6"	"M_D_1_smote_Kappa_nn"	11	0.05	0
+"7"	"M_D_1_up_Kappa_nn"	2	0.1	0
+"8"	"M_D_1_down_Kappa_nn"	1	0.1	0
