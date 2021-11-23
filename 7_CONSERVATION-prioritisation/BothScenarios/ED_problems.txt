@@ -1,0 +1,207 @@
+[1] "Adonidia dransfieldii  NO MATCH"
+[1] "Aiphanes argos  NO MATCH"
+[1] "Aiphanes concinna  NO MATCH"
+[1] "Aiphanes killipii  NO MATCH"
+[1] "Aiphanes lindeniana"
+[1] 6.567141 6.329420
+[1] 6.448281
+[1] "Aiphanes truncata  NO MATCH"
+[1] "Allagoptera robusta  NO MATCH"
+[1] "Areca jokowi  NO MATCH"
+[1] "Areca unipa  NO MATCH"
+[1] "Astrocaryum arenarium  NO MATCH"
+[1] "Attalea amygdalina"
+[1] 4.946399 5.031555
+[1] 4.988977
+[1] "Attalea butyracea"
+[1] 4.919106 4.212231
+[1] 4.565669
+[1] "Attalea pacensis  NO MATCH"
+[1] "Bactris chocoensis  NO MATCH"
+[1] "Bactris manriquei  NO MATCH"
+[1] "Beccariophoenix fenestralis  NO MATCH"
+[1] "Butia arenicola  NO MATCH"
+[1] "Butia lepidotispatha  NO MATCH"
+[1] "Butia poni  NO MATCH"
+[1] "Butia pubispatha  NO MATCH"
+[1] "Butia witeckii  NO MATCH"
+[1] "Butia yatay"
+[1] 2.807982 2.853703 3.199624
+[1] 2.953769
+[1] "Calamus acanthochlamys"
+[1] 3.184002 3.562826
+[1] 3.373414
+[1] "Calamus albus  NO MATCH"
+[1] "Calamus altiscandens  NO MATCH"
+[1] "Calamus asperrimus"
+[1] 4.158602 4.135995
+[1] 4.147298
+[1] "Calamus baiyerensis  NO MATCH"
+[1] "Calamus balerensis  NO MATCH"
+[1] "Calamus balingensis"
+[1] 5.738243 5.820765
+[1] 5.779504
+[1] "Calamus bankae  NO MATCH"
+[1] "Calamus barfodii  NO MATCH"
+[1] "Calamus capillosus  NO MATCH"
+[1] "Calamus cawa  NO MATCH"
+[1] "Calamus conirostris"
+[1] 4.516890 5.358117
+[1] 4.937503
+[1] "Calamus egregius"
+[1]  3.320895 10.868829
+[1] 7.094862
+[1] "Calamus equestris  NO MATCH"
+[1] "Calamus erioacanthus"
+[1] 3.019116 3.057147 3.733780 3.016272 2.991123 3.257335 3.730109
+[1] 3.25784
+[1] "Calamus erythrocarpus  NO MATCH"
+[1] "Calamus exilis"
+[1] 3.891476 3.396539
+[1] 3.644008
+[1] "Calamus gracilipes"
+[1] 5.014854 5.143730
+[1] 5.079292
+[1] "Calamus halmaherensis  NO MATCH"
+[1] "Calamus heatubunii  NO MATCH"
+[1] "Calamus inermis"
+[1] 3.247222 4.068537 3.322054
+[1] 3.545938
+[1] "Calamus interruptus  NO MATCH"
+[1] "Calamus javensis"
+[1] 2.673662 2.894216 2.753731 2.656243 2.749169 2.647910
+[1] 2.729155
+[1] "Calamus katikii  NO MATCH"
+[1] "Calamus kebariensis  NO MATCH"
+[1] "Calamus komsaryi  NO MATCH"
+[1] "Calamus kostermansii  NO MATCH"
+[1] "Calamus leiocaulis  NO MATCH"
+[1] "Calamus longipes  NO MATCH"
+[1] "Calamus mattanensis"
+[1] 3.380234 3.364070
+[1] 3.372152
+[1] "Calamus maturbongsii  NO MATCH"
+[1] "Calamus melanacanthos"
+[1] 4.636099 4.663177
+[1] 4.649638
+[1] "Calamus melanochaetes"
+[1] 4.953433 4.600172
+[1] 4.776802
+[1] "Calamus melanochrous  NO MATCH"
+[1] "Calamus micranthus"
+[1] 4.020604 4.404107 3.971329
+[1] 4.132013
+[1] "Calamus mitis"
+[1] 2.876134 2.876625
+[1] 2.87638
+[1] "Calamus mollis"
+[1] 4.654970 4.789721
+[1] 4.722346
+[1] "Calamus moseleyanus"
+[1] 3.019600 3.617433 3.129824 4.254035
+[1] 3.505223
+[1] "Calamus myrianthus  NO MATCH"
+[1] "Calamus nicolai  NO MATCH"
+[1] "Calamus nitidus  NO MATCH"
+[1] "Calamus novae-georgii  NO MATCH"
+[1] "Calamus orthostachyus  NO MATCH"
+[1] "Calamus padangensis  NO MATCH"
+[1] "Calamus papuanus  NO MATCH"
+[1] "Calamus papyraceus  NO MATCH"
+[1] "Calamus pintaudii  NO MATCH"
+[1] "Calamus platyspathus"
+[1] 5.954261 6.858593
+[1] 6.406427
+[1] "Calamus polycladus  NO MATCH"
+[1] "Calamus rhomboideus"
+[1] 3.999279 4.008370 4.435178
+[1] 4.147609
+[1] "Calamus rumphii  NO MATCH"
+[1] "Calamus sashae  NO MATCH"
+[1] "Calamus schlechteri"
+[1] 4.859764 4.810602
+[1] 4.835183
+[1] "Calamus sedisspirituum  NO MATCH"
+[1] "Calamus siphonospathus"
+[1] 5.465944 5.480887 5.463084
+[1] 5.469971
+[1] "Calamus spanostachys  NO MATCH"
+[1] "Calamus spiculifer  NO MATCH"
+[1] "Calamus stolonifer  NO MATCH"
+[1] "Calamus sumbawensis  NO MATCH"
+[1] "Calamus superciliatus  NO MATCH"
+[1] "Calamus tetradactylus"
+[1] 3.050858 2.917034 2.915083 3.069699 2.958326
+[1] 2.9822
+[1] "Calamus timorensis  NO MATCH"
+[1] "Calamus viminalis"
+[1] 7.582522 5.486341 5.542995
+[1] 6.203953
+[1] "Calamus viridissimus  NO MATCH"
+[1] "Chamaedorea linearis"
+[1] 6.681619 8.975048
+[1] 7.828334
+[1] "Chamaedorea warscewiczii"
+[1] 6.416731 3.808361
+[1] 5.112546
+[1] "Chuniophoenix nana"
+[1] 23.13702 23.67049
+[1] 23.40376
+[1] "Coccothrinax alta  NO MATCH"
+[1] "Coccothrinax jimenezii  NO MATCH"
+[1] "Dypsis declivium  NO MATCH"
+[1] "Dypsis leucomalla  NO MATCH"
+[1] "Dypsis lilacina  NO MATCH"
+[1] "Dypsis pustulata  NO MATCH"
+[1] "Dypsis rosea  NO MATCH"
+[1] "Dypsis sancta"
+[1] 3.984574 3.965409
+[1] 3.974991
+[1] "Dypsis subacaulis  NO MATCH"
+[1] "Guihaia lancifolia  NO MATCH"
+[1] "Hyospathe pittieri  NO MATCH"
+[1] "Hyospathe wendlandiana  NO MATCH"
+[1] "Iguanura speciosa  NO MATCH"
+[1] "Korthalsia minor  NO MATCH"
+[1] "Laccosperma cristalensis  NO MATCH"
+[1] "Livistona saribus"
+[1] 5.597035 5.765663
+[1] 5.681349
+[1] "Nannorrhops baluchestanica  NO MATCH"
+[1] "Phytelephas macrocarpa"
+[1] 13.27265 12.50580 12.66336
+[1] 12.81394
+[1] "Pinanga brewsteriana  NO MATCH"
+[1] "Pinanga glaucescens  NO MATCH"
+[1] "Pinanga sembilan  NO MATCH"
+[1] "Pinanga sylvestris"
+[1] 3.214411 3.256301
+[1] 3.235356
+[1] "Ravenea declivium  NO MATCH"
+[1] "Rhapis evansii  NO MATCH"
+[1] "Rhapis humilis"
+[1] 8.160469 5.349926
+[1] 6.755198
+[1] "Rhapis kebangensis  NO MATCH"
+[1] "Rhapis laosensis  NO MATCH"
+[1] "Rhapis subtilis"
+[1] 6.547779 7.137978
+[1] 6.842879
+[1] "Sabinaria magnifica  NO MATCH"
+[1] "Salacca acehensis  NO MATCH"
+[1] "Socratea karstenii  NO MATCH"
+[1] "Socratea rostrata"
+[1] 10.11281 10.22058
+[1] 10.1667
+[1] "Syagrus emasensis  NO MATCH"
+[1] "Syagrus guimaraesensis  NO MATCH"
+[1] "Syagrus menzeliana  NO MATCH"
+[1] "Syagrus pompeoi  NO MATCH"
+[1] "Syagrus santosii  NO MATCH"
+[1] "Synechanthus dasystachys  NO MATCH"
+[1] "Trachycarpus ravenii  NO MATCH"
+[1] "Trithrinax brasiliensis"
+[1] 10.16589 10.11827
+[1] 10.14208
+[1] "Wallaceodoxa raja-ampat  NO MATCH"
+[1] "Welfia alfredii  NO MATCH"
