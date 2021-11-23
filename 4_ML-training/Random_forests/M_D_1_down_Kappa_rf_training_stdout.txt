@@ -1,0 +1,29 @@
+Random Forest 
+
+225 samples
+ 13 predictor
+  2 classes: 'nonLC', 'LC' 
+
+Pre-processing: nearest neighbor imputation (13), centered (13), scaled (13) 
+Resampling: Cross-Validated (10 fold, repeated 10 times) 
+Summary of sample sizes: 202, 202, 203, 202, 202, 203, ... 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results across tuning parameters:
+
+  mtry  Accuracy   Kappa    
+   1    0.7345445  0.4553576
+   2    0.7231254  0.4353086
+   3    0.7302362  0.4500342
+   4    0.7302221  0.4518867
+   5    0.7275936  0.4474143
+   6    0.7270958  0.4455181
+   7    0.7262300  0.4441142
+   8    0.7377499  0.4670296
+   9    0.7329258  0.4561835
+  10    0.7293921  0.4513094
+  11    0.7268841  0.4457380
+  12    0.7312300  0.4519804
+
+Kappa was used to select the optimal model using the largest value.
+The final value used for the model was mtry = 8.
