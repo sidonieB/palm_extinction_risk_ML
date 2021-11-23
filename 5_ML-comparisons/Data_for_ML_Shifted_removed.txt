@@ -1,0 +1,1683 @@
+"accepted_name"	"Nocc"	"IUCN_TS_detail"	"IUCN_TS_sum"	"IUCN_TS_detail_InclOld"	"IUCN_TS_sum_InclOld"	"Subset"	"NsubPop"	"Nloc"	"AOO"	"EOO"	"FLO"	"ECO"	"TDWG3"
+"Chamaedorea klotzschiana"	14	"EN"	"nonLC"	"EN"	"nonLC"	"TEST"	6	8	52	21781.3789058268	0.0364062027739627	5	1
+"Heterospathe longipes"	1	"EN"	"nonLC"	"EN"	"nonLC"	"TEST"	1	1	4	NA	0	1	1
+"Chamaedorea oreophila"	9	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TEST"	5	5	36	3123.27524095675	0.0165500682778656	3	2
+"Eremospatha quinquecostulata"	3	"LC"	"LC"	"LC"	"LC"	"TEST"	3	3	12	31047.6295841958	0.0155454536434263	2	2
+"Bismarckia nobilis"	17	"LC"	"LC"	"LC"	"LC"	"TEST"	12	13	60	258646.66435919	0.0309151668779497	4	1
+"Eremospatha macrocarpa"	30	"LC"	"LC"	"LC"	"LC"	"TEST"	26	27	120	528424.374924551	0.0797083289517711	6	11
+"Chamaedorea ibarrae"	9	"LC"	"LC"	"LC"	"LC"	"TEST"	5	6	32	6391.43176718299	0.0278565374513467	2	2
+"Chuniophoenix hainanensis"	2	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TEST"	2	2	8	NA	0.130073864012957	2	1
+"Phoenix atlantica"	1	"EN"	"nonLC"	"EN"	"nonLC"	"TEST"	1	1	4	NA	0.000410766981076449	1	1
+"Nypa fruticans"	75	"LC"	"LC"	"LC"	"LC"	"TEST"	46	54	268	48139889.0264962	0.0422172762797951	19	25
+"Eremospatha hookeri"	16	"LC"	"LC"	"LC"	"LC"	"TEST"	15	15	64	640610.872785676	0.0983490378566785	6	7
+"Ravenea krociana"	8	"EN"	"nonLC"	"EN"	"nonLC"	"TEST"	4	4	20	9957.89472871245	0.138993750093505	2	1
+"Eremospatha laurentii"	17	"LC"	"LC"	"LC"	"LC"	"TEST"	12	12	56	305644.75075585	0.0428974996731781	4	9
+"Heterospathe dransfieldii"	1	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TEST"	1	1	4	NA	0.0201917588710785	1	1
+"Licuala paludosa"	20	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TEST"	17	17	80	1662148.36165348	0.178062892239541	9	7
+"Basselinia iterata"	4	"EN"	"nonLC"	"EN"	"nonLC"	"TEST"	1	1	16	1.69691768651485	0.00373886246234179	1	1
+"Brahea aculeata"	41	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TEST"	16	21	124	51935.0566997707	0.00929954940653349	4	2
+"Licuala triphylla"	13	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TEST"	12	12	52	620032.516497901	0.232939498355755	4	4
+"Areca camarinensis"	1	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TEST"	1	1	4	NA	0.0211693700402975	1	1
+"Chamaedorea nubium"	68	"LC"	"LC"	"LC"	"LC"	"TEST"	27	36	232	185213.0947755	0.0349266286186107	9	5
+"Calamus tetradactyloides"	1	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TEST"	1	1	4	NA	0.212288603186607	1	1
+"Geonoma undata"	634	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TEST"	252	335	1908	7945060.64900669	0.0229996742101071	39	17
+"Allagoptera arenaria"	78	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TEST"	59	66	300	1881402.835403	0.0937234793867295	9	3
+"Basselinia glabrata"	10	"VU"	"nonLC"	"VU"	"nonLC"	"TEST"	5	5	36	1339.09277294583	0.00596833559684455	1	1
+"Licuala meijeri"	3	"Possibly Threatened"	"nonLC"	"Possibly Threatened"	"nonLC"	"TEST"	3	3	12	6268.91582267894	0.331318492690722	1	1
+"Bactris fissifrons"	71	"LC"	"LC"	"LC"	"LC"	"TEST"	45	49	240	1768463.44512545	0.0358821338917371	12	4
+"Bactris ferruginea"	31	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TEST"	25	26	112	215170.736361195	0.0980231946995181	6	2
+"Areca catechu"	28	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TEST"	26	26	112	15761936.6319162	0.0615748700365657	19	1
+"Ravenea delicatula"	4	"CR"	"nonLC"	"CR"	"nonLC"	"TEST"	1	1	8	0.000429177771508694	0.211996704339981	1	1
+"Calamus modestus"	8	"LC"	"LC"	"LC"	"LC"	"TEST"	4	5	24	21791.8518517321	0.158622556831688	2	1
+"Chamaedorea metallica"	18	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TEST"	8	11	72	30288.036111021	0.0363007933677485	2	2
+"Hyphaene thebaica"	283	"LC"	"LC"	"LC"	"LC"	"TEST"	45	68	508	9618338.51006968	0.00591355706378893	11	28
+"Chamaedorea glaucifolia"	36	"EN"	"nonLC"	"EN"	"nonLC"	"TEST"	13	23	132	10912.262181884	0.0514581389207807	7	1
+"Ravenea beentjei"	7	"CR"	"nonLC"	"CR"	"nonLC"	"TEST"	3	3	20	47.7932086291084	0.0751743002661637	2	1
+"Areca vestiaria"	31	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TEST"	19	22	100	205475.916335201	0.076542793467055	3	2
+"Chambeyronia lepidota"	8	"LC"	"LC"	"LC"	"LC"	"TEST"	2	2	20	28.1762428437469	0.00594750116579235	1	1
+"Butia microspadix"	18	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TEST"	11	11	64	1121284.6566597	0.124932052464121	4	2
+"Burretiokentia hapala"	7	"VU"	"nonLC"	"VU"	"nonLC"	"TEST"	2	2	20	127.98482872238	0.0146486127882132	1	1
+"Roystonea borinquena"	4	"Near Threatened"	"nonLC"	"Near Threatened"	"nonLC"	"TEST"	3	3	12	14253.536305774	0.0556694371625781	2	4
+"Allagoptera brevicalyx"	33	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TEST"	22	24	132	391101.12315969	0.114402699481809	8	1
+"Burretiokentia koghiensis"	4	"CR"	"nonLC"	"CR"	"nonLC"	"TEST"	1	1	12	0.77612257986635	0.0510583128780127	1	1
+"Licuala elliptica"	2	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TEST"	2	2	8	NA	0.287127256393433	1	1
+"Borassus madagascariensis"	10	"EN"	"nonLC"	"EN"	"nonLC"	"TEST"	7	7	40	65149.2545088953	0.0671959389932454	2	1
+"Raphia australis"	11	"VU"	"nonLC"	"VU"	"nonLC"	"TEST"	8	9	40	405629.46934223	0.0955626168711619	5	3
+"Calamus viminalis"	70	"LC"	"LC"	"LC"	"LC"	"TEST"	55	57	244	1391112.39408479	0.101682632798801	19	15
+"Butia capitata"	36	"Threatened,Data Deficient"	"nonLC"	"Threatened,Data Deficient"	"nonLC"	"TEST"	33	33	144	1042666.63829444	0.0510084687719225	6	3
+"Calamus erioacanthus"	43	"LC"	"LC"	"LC"	"LC"	"TEST"	23	27	160	755693.236177661	0.156926420571412	6	3
+"Areca macrocalyx"	123	"LC"	"LC"	"LC"	"LC"	"TEST"	81	89	416	1855570.03521227	0.0533727357950539	15	4
+"Heterospathe brevicaulis"	2	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TEST"	2	2	8	NA	0.027682984713465	1	1
+"Licuala rubiginosa"	9	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TEST"	4	4	32	1782.9733672291	0.0755301545270615	2	1
+"Ravenea musicalis"	6	"CR"	"nonLC"	"CR"	"nonLC"	"TEST"	1	2	16	9.19235958425713	0.068825364112854	1	1
+"Chamaedorea fractiflexa"	2	"EN"	"nonLC"	"EN"	"nonLC"	"TEST"	2	2	8	NA	0.0310583086684346	1	2
+"Attalea brasiliensis"	3	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TEST"	3	3	12	12435.4673860237	0.0503698244380454	2	1
+"Pinanga patula"	13	"LC"	"LC"	"LC"	"LC"	"TEST"	12	12	52	530143.271171335	0.291939224689626	5	1
+"Attalea oleifera"	15	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TEST"	12	12	56	543130.492443747	0.0523918456708391	7	1
+"Licuala glabra"	26	"Possibly Threatened"	"nonLC"	"Possibly Threatened"	"nonLC"	"TEST"	24	24	104	269454.91984801	0.214464444098457	5	3
+"Brahea armata"	58	"LC"	"LC"	"LC"	"LC"	"TEST"	21	30	176	272869.973591449	0.000481149616360136	8	1
+"Phoenix paludosa"	11	"NT"	"nonLC"	"NT"	"nonLC"	"TEST"	9	9	40	420848.496290264	0.129682138054208	5	11
+"Leucothrinax morrisii"	20	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TEST"	14	15	76	823615.84696059	0.0604959477339435	7	7
+"Burretiokentia vieillardii"	48	"LC"	"LC"	"LC"	"LC"	"TEST"	14	23	152	7140.78060213913	0.0137245038458786	2	1
+"Calamus sabalensis"	3	"CR"	"nonLC"	"CR"	"nonLC"	"TEST"	2	3	12	68.3038895466686	0.403289973735809	1	1
+"Chamaedorea alternans"	18	"LC"	"LC"	"LC"	"LC"	"TEST"	10	11	64	46907.6464068098	0.0322906726764308	3	1
+"Burretiokentia dumasii"	2	"EN"	"nonLC"	"EN"	"nonLC"	"TEST"	1	1	8	NA	0.00738835986703634	1	1
+"Burretiokentia grandiflora"	3	"EN"	"nonLC"	"EN"	"nonLC"	"TEST"	1	1	8	0.554453445716143	0.0244905017316341	1	1
+"Calamus caryotoides"	5	"LC"	"LC"	"LC"	"LC"	"TEST"	3	3	20	19716.4225623415	0.0102567819878459	2	1
+"Calamus inermis"	42	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TEST"	29	30	148	1720132.77058165	0.0857852685841776	11	9
+"Ravenea madagascariensis"	54	"LC"	"LC"	"LC"	"LC"	"TEST"	28	35	192	217387.229051539	0.132387430899716	2	1
+"Licuala orbicularis"	5	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TEST"	3	3	16	298.570618342422	0.238097941875458	1	1
+"Eremospatha haullevilleana"	23	"LC"	"LC"	"LC"	"LC"	"TEST"	12	15	76	469909.139923317	0.00617493001324044	5	9
+"Phoenix reclinata"	327	"LC"	"LC"	"LC"	"LC"	"TEST"	226	253	1156	53975037.1775785	0.0600243435929694	45	43
+"Astrocaryum carnosum"	1	"VU"	"nonLC"	"VU"	"nonLC"	"TEST"	1	1	4	NA	0.0798932835459709	1	1
+"Heterospathe phillipsii"	1	"EN"	"nonLC"	"EN"	"nonLC"	"TEST"	1	1	4	NA	0.00735512468963861	1	1
+"Geonoma schottiana"	293	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TEST"	167	216	1056	1193271.90497631	0.0639171971363983	12	2
+"Orania longisquama"	31	"LC"	"LC"	"LC"	"LC"	"TEST"	16	17	88	168490.995742841	0.184957180592802	3	1
+"Brahea brandegeei"	40	"LC"	"LC"	"LC"	"LC"	"TEST"	16	21	132	100637.618947382	0.00129416786885486	7	1
+"Acrocomia emensis"	5	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	5	5	20	363524.041779703	0.0940502349287271	1	3
+"Actinokentia divaricata"	32	"LC"	"LC"	"LC"	"LC"	"TRAIN"	11	18	100	4150.03153770552	0.0165909527804615	1	1
+"Actinokentia huerlimannii"	4	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	2	2	8	9.97586845537426	0.00745066421222873	1	1
+"Aiphanes grandis"	15	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	4	5	24	1985.72565597658	0.0226637097696463	2	1
+"Aiphanes minima"	3	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	2	2	12	635.81973167984	0.199423097074032	2	2
+"Aiphanes verrucosa"	13	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	3	4	36	500.509143894063	0.0166105391600957	2	1
+"Areca abdulrahmanii"	2	"NT"	"nonLC"	"NT"	"nonLC"	"TRAIN"	1	1	8	NA	0.00306143774650991	1	1
+"Areca novohibernica"	27	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	22	22	100	912872.226517018	0.0789643317392027	5	2
+"Areca oxycarpa"	9	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	5	5	28	3022.22281174707	0.0982849581374062	2	1
+"Areca parens"	1	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	1	1	4	NA	0.0211693700402975	1	1
+"Areca unipa"	1	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	1	1	4	NA	0.00499328598380089	1	1
+"Astrocaryum aculeatissimum"	51	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	37	40	184	196065.512968581	0.0937820972518667	5	3
+"Attalea barreirensis"	23	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	17	20	84	947175.559956678	0.0973841908347347	5	2
+"Attalea funifera"	35	"LC"	"LC"	"LC"	"LC"	"TRAIN"	24	27	124	112381.569445849	0.0863064692488738	6	2
+"Bactris glaucescens"	44	"LC"	"LC"	"LC"	"LC"	"TRAIN"	31	33	140	2573714.79453376	0.0521397545843766	10	5
+"Bactris hatschbachii"	6	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	5	5	24	126752.125365989	0.0382688626026114	3	2
+"Bactris horridispatha"	12	"VU"	"nonLC"	"VU"	"nonLC"	"TRAIN"	8	8	32	12051.4081673953	0.10912421811372	2	1
+"Bactris pickelii"	37	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	26	28	136	271603.276002324	0.0956756911064322	5	2
+"Bactris timbuiensis"	10	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	3	4	36	298.901273451837	0.157864796370268	1	1
+"Bactris turbinocarpa"	3	"LC"	"LC"	"LC"	"LC"	"TRAIN"	2	2	12	236.279858629066	0.025120310485363	2	2
+"Basselinia deplanchei"	33	"NT"	"nonLC"	"NT"	"nonLC"	"TRAIN"	10	13	108	2531.87668626424	0.0131504769687484	1	1
+"Basselinia eriostachys"	7	"LC"	"LC"	"LC"	"LC"	"TRAIN"	5	5	20	639.56742431665	0.0176708267203399	1	1
+"Basselinia favieri"	3	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	1	1	12	0.531858390372515	0.0058986940421164	1	1
+"Basselinia gracilis"	79	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	24	40	268	9824.9187134657	0.0127560484349798	2	1
+"Basselinia humboldtiana"	5	"NT"	"nonLC"	"NT"	"nonLC"	"TRAIN"	3	4	20	1204.80274303808	0.0149334153858945	1	1
+"Basselinia pancheri"	112	"LC"	"LC"	"LC"	"LC"	"TRAIN"	22	43	316	13903.6008179892	0.0177011575963531	2	1
+"Basselinia porphyrea"	3	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	2	2	12	13.2359658623266	0.0169670179408665	1	1
+"Basselinia sordida"	11	"LC"	"LC"	"LC"	"LC"	"TRAIN"	4	5	32	2797.31347311638	0.0178667149633508	1	1
+"Basselinia tomentosa"	6	"NT"	"nonLC"	"NT"	"nonLC"	"TRAIN"	2	2	20	28.3013646015253	0.0205074092373252	1	1
+"Basselinia velutina"	13	"NT"	"nonLC"	"NT"	"nonLC"	"TRAIN"	6	6	44	2753.09580121552	0.00916980443379054	1	1
+"Basselinia vestita"	5	"CR"	"nonLC"	"CR"	"nonLC"	"TRAIN"	1	1	12	1.38068211254048	0.00903236512094736	1	1
+"Beccariophoenix alfredii"	4	"VU"	"nonLC"	"VU"	"nonLC"	"TRAIN"	2	2	8	165.907059643539	0.0176633000883157	2	1
+"Beccariophoenix madagascariensis"	32	"VU"	"nonLC"	"VU"	"nonLC"	"TRAIN"	14	14	80	60156.7333506463	0.105393708552583	2	1
+"Borassus aethiopum"	1236	"LC"	"LC"	"LC"	"LC"	"TRAIN"	175	425	3428	16844939.8975835	0.0467343135552784	20	30
+"Borassus akeassii"	15	"LC"	"LC"	"LC"	"LC"	"TRAIN"	6	8	40	342368.894975067	0.0246521052399961	3	10
+"Brahea calcarea"	95	"LC"	"LC"	"LC"	"LC"	"TRAIN"	29	44	288	700902.674394866	0.0226876130424467	14	5
+"Brahea decumbens"	32	"LC"	"LC"	"LC"	"LC"	"TRAIN"	9	13	88	26381.4561705659	0.0054604419219686	2	1
+"Brahea edulis"	3	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	2	2	12	1305.17327490065	0.0684343874454498	1	1
+"Brahea moorei"	50	"LC"	"LC"	"LC"	"LC"	"TRAIN"	16	27	164	29933.0675720626	0.0177696287620347	4	1
+"Butia archeri"	25	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	16	19	100	491486.973933789	0.0220151496678591	3	2
+"Butia eriospatha"	24	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	21	21	92	249354.128298886	0.0580146067077294	4	1
+"Butia purpurascens"	10	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	4	6	36	5556.40265608405	0.0160926173906773	2	2
+"Calamus beccarii"	1	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	1	1	4	NA	0.00868652295321226	1	1
+"Calamus deerratus"	38	"LC"	"LC"	"LC"	"LC"	"TRAIN"	31	33	140	2820120.17384735	0.0693502840540053	12	22
+"Calamus dianbaiensis"	1	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	1	1	4	NA	0.0376073457300663	1	2
+"Calamus egregius"	1	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	1	1	4	NA	0.162103161215782	1	1
+"Calamus formosanus"	5	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	3	4	20	1618.90006755612	0.0222869860008359	2	1
+"Calamus godefroyi"	5	"NT"	"nonLC"	"NT"	"nonLC"	"TRAIN"	5	5	20	66185.5346884009	0.108346621878445	3	3
+"Calamus heteracanthus"	42	"LC"	"LC"	"LC"	"LC"	"TRAIN"	29	29	144	895878.261560764	0.0463454339520207	9	2
+"Calamus macrorhynchus"	7	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	6	6	24	43434.0502014174	0.0991157809538501	3	1
+"Calamus multispicatus"	3	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	3	3	12	85616.142093218	0.0613284669816494	1	1
+"Calamus oxleyanus"	22	"LC"	"LC"	"LC"	"LC"	"TRAIN"	21	21	88	1575952.85974276	0.186891091818159	6	2
+"Calamus oxycarpus"	1	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	1	1	4	NA	0.11628519743681	1	2
+"Calamus pogonacanthus"	82	"LC"	"LC"	"LC"	"LC"	"TRAIN"	47	57	272	478527.085872793	0.157850447934257	6	1
+"Calamus salicifolius"	7	"LC"	"LC"	"LC"	"LC"	"TRAIN"	6	6	28	19362.7026984018	0.161978292827761	3	2
+"Calamus tenuis"	10	"LC"	"LC"	"LC"	"LC"	"TRAIN"	7	7	32	2871721.30096471	0.1235826249409	7	12
+"Calamus usitatus"	3	"LC"	"LC"	"LC"	"LC"	"TRAIN"	3	3	12	1529.35779269187	0.25716078778108	1	4
+"Calamus wuliangshanensis"	1	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	1	1	4	NA	0.0986578464508057	1	1
+"Calyptronoma rivalis"	9	"Near Threatened"	"nonLC"	"Near Threatened"	"nonLC"	"TRAIN"	7	7	32	46776.6142842573	0.0950415921397507	3	3
+"Caryota urens"	32	"LC"	"LC"	"LC"	"LC"	"TRAIN"	26	26	128	13566859.655797	0.0602208752618481	19	2
+"Ceroxylon amazonicum"	17	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	5	6	28	3836.50154253364	0.0374298046945649	1	1
+"Ceroxylon parvifrons"	61	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	29	33	176	2570765.43553471	0.0185738894878505	10	5
+"Chamaedorea adscendens"	2	"VU"	"nonLC"	"VU"	"nonLC"	"TRAIN"	2	2	8	262	0.235403768718243	2	2
+"Chamaedorea cataractarum"	1	"LC"	"LC"	"LC"	"LC"	"TRAIN"	1	1	4	NA	0.0193102732300758	1	2
+"Chamaedorea elatior"	1	"LC"	"LC"	"LC"	"LC"	"TRAIN"	1	1	4	NA	0.0661198645830154	1	6
+"Chamaedorea foveata"	3	"VU"	"nonLC"	"VU"	"nonLC"	"TRAIN"	3	3	12	230.534205333996	0.0236544689784447	2	2
+"Chamaedorea geonomiformis"	68	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	32	39	216	449984.614467251	0.0623130673090653	13	7
+"Chamaedorea keelerorum"	2	"LC"	"LC"	"LC"	"LC"	"TRAIN"	2	2	8	NA	0.0362946260720491	1	2
+"Chamaedorea liebmannii"	45	"LC"	"LC"	"LC"	"LC"	"TRAIN"	20	27	160	498610.880781528	0.0500114143205186	9	5
+"Chamaedorea microspadix"	15	"LC"	"LC"	"LC"	"LC"	"TRAIN"	7	9	60	30161.7247294105	0.0509805229802926	5	2
+"Chamaedorea oblongata"	290	"VU"	"nonLC"	"VU"	"nonLC"	"TRAIN"	128	175	996	812470.330919159	0.0803248665799339	19	9
+"Chamaedorea pinnatifrons"	1678	"LC"	"LC"	"LC"	"LC"	"TRAIN"	593	877	5336	9199512.94887762	0.0460371404751272	67	16
+"Chamaedorea plumosa"	2	"CR"	"nonLC"	"CR"	"nonLC"	"TRAIN"	2	2	8	NA	0.049693712964654	1	1
+"Chamaedorea pochutlensis"	55	"LC"	"LC"	"LC"	"LC"	"TRAIN"	30	37	204	439519.064540576	0.017581261288036	9	2
+"Chamaedorea queroana"	1	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	1	1	4	NA	0.0339440628886223	1	1
+"Chamaedorea schiedeana"	97	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	29	50	348	215663.000862501	0.0267225374880525	13	3
+"Chamaedorea stolonifera"	7	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	6	6	28	20098.5172544595	0.0532143243721553	3	1
+"Chamaerops humilis"	4899	"LC"	"LC"	"LC"	"LC"	"TRAIN"	137	559	10484	2856914.52557891	0.0334502120810348	13	11
+"Chambeyronia macrocarpa"	21	"LC"	"LC"	"LC"	"LC"	"TRAIN"	11	12	80	5169.73068259245	0.0146233154837752	2	1
+"Chuniophoenix nana"	1	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	1	1	4	NA	0.235701203346252	1	2
+"Clinosperma bracteale"	21	"LC"	"LC"	"LC"	"LC"	"TRAIN"	11	12	68	3676.37116219806	0.0157434221445805	1	1
+"Clinosperma lanuginosa"	11	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	4	4	32	96.5409439978275	0.00552374543622136	1	1
+"Clinosperma macrocarpa"	3	"CR"	"nonLC"	"CR"	"nonLC"	"TRAIN"	1	1	8	0.00168477607506514	0.0058986940421164	1	1
+"Clinosperma vaginata"	15	"NT"	"nonLC"	"NT"	"nonLC"	"TRAIN"	4	6	56	739.23064184449	0.0149670664298659	1	1
+"Coccothrinax barbadensis"	5	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	5	5	20	5390.25510407542	0.0412638442590833	3	5
+"Coccothrinax readii"	90	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	20	33	264	54410.8610349435	0.0661180948033386	3	2
+"Copernicia tectorum"	13	"LC"	"LC"	"LC"	"LC"	"TRAIN"	10	10	52	282208.60118136	0.0435127992756092	8	2
+"Corypha utan"	223	"LC"	"LC"	"LC"	"LC"	"TRAIN"	39	52	424	7865578.31077918	0.00378374127392352	12	18
+"Cyphokentia cerifera"	9	"NT"	"nonLC"	"NT"	"nonLC"	"TRAIN"	4	4	24	641.928504762035	0.00557972273478905	1	1
+"Cyphokentia macrostachya"	14	"LC"	"LC"	"LC"	"LC"	"TRAIN"	8	8	44	4054.37608397786	0.0115243475218969	1	1
+"Cyphophoenix alba"	13	"LC"	"LC"	"LC"	"LC"	"TRAIN"	2	3	36	167.572001224556	0.0057198043124607	1	1
+"Cyphophoenix elegans"	8	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	1	2	20	23.234746423221	0.00445985893020406	1	1
+"Cyphophoenix fulcita"	8	"LC"	"LC"	"LC"	"LC"	"TRAIN"	4	5	32	569.340717608678	0.0279748254761216	1	1
+"Cyphophoenix nucele"	3	"VU"	"nonLC"	"VU"	"nonLC"	"TRAIN"	1	1	8	0.000749631764173508	0.003323262790218	1	1
+"Cyphosperma balansae"	5	"LC"	"LC"	"LC"	"LC"	"TRAIN"	3	3	16	381.406121312759	0.00806575706228614	1	1
+"Cyphosperma voutmelense"	1	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	1	1	4	NA	0.00074916408630088	1	1
+"Cyrtostachys elegans"	5	"NT"	"nonLC"	"NT"	"nonLC"	"TRAIN"	2	3	20	889.153406295734	0.171815487742424	2	1
+"Cyrtostachys glauca"	12	"LC"	"LC"	"LC"	"LC"	"TRAIN"	10	10	48	73337.5873792677	0.0270236079425861	4	1
+"Dypsis pembana"	2	"VU"	"nonLC"	"VU"	"nonLC"	"TRAIN"	1	1	4	NA	0.119408182799816	1	1
+"Dypsis remotiflora"	5	"CR"	"nonLC"	"CR"	"nonLC"	"TRAIN"	3	3	16	7099.70541297141	0.156993207335472	1	1
+"Elaeis guineensis"	6	"LC"	"LC"	"LC"	"LC"	"TRAIN"	6	6	24	3586580.51022835	0.131793661217671	5	27
+"Eremospatha cabrae"	7	"LC"	"LC"	"LC"	"LC"	"TRAIN"	6	7	28	127297.384305918	0.0134909660513845	3	5
+"Eremospatha cuspidata"	11	"LC"	"LC"	"LC"	"LC"	"TRAIN"	9	9	44	757658.515880187	0.0347544462697856	4	8
+"Eremospatha dransfieldii"	2	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	2	2	8	884	0.259613618254662	1	3
+"Eremospatha tessmanniana"	2	"LC"	"LC"	"LC"	"LC"	"TRAIN"	1	1	4	NA	0.0130975795909762	1	3
+"Eremospatha wendlandiana"	20	"LC"	"LC"	"LC"	"LC"	"TRAIN"	14	15	76	380713.869345452	0.0440865064912941	3	8
+"Gaussia attenuata"	1	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	1	1	4	NA	0.0658106282353401	1	2
+"Gaussia gomez-pompae"	3	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	3	3	12	32946.9352337015	0.0453993579527984	3	3
+"Geonoma baculifera"	14	"LC"	"LC"	"LC"	"LC"	"TRAIN"	14	14	56	2220390.8081934	0.0377971849333595	10	7
+"Geonoma elegans"	220	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	126	169	824	764537.086853954	0.0600382958041419	8	3
+"Geonoma pinnatifrons"	201	"Near Threatened"	"nonLC"	"Near Threatened"	"nonLC"	"TRAIN"	132	151	720	3175044.97459338	0.0653392979718828	27	15
+"Heterospathe scitula"	4	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	4	4	16	65.5040661858845	0.0230901804752648	1	1
+"Heterospathe trispatha"	1	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	1	1	4	NA	0.0201849956065416	0	1
+"Hydriastele biakensis"	5	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	1	1	8	0.264241743186484	0.0426087714731693	1	1
+"Hyphaene compressa"	19	"LC"	"LC"	"LC"	"LC"	"TRAIN"	15	15	76	516300.780773406	0.0678622273966252	6	5
+"Hyphaene coriacea"	60	"LC"	"LC"	"LC"	"LC"	"TRAIN"	48	51	236	4095602.21415835	0.0631007530974633	13	9
+"Hyphaene guineensis"	1	"LC"	"LC"	"LC"	"LC"	"TRAIN"	1	1	4	NA	0.207721740007401	1	8
+"Hyphaene petersiana"	10	"LC"	"LC"	"LC"	"LC"	"TRAIN"	9	9	40	2305415.61633417	0.00119125246856129	4	13
+"Iriartea deltoidea"	656	"LC"	"LC"	"LC"	"LC"	"TRAIN"	263	343	2028	4809520.64883384	0.0741754937536448	28	10
+"Itaya amicorum"	45	"LC"	"LC"	"LC"	"LC"	"TRAIN"	15	21	128	197779.61588576	0.0511875651359636	6	4
+"Kentiopsis magnifica"	7	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	1	2	24	7.76041839185286	0.00371662573888898	1	1
+"Kentiopsis oliviformis"	6	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	3	3	24	250.76430344663	0.0125221976389488	2	1
+"Kentiopsis piersoniorum"	4	"VU"	"nonLC"	"VU"	"nonLC"	"TRAIN"	1	1	8	0.522098628809333	0.0058986940421164	1	1
+"Kentiopsis pyriformis"	9	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	2	3	32	116.194127393177	0.0197663489315245	1	1
+"Laccosperma acutiflorum"	16	"LC"	"LC"	"LC"	"LC"	"TRAIN"	8	9	60	315909.456353981	0.129532259539701	5	9
+"Laccosperma laeve"	6	"LC"	"LC"	"LC"	"LC"	"TRAIN"	6	6	24	199020.385960776	0.189766228199005	2	8
+"Laccosperma opacum"	15	"LC"	"LC"	"LC"	"LC"	"TRAIN"	14	14	60	217839.406918726	0.0510084287418673	4	13
+"Laccosperma robustum"	29	"LC"	"LC"	"LC"	"LC"	"TRAIN"	16	17	100	386577.233481006	0.0388301508742031	3	7
+"Laccosperma secundiflorum"	78	"LC"	"LC"	"LC"	"LC"	"TRAIN"	40	48	252	1605075.24938517	0.0718200603926865	11	17
+"Lemurophoenix halleuxii"	13	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	4	5	40	3331.98619224006	0.102717615664005	1	1
+"Licuala bidentata"	20	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	13	13	76	94191.6402893662	0.153357220813632	3	1
+"Licuala bintulensis"	10	"Possibly Threatened"	"nonLC"	"Possibly Threatened"	"nonLC"	"TRAIN"	8	9	40	33083.2902269252	0.28760300129652	2	1
+"Licuala borneensis"	1	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	1	1	4	NA	0.021127300336957	1	1
+"Licuala bruneiana"	7	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	4	5	28	1058.68808654938	0.0571347030677966	2	1
+"Licuala burretii"	2	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	2	2	8	NA	0.14844885468483	2	1
+"Licuala campestris"	7	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	7	7	28	29954.7151283005	0.200453101258193	2	1
+"Licuala collina"	7	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	3	5	28	5475.70217738528	0.0731952995327967	1	1
+"Licuala densiflora"	1	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	1	1	4	NA	0.186854481697083	1	1
+"Licuala fordiana"	5	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	5	5	20	3339.39761384394	0.121779958158731	2	2
+"Licuala hallieriana"	2	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	2	2	8	NA	0.111087914556265	1	1
+"Licuala intermedia"	2	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	2	2	8	NA	0.263468571007252	1	1
+"Licuala kuchingensis"	1	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	1	1	4	NA	0.186854481697083	1	1
+"Licuala lanata"	3	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	1	1	12	1.70507464117575	0.078869640827179	2	1
+"Licuala malajana"	3	"LC"	"LC"	"LC"	"LC"	"TRAIN"	3	3	12	860.778216728228	0.109165462354819	1	2
+"Licuala mattanensis"	12	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	8	11	48	2748.28135252568	0.244145321970185	2	1
+"Licuala miriensis"	1	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	1	1	4	NA	0.504022657871246	1	1
+"Licuala olivifera"	48	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	38	42	188	780398.857849208	0.171546535158996	6	1
+"Licuala paucisecta"	1	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	1	1	4	NA	0.022773252800107	1	1
+"Licuala petiolulata"	19	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	15	16	76	128623.652274608	0.222980963164254	3	1
+"Licuala punctulata"	1	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	1	1	4	NA	0.24662883579731	1	1
+"Licuala sabahana"	5	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	4	4	20	5486.23223286957	0.216413314640522	1	1
+"Licuala sarawakensis"	3	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	3	3	12	789.652549577154	0.143152991930644	1	1
+"Licuala spinosa"	44	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	41	42	176	4466953.17271891	0.121726027054882	14	12
+"Licuala telifera"	25	"LC"	"LC"	"LC"	"LC"	"TRAIN"	17	18	84	427105.053019277	0.0657696714811027	7	1
+"Linospadix palmerianus"	26	"NT"	"nonLC"	"NT"	"nonLC"	"TRAIN"	15	17	80	7813.91727560241	0.00582551060002655	2	1
+"Livistona lorophylla"	100	"LC"	"LC"	"LC"	"LC"	"TRAIN"	36	49	288	1341124.63170536	0.00139777493054453	3	2
+"Lodoicea maldivica"	3	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	1	1	8	0.0109990942435414	NA	1	1
+"Manjekia maturbongsii"	7	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	3	3	12	12244.3515882399	0.0645724385976791	2	1
+"Marojejya darianii"	24	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	9	12	88	19053.1539663867	0.178615494049154	1	1
+"Marojejya insignis"	51	"LC"	"LC"	"LC"	"LC"	"TRAIN"	21	24	148	84709.9789413591	0.220957102546213	3	1
+"Masoala kona"	18	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	4	6	44	1958.29756940608	0.278860594559875	1	1
+"Masoala madagascariensis"	17	"CR"	"nonLC"	"CR"	"nonLC"	"TRAIN"	11	12	60	59072.5364516043	0.225357085795087	3	1
+"Metroxylon amicarum"	2	"NT"	"nonLC"	"NT"	"nonLC"	"TRAIN"	1	1	8	NA	NA	1	1
+"Nenga gajah"	6	"NT"	"nonLC"	"NT"	"nonLC"	"TRAIN"	2	2	12	5647.72708142654	0.119889146337907	2	2
+"Nephrosperma vanhoutteanum"	1	"LC"	"LC"	"LC"	"LC"	"TRAIN"	1	1	4	NA	NA	1	1
+"Oncocalamus macrospathus"	7	"LC"	"LC"	"LC"	"LC"	"TRAIN"	5	5	20	92338.491182149	0.0236877124490482	2	6
+"Oncocalamus mannii"	26	"LC"	"LC"	"LC"	"LC"	"TRAIN"	16	17	92	60290.712780495	0.101796357704398	4	4
+"Oncocalamus tuleyi"	17	"LC"	"LC"	"LC"	"LC"	"TRAIN"	11	13	68	7554.73007212271	0.0634186396731392	2	2
+"Oncocalamus wrightianus"	4	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	1	1	8	0.455317067588985	0.0710774352774024	1	2
+"Orania ravaka"	14	"VU"	"nonLC"	"VU"	"nonLC"	"TRAIN"	8	9	52	10140.2043694373	0.201730717306158	1	1
+"Orania trispatha"	17	"VU"	"nonLC"	"VU"	"nonLC"	"TRAIN"	11	13	68	28685.7453844463	0.176928389105288	1	1
+"Parajubaea torallyi"	10	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	4	4	32	1619.42524902718	0.015567582898575	1	1
+"Phoenicophorium borsigianum"	2	"LC"	"LC"	"LC"	"LC"	"TRAIN"	2	2	8	184	NA	1	1
+"Phoenix canariensis"	1	"LC"	"LC"	"LC"	"LC"	"TRAIN"	1	1	4	NA	0.00078853068407625	1	1
+"Pholidocarpus majadum"	5	"LC"	"LC"	"LC"	"LC"	"TRAIN"	3	3	20	9875.49723662213	0.242000342905521	2	1
+"Pinanga bicolana"	1	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	1	1	4	NA	0.0211693700402975	1	1
+"Pinanga sclerophylla"	2	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	2	2	8	NA	0.0264945654198527	1	1
+"Pinanga sylvestris"	19	"LC"	"LC"	"LC"	"LC"	"TRAIN"	16	17	68	1016942.93444608	0.0925098354560568	9	7
+"Plectocomia elmeri"	1	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	1	1	4	NA	0.0385121181607246	1	1
+"Plectocomia himalayana"	2	"LC"	"LC"	"LC"	"LC"	"TRAIN"	2	2	8	NA	0.0635613305494189	2	7
+"Plectocomia microstachys"	3	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	3	3	12	5556.61185580931	0.125477641820908	2	1
+"Plectocomiopsis triquetra"	10	"LC"	"LC"	"LC"	"LC"	"TRAIN"	6	7	36	46366.8495395049	0.302312115579843	3	1
+"Prestoea acuminata"	356	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	168	210	1096	7299371.22990077	0.0387030533715047	32	15
+"Pritchardia minor"	1	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	1	1	4	NA	0.0367646180093288	1	1
+"Pseudophoenix sargentii"	25	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	15	17	80	1413176.8979961	0.0628743257932365	6	10
+"Ptychococcus paradoxus"	31	"LC"	"LC"	"LC"	"LC"	"TRAIN"	18	19	100	588907.488511257	0.0523503544222143	8	3
+"Ptychosperma gracile"	8	"NT"	"nonLC"	"NT"	"nonLC"	"TRAIN"	6	6	24	151316.087014713	0.068133742082864	3	1
+"Ptychosperma microcarpum"	15	"LC"	"LC"	"LC"	"LC"	"TRAIN"	5	9	52	2414.5972946521	0.0238178020187964	1	1
+"Raphia farinifera"	21	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	16	18	80	2441629.1070336	0.0969893528325927	10	21
+"Raphia mambillensis"	1	"LC"	"LC"	"LC"	"LC"	"TRAIN"	1	1	4	NA	0.000543958332855254	1	4
+"Ravenea albicans"	10	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	8	8	40	12425.772965871	0.206340870261192	1	1
+"Ravenea dransfieldii"	19	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	13	14	64	39802.0017437498	0.201636132245001	2	1
+"Ravenea glauca"	15	"VU"	"nonLC"	"VU"	"nonLC"	"TRAIN"	6	8	48	12726.0687525714	0.0038116317242384	3	1
+"Ravenea hypoleuca"	6	"CR"	"nonLC"	"CR"	"nonLC"	"TRAIN"	3	3	16	1468.43258516344	0.0633492142272492	2	1
+"Ravenea julietiae"	18	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	12	12	52	44846.5304408174	0.19612322602835	1	1
+"Ravenea lakatra"	12	"CR"	"nonLC"	"CR"	"nonLC"	"TRAIN"	9	11	44	136611.132894381	0.164392938720994	2	1
+"Ravenea latisecta"	2	"CR"	"nonLC"	"CR"	"nonLC"	"TRAIN"	2	2	8	138	0.254141412675381	2	1
+"Ravenea louvelii"	6	"CR"	"nonLC"	"CR"	"nonLC"	"TRAIN"	3	3	20	663.13794980764	0.316527495781581	1	1
+"Ravenea nana"	14	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	10	11	52	128024.75947355	0.137611526197621	2	1
+"Ravenea rivularis"	8	"VU"	"nonLC"	"VU"	"nonLC"	"TRAIN"	4	5	28	2050.90875285428	0.00662948505487293	2	1
+"Ravenea robustior"	54	"NT"	"nonLC"	"NT"	"nonLC"	"TRAIN"	33	40	212	225938.939299995	0.154501472091026	3	1
+"Ravenea sambiranensis"	84	"LC"	"LC"	"LC"	"LC"	"TRAIN"	43	49	252	418340.690884655	0.185400060214479	5	1
+"Ravenea xerophila"	12	"VU"	"nonLC"	"VU"	"nonLC"	"TRAIN"	7	8	48	42074.222930528	0.0187235252233222	4	1
+"Reinhardtia elegans"	4	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	3	3	12	2414.66814018612	0.0410525919869542	3	3
+"Sabal causiarum"	3	"Near Threatened"	"nonLC"	"Near Threatened"	"nonLC"	"TRAIN"	3	3	12	2501.76047804401	0.0363196203761618	3	4
+"Sabal gretherae"	17	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	5	5	36	41684.3623900463	0.0484787712202353	3	1
+"Sabal uresana"	11	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	7	7	40	61625.1635600235	0.00214395248696581	4	2
+"Saribus jeanneneyi"	4	"CR"	"nonLC"	"CR"	"nonLC"	"TRAIN"	1	1	12	0.371163482961535	0.0261939596384764	1	1
+"Satranala decussilvae"	24	"EN"	"nonLC"	"EN"	"nonLC"	"TRAIN"	10	13	76	5137.93267638359	0.237954575219192	1	1
+"Syagrus amara"	4	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	4	4	16	5419.65781431245	0.154504337813705	3	2
+"Syagrus botryophora"	28	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	22	22	96	96740.6467728978	0.134146422946027	4	2
+"Syagrus glaucescens"	37	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	16	27	140	16003.7184251378	0.0269447478239198	3	1
+"Syagrus insignis"	20	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	10	14	76	9303.77346664812	0.0926417645998299	2	1
+"Syagrus macrocarpa"	13	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	8	8	44	91390.7053752047	0.1015323242889	4	1
+"Syagrus mendanhensis"	7	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	1	1	16	6.22511285699987	0.0310797533020377	1	1
+"Syagrus picrophylla"	10	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	5	7	36	21768.1865823165	0.0798575349152088	3	1
+"Syagrus pseudococos"	27	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	15	17	88	117355.458020017	0.0962358181778755	3	1
+"Syagrus ruschiana"	26	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	12	13	84	10555.0852336639	0.0619070772081614	2	1
+"Syagrus schizophylla"	49	"Not Threatened"	"LC"	"Not Threatened"	"LC"	"TRAIN"	30	36	164	148741.60095751	0.0985748596033272	6	2
+"Tahina spectabilis"	9	"CR"	"nonLC"	"CR"	"nonLC"	"TRAIN"	3	3	16	1789.69193695161	0.0290156364854839	2	1
+"Trachycarpus nanus"	1	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	1	1	4	NA	0.00853713881224394	1	1
+"Verschaffeltia splendida"	1	"NT"	"nonLC"	"NT"	"nonLC"	"TRAIN"	1	1	4	NA	NA	1	1
+"Voanioala gerardii"	14	"CR"	"nonLC"	"CR"	"nonLC"	"TRAIN"	6	6	36	3551.55828711436	0.0950077539309859	1	1
+"Wettinia castanea"	4	"NT"	"nonLC"	"NT"	"nonLC"	"TRAIN"	4	4	16	41156.7638726504	0.0458004507236183	2	1
+"Wettinia minima"	6	"Threatened"	"nonLC"	"Threatened"	"nonLC"	"TRAIN"	3	3	20	256.175101269734	0.0251763626001775	1	1
+"Acoelorrhaphe wrightii"	17	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	12	13	68	294139.72316295	0.0545234616626711	5	12
+"Acrocomia aculeata"	14	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	12	13	52	8311322.88521555	0.0380626230367592	8	27
+"Acrocomia glaucescens"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	22361.2105087349	0.0494164590102931	1	1
+"Acrocomia hassleri"	28	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	15	16	80	1222969.57723389	0.194198793714999	3	2
+"Acrocomia intumescens"	9	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	9	36	643669.459834801	0.0307267798214323	6	1
+"Acrocomia totai"	14	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	13	13	56	2171030.99592483	0.0499400178502713	8	6
+"Actinorhytis calapparia"	16	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	14	14	60	647217.700362143	0.0296207315113861	6	2
+"Adonidia dransfieldii"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.272148996591568	1	1
+"Adonidia merrillii"	3	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	3	3	12	183896.735481535	0.0897866437832514	2	2
+"Aiphanes acaulis"	5	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	3	3	20	4119.5531563086	0.0176526591181755	2	1
+"Aiphanes bicornis"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	0.0588528803706393	0.0693799356619517	1	1
+"Aiphanes buenaventurae"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0455791242420673	1	1
+"Aiphanes chiribogensis"	27	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	7	10	60	4212.58405223245	0.0276135847800308	2	1
+"Aiphanes concinna"	12	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	9	48	72501.3993286784	0.0283994889468886	4	1
+"Aiphanes deltoidea"	15	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	9	11	56	63918.6136152754	0.0179231201201522	4	3
+"Aiphanes duquei"	2	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	2	2	8	12	0.0225063068792224	1	1
+"Aiphanes eggersii"	12	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	32	13898.3308592379	0.0570231783203781	4	1
+"Aiphanes erinacea"	59	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	16	23	140	24531.6938574647	0.0193347088889992	3	2
+"Aiphanes gelatinosa"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	2.41874170273149	0.0207430543377995	1	2
+"Aiphanes graminifolia"	2	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	8	NA	0.0161088705062866	1	1
+"Aiphanes hirsuta"	89	"NE"	"NE"	"LC"	"LC"	"NOT_ASSESSED"	42	49	272	549846.618321424	0.0240700553194881	8	4
+"Aiphanes horrida"	133	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	78	87	440	4714204.10323872	0.0787538893212725	22	6
+"Aiphanes killipii"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0385702177882195	1	1
+"Aiphanes leiostachys"	2	"NE"	"NE"	"EN"	"nonLC"	"NOT_ASSESSED"	1	1	8	NA	0.023083271458745	1	1
+"Aiphanes lindeniana"	24	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	15	17	92	82312.0591615872	0.032779233782397	4	2
+"Aiphanes linearis"	14	"NE"	"NE"	"LC"	"LC"	"NOT_ASSESSED"	11	10	48	115321.92683608	0.0213179769260543	4	1
+"Aiphanes macroloba"	20	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	9	56	56197.0955964913	0.0140954964794219	2	2
+"Aiphanes parvifolia"	10	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	7	8	40	13463.2677216316	0.0783694760873914	3	1
+"Aiphanes pilaris"	2	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	8	NA	0.00907417386770248	1	1
+"Aiphanes simplex"	48	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	14	26	156	91741.0761529779	0.0565582356454494	6	1
+"Aiphanes spicata"	5	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	5	5	20	3489.53565193871	0.147775663249195	2	1
+"Aiphanes tricuspidata"	30	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	16	18	80	80482.299938781	0.0431211201008409	5	2
+"Aiphanes truncata"	10	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	5	5	32	2583.20961884189	0.0416652476415038	2	1
+"Aiphanes ulei"	157	"NE"	"NE"	"LC"	"LC"	"NOT_ASSESSED"	74	83	444	711812.74283175	0.0365041501763177	7	4
+"Aiphanes weberbaueri"	51	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	36	40	180	675070.926001309	0.0570970996267016	8	2
+"Allagoptera campestris"	261	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	136	168	856	3178466.13271105	0.101459391672705	13	7
+"Allagoptera caudescens"	64	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	49	53	244	170696.653218889	0.111610880325316	7	2
+"Allagoptera leucocalyx"	99	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	71	78	344	3842305.16748802	0.0706521491852302	13	8
+"Allagoptera robusta"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	11	0.0254149232059717	1	1
+"Ammandra decasperma"	40	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	17	18	112	193540.704754576	0.0280333550123032	3	2
+"Aphandra natalia"	92	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	25	32	248	244396.992015298	0.0597702432086922	6	3
+"Archontophoenix alexandrae"	86	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	49	66	312	10248078.7493109	0.0262675380089244	6	1
+"Archontophoenix cunninghamiana"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.176869511604309	1	2
+"Archontophoenix maxima"	9	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	32	1105.12087270271	0.0157349213647346	2	1
+"Archontophoenix myolensis"	2	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	1	1	8	NA	0.0409981720149517	1	1
+"Archontophoenix purpurea"	13	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	6	40	1605.96817612493	0.00371553280722135	1	1
+"Archontophoenix tuckeri"	18	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	12	13	72	10970.7170583823	0.01031753640402	1	1
+"Areca arundinacea"	6	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	3	3	16	8389.64758435846	0.172312745514015	1	1
+"Areca caliso"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	20	4210.81437901183	0.0875897735357285	3	1
+"Areca chaiana"	3	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	3	3	12	71.7742925988935	0.180891161163648	1	1
+"Areca churchii"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0272768959403038	1	1
+"Areca dayung"	1	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.302051216363907	1	1
+"Areca dransfieldii"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	111.729223322998	0.395890777309736	1	1
+"Areca furcata"	22	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	20	20	84	208670.29867272	0.141748758794909	3	1
+"Areca gurita"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.281157039105892	1	1
+"Areca hutchinsoniana"	4	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	3	3	16	1138.65719584621	0.0713102165609598	1	1
+"Areca insignis"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	32	30386.049771494	0.1892762882635	2	1
+"Areca ipot"	3	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	2	2	12	21.5977941674004	0.0435613269607226	1	1
+"Areca jugahpunya"	4	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	3	3	16	31946.4989960895	0.134798650455195	2	1
+"Areca kinabaluensis"	24	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	18	19	96	401963.13033941	0.131688945373753	3	1
+"Areca laosensis"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	89771.7863995648	0.0629147617146373	3	3
+"Areca minuta"	79	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	54	64	304	350556.279941463	0.162215373596719	5	1
+"Areca mogeana"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0222549885511398	1	1
+"Areca montana"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	3385.71683912707	0.158821036418279	2	4
+"Areca rheophytica"	13	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	10	10	52	8440.7491464473	0.22328899284968	2	1
+"Areca riparia"	2	"Data Deficient"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0999978110194206	1	1
+"Areca songthanhensis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0924186669290066	2	1
+"Areca subacaulis"	7	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	6	6	28	1221.926132718	0.190113291144371	2	1
+"Areca triandra"	47	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	37	39	172	3035242.55891403	0.0954153364811568	13	13
+"Areca triginticollina"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.186990462243557	1	1
+"Areca tunku"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.1600661277771	2	3
+"Areca vidaliana"	6	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	6	6	24	43152.0350824524	0.0980757086848219	2	2
+"Areca whitfordii"	1	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0276606641709805	1	1
+"Arenga australasica"	17	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	15	15	64	514551.818903477	0.0209364283749464	3	1
+"Arenga brevipes"	19	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	14	15	72	1515412.22146853	0.162837902378095	5	2
+"Arenga caudata"	123	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	78	90	416	1391146.64117335	0.124288087896246	16	8
+"Arenga distincta"	15	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	15	15	60	264964.83503669	0.215001195544998	3	1
+"Arenga hastata"	17	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	15	15	64	735817.682866299	0.222794704577502	4	4
+"Arenga hookeriana"	13	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	10	48	270882.809929434	0.122536505787418	3	2
+"Arenga listeri"	3	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	1	1	12	3.76377942134815	NA	1	1
+"Arenga microcarpa"	117	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	71	80	396	2843188.44419446	0.0244594333950469	15	3
+"Arenga obtusifolia"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	28	259771.360415433	0.134535803925246	3	4
+"Arenga pinnata"	19	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	19	19	76	8256055.14410068	0.0992425429928852	12	8
+"Arenga plicata"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.257534891366959	1	1
+"Arenga retroflorescens"	5	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	5	5	20	7781.45791157236	0.182873656786978	1	1
+"Arenga ryukyuensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0709652975201607	1	1
+"Arenga talamauensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.00289510423317552	1	1
+"Arenga tremula"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	24	316354.690215732	0.0536553013759355	5	1
+"Arenga undulatifolia"	36	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	30	34	144	1192751.19586615	0.138974559700323	9	3
+"Arenga westerhoutii"	17	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	14	14	60	1812802.55017558	0.116746720748351	11	11
+"Arenga wightii"	2	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	2	2	8	10806	0.00636146310716867	2	1
+"Asterogyne martiana"	365	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	132	199	1212	1143408.08659054	0.0869588509881359	15	8
+"Asterogyne spicata"	1	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.00298465276136994	1	1
+"Asterogyne yaracuyense"	1	"NE"	"NE"	"CR"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0292323473840952	1	1
+"Astrocaryum acaule"	56	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	44	45	196	4288041.45855385	0.0660823601174343	13	4
+"Astrocaryum alatum"	62	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	40	46	224	226073.556324984	0.0937302661646578	6	5
+"Astrocaryum campestre"	70	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	61	63	268	2022112.95089074	0.0718884796985159	6	4
+"Astrocaryum chambira"	233	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	90	121	776	3505732.22569311	0.0417250491078651	11	5
+"Astrocaryum chonta"	56	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	13	22	172	415098.774147441	0.0623140338263641	4	2
+"Astrocaryum ciliatum"	20	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	10	60	35646.506183555	0.0143190633389167	3	3
+"Astrocaryum echinatum"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0341903641819954	1	1
+"Astrocaryum faranae"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	12	24.5158157360306	0.0614114124182379	1	2
+"Astrocaryum farinosum"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	20956	0.0122804357670248	2	3
+"Astrocaryum gratum"	74	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	16	27	192	249694.634518641	0.10290236378441	4	2
+"Astrocaryum huaimi"	26	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	21	21	92	1375685.95896948	0.0428777622135105	6	3
+"Astrocaryum jauari"	105	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	60	69	308	4885410.6224426	0.0524712486297219	17	9
+"Astrocaryum javarense"	24	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	11	80	3645.55153640726	0.0333336539964269	1	2
+"Astrocaryum macrocalyx"	62	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	23	31	196	170266.852424399	0.0537835128301184	4	2
+"Astrocaryum malybo"	21	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	20	20	84	153990.5195031	0.106063482174206	6	1
+"Astrocaryum mexicanum"	95	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	50	64	344	325015.758266462	0.0795225487911682	10	8
+"Astrocaryum murumuru"	17	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	14	14	60	2298261.71992885	0.0953685916645233	9	5
+"Astrocaryum paramaca"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	198403.8945867	0.0972701652353862	3	3
+"Astrocaryum perangustatum"	7	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	4	5	28	67671.7666930296	0.0902992939310414	2	1
+"Astrocaryum rodriguesii"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0655456706881523	1	3
+"Astrocaryum sciophilum"	11	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	28	223414.815588397	0.0165308368371122	2	4
+"Astrocaryum scopatum"	1	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0176570564508438	1	1
+"Astrocaryum sociale"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	3	16	230.489558110749	0.0707751072477549	1	1
+"Astrocaryum standleyanum"	69	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	36	41	212	799465.40786748	0.0517078030878084	9	4
+"Astrocaryum triandrum"	2	"NE"	"NE"	"EN"	"nonLC"	"NOT_ASSESSED"	2	2	8	2412	0.127855520695448	1	1
+"Astrocaryum tucuma"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0842097103595734	1	8
+"Astrocaryum ulei"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	20	43426.6387207834	0.0520682673901319	1	3
+"Astrocaryum urostachys"	123	"NE"	"NE"	"LC"	"LC"	"NOT_ASSESSED"	36	49	332	136308.292065223	0.0284867834174869	2	3
+"Astrocaryum vulgare"	33	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	28	28	116	2924038.21820477	0.0910676357929002	11	6
+"Attalea allenii"	65	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	33	42	224	264981.378867318	0.0397437936174146	6	2
+"Attalea amygdalina"	3	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	3	3	12	1619.10984487881	0.0233834447960059	2	1
+"Attalea anisitsiana"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0461817122995853	1	2
+"Attalea apoda"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	63479.6765053972	0.0859857331961393	2	2
+"Attalea attaleoides"	6	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	4	4	24	121311.152285468	0.0598412673765173	2	4
+"Attalea bassleriana"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0798932835459709	1	1
+"Attalea brejinhoensis"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	24	145082.761879563	0.0706485388800502	2	1
+"Attalea burretiana"	34	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	28	29	124	233902.127467813	0.094978428007487	6	2
+"Attalea butyracea"	241	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	118	143	740	4555250.57677394	0.0514114153720207	25	7
+"Attalea cephalotus"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	46305	0.132170736091211	2	1
+"Attalea cohune"	56	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	35	37	180	1528390.2527118	0.100481559235569	12	8
+"Attalea colenda"	32	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	18	19	92	85905.5617781548	0.0878014733461896	6	2
+"Attalea compta"	12	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	36	214543.170163185	0.0746163306757808	3	1
+"Attalea crassispatha"	6	"NE"	"NE"	"CR"	"nonLC"	"NOT_ASSESSED"	2	2	8	23.3547908280678	0.0201662834733725	1	1
+"Attalea dahlgreniana"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	8	32	391505.559809675	0.196031700819731	4	2
+"Attalea dubia"	11	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	10	10	44	103925.19442894	0.0824621588796039	2	2
+"Attalea eichleri"	33	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	26	29	128	1264684.70269528	0.0932417676896986	6	3
+"Attalea exigua"	13	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	13	13	52	1163088.93793433	0.0330835380860103	4	3
+"Attalea geraensis"	48	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	35	38	172	1682309.62103118	0.0854156885300957	6	4
+"Attalea guacuyule"	10	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	9	40	18522.1015348811	0.0182583091314882	2	1
+"Attalea humilis"	16	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	11	13	64	177795.528580253	0.0710259710322134	3	2
+"Attalea iguadummat"	6	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	2	3	24	351.641292428955	0.0368042665844162	1	2
+"Attalea insignis"	78	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	39	45	252	453335.671640738	0.0298283160949583	8	4
+"Attalea luetzelburgii"	8	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	7	7	32	118185.893711968	0.025547265278874	5	3
+"Attalea magdalenica"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.00282833119854331	1	1
+"Attalea maracaibensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0622717142105103	1	2
+"Attalea maripa"	256	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	132	160	824	6226699.14607072	0.0408325381024497	27	12
+"Attalea microcarpa"	112	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	43	56	332	2200433.53103474	0.0302472039226944	14	7
+"Attalea moorei"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	33895.6531345936	0.206378926212589	2	2
+"Attalea nucifera"	13	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	11	11	52	53476.2128783913	0.0879240876708466	4	1
+"Attalea phalerata"	216	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	52	86	648	4820064.37518828	0.0838638468707763	9	6
+"Attalea pindobassu"	19	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	16	15	64	199194.942724788	0.0763272760730041	3	1
+"Attalea plowmanii"	38	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	17	22	128	127687.244818615	0.0699630005616008	4	3
+"Attalea princeps"	9	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	9	36	261544.554428344	0.0828121760860085	4	2
+"Attalea racemosa"	103	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	57	66	336	997178.522453534	0.040848425725979	14	4
+"Attalea rostrata"	61	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	44	47	220	1247517.30301678	0.0644015447564851	14	8
+"Attalea salazarii"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	45708.9755291309	0.0352682924518983	2	1
+"Attalea salvadorensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0732282474637032	1	1
+"Attalea seabrensis"	14	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	11	11	48	91067.1259834414	0.0341786431547786	3	1
+"Attalea speciosa"	59	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	46	46	196	5149315.99941507	0.103716676674933	14	7
+"Attalea spectabilis"	2	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	120672	0.0880058631300926	2	1
+"Attalea tessmannii"	55	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	19	25	156	1178361.4595296	0.0830343848649963	5	2
+"Attalea vitrivir"	16	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	10	10	52	332331.728981715	0.0917418796962011	4	2
+"Attalea weberbaueri"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.149179115891457	1	1
+"Bactris acanthocarpa"	328	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	173	202	1060	9302820.93121356	0.0642066269872707	30	11
+"Bactris acanthocarpoides"	18	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	13	14	56	2427637.05016275	0.0893074018466804	6	4
+"Bactris ana-juliae"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	12	26.8309080927181	0.0575464263558388	1	1
+"Bactris bahiensis"	22	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	20	21	88	97747.4031514276	0.134463030844927	4	2
+"Bactris balanophora"	33	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	23	25	124	819371.287427726	0.0155580987005427	8	3
+"Bactris barronis"	50	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	20	29	168	237038.747171883	0.0368599855952198	8	2
+"Bactris bidentula"	66	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	43	48	216	2758405.18969253	0.0669607493152646	15	5
+"Bactris bifida"	118	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	60	68	380	1280598.94266971	0.0677705406025348	10	3
+"Bactris brongniartii"	194	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	91	110	632	6547765.00230383	0.0597323991712177	24	10
+"Bactris campestris"	17	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	15	15	68	1087571.87700363	0.0608181357315248	9	8
+"Bactris caryotifolia"	26	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	21	22	100	203692.448150481	0.112575273351887	5	2
+"Bactris charnleyae"	5	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	2	3	20	85.5505246118712	0.0584945309907198	2	2
+"Bactris chaveziae"	56	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	28	36	192	428280.422701267	0.114917801573548	5	3
+"Bactris chocoensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0343474894762039	1	1
+"Bactris coloniata"	48	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	20	24	160	458450.802347318	0.0328034764097538	6	4
+"Bactris coloradonis"	106	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	47	64	376	644171.58214579	0.0487784974239679	10	5
+"Bactris concinna"	267	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	105	141	852	2172098.86687392	0.0698703560239787	11	5
+"Bactris constanciae"	8	"NE"	"NE"	"LC"	"LC"	"NOT_ASSESSED"	5	6	28	58782.2655589455	0.0271889355462918	2	3
+"Bactris corossilla"	202	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	109	125	672	1850298.80248207	0.0362295928050414	18	6
+"Bactris cuspidata"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	5858.9342830241	0.119218454361544	3	3
+"Bactris dianeura"	63	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	21	29	200	116317.653660172	0.030185938066256	5	3
+"Bactris elegans"	68	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	38	41	208	3135233.19258818	0.0811280117135646	14	6
+"Bactris faucium"	8	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	6	6	28	36977.9509662885	0.164623260592634	2	1
+"Bactris gasipaes"	13	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	13	13	52	5565567.9043706	0.0466946100104206	11	12
+"Bactris gastoniana"	12	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	10	10	44	795874.946886662	0.0391231852778825	4	3
+"Bactris glandulosa"	88	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	40	46	248	203107.769490935	0.0406405768166719	8	3
+"Bactris glassmanii"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	20	177867.65829811	0.0981084100902081	3	1
+"Bactris gracilior"	77	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	32	41	244	130367.01645576	0.0909442931970025	6	3
+"Bactris grayumii"	26	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	15	15	80	38233.4964844787	0.112335226641825	2	2
+"Bactris guineensis"	78	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	45	50	248	1414592.76530922	0.0844549722551631	11	5
+"Bactris halmoorei"	44	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	18	24	136	317223.142262734	0.0792712030789434	3	4
+"Bactris herrerana"	17	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	9	40	4010.91939427926	0.0427596170236083	2	1
+"Bactris hirta"	426	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	193	245	1392	8358392.01036972	0.0526295673327968	31	10
+"Bactris killipii"	111	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	48	66	376	1981543.18815232	0.0394791217024888	13	3
+"Bactris kunorum"	9	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	32	366.945558366918	0.0484837074246671	3	1
+"Bactris macroacantha"	141	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	68	91	488	2795396.45067653	0.0507627068171855	10	4
+"Bactris major"	267	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	169	189	868	12563583.7656332	0.0660258273215623	49	22
+"Bactris manriquei"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	3	0.000661263999063522	0	1
+"Bactris maraja"	747	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	322	432	2412	7140054.55451438	0.0592563294995151	40	12
+"Bactris martiana"	16	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	15	16	64	603774.858427317	0.0872822074834403	5	5
+"Bactris mexicana"	34	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	21	22	124	244099.583296046	0.0815172543276704	9	7
+"Bactris militaris"	18	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	9	48	54944.1561669854	0.0614884321370886	4	2
+"Bactris oligoclada"	42	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	24	26	136	76580.0956547992	0.0119258155976976	2	2
+"Bactris panamensis"	17	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	10	56	7919.17565800389	0.0464901711024782	4	1
+"Bactris pilosa"	47	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	25	30	152	299566.491351397	0.0769610991305176	11	4
+"Bactris pliniana"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	183625	0.0172426286153495	2	4
+"Bactris plumeriana"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	28	4980.02349266196	0.110250985515969	1	2
+"Bactris polystachya"	12	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	36	5887.08351310003	0.0647563378831061	1	1
+"Bactris ptariana"	25	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	13	14	72	53193.9380652054	0.0132118130917661	4	2
+"Bactris riparia"	50	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	36	38	164	2441462.32833302	0.0531794790962886	15	5
+"Bactris schultesii"	135	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	48	67	412	270371.431839279	0.0442941077105287	6	3
+"Bactris setiflora"	5	"NE"	"NE"	"EN"	"nonLC"	"NOT_ASSESSED"	4	4	20	546.427771077349	0.0394196830689907	2	1
+"Bactris setosa"	108	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	88	97	420	2251126.77797172	0.0751566857393805	14	3
+"Bactris setulosa"	95	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	62	72	316	1923006.06456666	0.0413461062003319	14	7
+"Bactris simplicifrons"	572	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	270	349	1808	6540483.17179096	0.0499839301631229	34	11
+"Bactris soeiroana"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	42	0.0389536125585437	1	1
+"Bactris sphaerocarpa"	33	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	18	20	120	872651.489172561	0.0395092524254737	6	3
+"Bactris syagroides"	7	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	6	6	24	80686.5866613707	0.0279525581281632	4	1
+"Bactris tefensis"	3	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	11.4419287849236	0.110444195568562	1	1
+"Bactris tomentosa"	18	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	15	15	64	1365353.4111798	0.0694169766381189	8	3
+"Bactris vulgaris"	46	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	37	39	176	485904.243760351	0.106679967528655	7	3
+"Balaka samoensis"	1	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	NA	1	1
+"Barcella odora"	14	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	7	7	48	114616.498696465	0.044097355230146	4	1
+"Beccariophoenix fenestralis"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	0	0.150309070944786	1	1
+"Borassodendron borneense"	11	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	9	36	168047.139261957	0.215099367905747	3	1
+"Borassodendron machadonis"	3	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	3	3	12	10257.7854513337	0.117818523353587	1	3
+"Borassus flabellifer"	18	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	12	13	64	10460760.4706758	0.0299732254869822	7	9
+"Borassus heineanus"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	20	67826.3907797861	0.0172836008326461	1	1
+"Brahea pimo"	48	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	22	26	136	194529.751941436	0.00790237858200271	5	1
+"Brahea sarukhanii"	18	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	40	5338.97688283771	0.00302153515965781	2	1
+"Brassiophoenix drymophloeoides"	17	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	9	52	32225.7175918	0.0567669165046776	2	1
+"Brassiophoenix schumannii"	18	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	13	13	68	128471.532375718	0.0581322271480329	3	1
+"Butia campicola"	7	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	4	4	20	1045.98013780856	0.143264179251024	1	2
+"Butia catarinensis"	13	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	11	12	52	33429.7038370802	0.0661587414260094	4	1
+"Butia exospadix"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	24	17114.7316719002	0.0742361551771561	2	2
+"Butia lallemantii"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	16	2231.75087948441	0.0388622806640342	2	2
+"Butia leptospatha"	2	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	52	0.0234523005783558	2	2
+"Butia marmorii"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	24	1004.43103727819	0.0601491561780373	1	1
+"Butia matogrossensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.116965174674988	1	1
+"Butia odorata"	13	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	13	13	52	821282.812552197	0.0831693214847921	6	2
+"Butia paraguayensis"	131	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	61	71	372	1257729.66776432	0.17465250135043	5	4
+"Butia witeckii"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0268117133527994	1	1
+"Butia yatay"	17	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	12	13	64	587317.788242604	0.0534625182558289	5	3
+"Calamus acamptostachys"	17	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	11	68	28753.8465334343	0.237139656701509	3	1
+"Calamus acanthochlamys"	12	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	8	40	11602.8283869813	0.144131351572772	4	1
+"Calamus acanthophyllus"	4	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	4	4	16	25974.6965120749	0.0651441782247275	2	3
+"Calamus acanthospathus"	10	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	8	36	1059424.93037338	0.0576055784418713	7	9
+"Calamus acaulis"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	4.60124227618599	0.0916114877909422	2	1
+"Calamus altiscandens"	1	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.00452588824555278	1	1
+"Calamus angustifolius"	10	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	32	108346.762829986	0.126949052140117	3	2
+"Calamus anomalus"	5	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	4	4	20	2980.26381336224	0.00823142980225384	1	1
+"Calamus arborescens"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	32	139094.818041716	0.0350416092514934	5	3
+"Calamus aruensis"	137	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	91	100	476	2014144.09095054	0.0556447683522532	18	5
+"Calamus ashtonii"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	20	4180.52131577071	0.229655727697536	2	1
+"Calamus asperrimus"	2	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	8	NA	0.00839091371744871	1	2
+"Calamus asteracanthus"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	2132.29107327089	0.04391523442852	2	1
+"Calamus ater"	14	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	11	11	48	162338.528876414	0.126907219661267	4	1
+"Calamus australis"	71	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	42	51	252	322483.015543436	0.0222477990779661	3	1
+"Calamus axillaris"	11	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	10	10	44	697656.77134691	0.303783347660845	4	4
+"Calamus bachmaensis"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	3.74687273626661	0.117367836336295	1	1
+"Calamus bacularis"	12	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	7	44	18428.8165705525	0.198808656384548	3	1
+"Calamus baiyerensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0279260668903589	1	1
+"Calamus balingensis"	5	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	5	5	20	10732.9518335005	0.155033501237631	3	2
+"Calamus banggiensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.181475326418877	1	1
+"Calamus bankae"	1	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	1	1	4	NA	0.0138836186379194	1	1
+"Calamus barbatus"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	28	136156.820531572	0.0803532942663878	2	1
+"Calamus barfodii"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	12	145.922374368397	0.0657149627804756	1	1
+"Calamus beguinii"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.118867464363575	1	1
+"Calamus bousigonii"	31	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	17	20	104	455529.706554028	0.149460568933958	6	3
+"Calamus brachypodus"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	44959.2809910141	0.17372555755234	2	2
+"Calamus brevicaulis"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	16	95.1116388456917	0.155160784721375	2	1
+"Calamus bulubabi"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0204495610669255	2	1
+"Calamus caesius"	64	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	41	44	220	1246774.71395785	0.21307815995533	9	5
+"Calamus calapparius"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.233564883470535	2	1
+"Calamus calicarpus"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.00142057903576642	1	2
+"Calamus calospathus"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	268.081665976648	0.123843816419442	1	1
+"Calamus capillosus"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0184787660837173	1	1
+"Calamus castaneus"	24	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	21	21	92	460206.508307377	0.218716624463923	5	3
+"Calamus centralis"	11	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	24	2203.37554826227	0.138173810375685	3	1
+"Calamus ceratophorus"	4	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	12	13.3378712898521	0.107472997158766	1	1
+"Calamus cheirophyllus"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	12	53.2122149174976	0.0224111154675484	1	1
+"Calamus collarifer"	16	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	15	15	64	62039.0235552803	0.35397643269971	3	1
+"Calamus comptus"	20	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	12	14	76	98966.6310282429	0.0991173138725571	3	1
+"Calamus concinnus"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	24	37905.4689713207	0.108846186970671	2	3
+"Calamus concolor"	45	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	28	32	160	401233.517660572	0.160746202147048	4	2
+"Calamus conirostris"	34	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	23	25	124	621680.103540164	0.110282827285118	6	3
+"Calamus conjugatus"	4	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	12	28.9154726416264	0.263167560100555	2	1
+"Calamus conspectus"	12	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	36	11733.7472951138	0.117963346478064	2	1
+"Calamus convallium"	23	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	14	15	84	274949.600496938	0.112579534964069	3	1
+"Calamus crassifolius"	3	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	12	7.38284575233221	0.283505856990814	1	1
+"Calamus cristatus"	16	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	10	11	60	266288.811943927	0.224768184358254	3	1
+"Calamus croftii"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.017366711050272	1	1
+"Calamus curranii"	7	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	6	7	28	6558.01391704641	0.0652287857873099	1	1
+"Calamus cuthbertsonii"	16	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	12	13	64	14788.0976646489	0.0104068279579224	1	1
+"Calamus dasyacanthus"	9	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	5	5	32	195552.363024041	0.0728841742707623	3	1
+"Calamus densiflorus"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.136488631367683	1	3
+"Calamus depauperatus"	10	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	9	40	249650.607008175	0.0201438432850409	4	1
+"Calamus depressiusculus"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	20	46093.9125370147	0.162682935222983	3	1
+"Calamus didymocarpus"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.139676213264465	1	1
+"Calamus didymophyllus"	77	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	62	64	276	2169369.54614306	0.167101319843008	11	4
+"Calamus diepenhorstii"	37	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	30	32	144	882408.97111393	0.253796917159815	5	5
+"Calamus dioicus"	6	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	5	5	24	24388.0699701268	0.118587385863066	4	1
+"Calamus discolor"	1	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0223278515040874	1	1
+"Calamus distentus"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	68.8814797255135	0.00290248519740999	2	1
+"Calamus divaricatus"	24	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	18	18	88	262869.864105848	0.244646841301195	4	1
+"Calamus dongnaiensis"	5	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	3	4	16	50971.4408557254	0.0804644457995892	2	1
+"Calamus draco"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.195770962163806	2	4
+"Calamus dumetosus"	15	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	10	11	52	238883.910047851	0.117134738791113	2	1
+"Calamus elongatus"	22	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	11	12	76	166841.477024731	0.141070826233111	4	1
+"Calamus erectus"	10	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	6	6	32	152626.285940166	0.0903156898915768	4	8
+"Calamus erinaceus"	9	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	8	36	963751.387594852	0.23461362057262	4	6
+"Calamus erythrocarpus"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0046442715683952	1	1
+"Calamus essigii"	5	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	16	15.3840065728245	0.00483075510710478	1	1
+"Calamus eugenei"	21	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	11	12	60	58339.1830032822	0.155551689499546	4	1
+"Calamus exilis"	25	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	20	20	96	725616.45123173	0.145967647405341	5	4
+"Calamus fertilis"	22	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	16	16	72	653572.631244116	0.0396367532243444	6	1
+"Calamus filispadix"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0294612366706133	1	1
+"Calamus fissilis"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	6.1834363343029	0.190223433077335	2	1
+"Calamus fissus"	57	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	36	39	192	555673.474637829	0.175782083558213	6	1
+"Calamus flabellatus"	50	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	33	36	184	1017876.85112968	0.169765240550041	7	3
+"Calamus flagellum"	23	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	16	16	80	744418.750270164	0.0556956010101282	10	10
+"Calamus flexilis"	2	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	NA	0.0359942559152842	1	1
+"Calamus floribundus"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	28	6575.05002928435	0.0862705305917189	3	4
+"Calamus formicarius"	18	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	13	14	68	163589.246722682	0.239903231914569	5	1
+"Calamus geniculatus"	15	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	14	14	60	753060.24244987	0.234361093250724	6	3
+"Calamus gibbsianus"	28	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	14	96	17387.8132292083	0.0967665702503707	3	1
+"Calamus gonospermus"	31	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	19	20	100	164532.239717508	0.132358754662076	4	1
+"Calamus gracilipes"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0736006647348404	1	1
+"Calamus grandis"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	24	131700.582765532	0.122768893915539	2	2
+"Calamus guruba"	8	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	8	8	32	863678.207353056	0.104787631775253	5	4
+"Calamus hallierianus"	25	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	17	17	92	323963.036103394	0.127833596644923	4	2
+"Calamus harmandii"	3	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	8	0.0165365957579017	0.312296658754349	1	1
+"Calamus heatubunii"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	75.2111216802684	0.0592098860070109	1	1
+"Calamus helferianus"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0644516255706549	2	3
+"Calamus henryanus"	42	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	30	30	128	370670.493279534	0.0816647293977439	8	6
+"Calamus hirsutus"	42	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	31	34	160	1433020.2858313	0.211770225842927	10	3
+"Calamus hukaungensis"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	4398.98076914595	0.0901653771579731	2	1
+"Calamus ingens"	34	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	21	23	120	162918.530671474	0.161247409955489	5	1
+"Calamus insignis"	10	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	9	36	8954.11455600678	0.194051919132471	3	3
+"Calamus interruptus"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0441602356731892	1	1
+"Calamus jacobsii"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0540036652237177	1	1
+"Calamus javensis"	248	"NE"	"NE"	"Threatened,Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	143	172	892	3893086.65241737	0.168573923535728	17	7
+"Calamus jenkinsianus"	93	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	68	72	320	3796446.75168964	0.102171878833624	21	11
+"Calamus johnsii"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	28	56964.4549590509	0.0513459251960739	4	1
+"Calamus kampucheaensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.252047151327133	1	1
+"Calamus karuensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.417003333568573	1	1
+"Calamus katikii"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0929047465324402	1	1
+"Calamus kiahii"	12	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	8	36	16311.7199955178	0.139540918928105	3	1
+"Calamus kingianus"	4	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	2	3	16	5105.89243287347	0.0323299625888467	3	2
+"Calamus klossii"	17	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	11	13	56	33838.3815896085	0.0183311063583995	3	1
+"Calamus kontumensis"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	0.516412598285079	0.0697115361690521	1	1
+"Calamus korthalsii"	63	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	34	37	204	476187.110417097	0.134468666429351	5	1
+"Calamus kostermansii"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.123018249869347	1	1
+"Calamus kunstleri"	15	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	13	13	52	365884.216623448	0.179083282376329	4	2
+"Calamus kurzianus"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	20	2546.17545102397	0.0869889803230763	2	3
+"Calamus lambirensis"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	16	1335.41014646803	0.117515193298459	2	1
+"Calamus laoensis"	5	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	5	5	20	13715.5441604978	0.176592548191547	2	1
+"Calamus lateralis"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	16	2.01187017035913	0.0752472877502441	1	2
+"Calamus latifolius"	40	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	30	30	140	1235005.55598001	0.107781127316412	11	12
+"Calamus lauterbachii"	32	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	20	22	112	521563.315567748	0.0594195493249572	8	1
+"Calamus leloi"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	28	97603.1016909216	0.126589306796502	3	1
+"Calamus leptospadix"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0346334734931588	1	5
+"Calamus lewisianus"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	16	10095.3797735046	0.129162901639938	1	3
+"Calamus lobbianus"	10	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	9	40	409278.093861977	0.225687277689576	4	3
+"Calamus loherianus"	2	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	NA	0.0321871470659971	2	1
+"Calamus longibracteatus"	14	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	8	44	27263.5656624665	0.138817006456	2	1
+"Calamus longipes"	67	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	50	61	268	811886.786523573	0.156678913970853	7	4
+"Calamus longipinna"	31	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	18	21	116	500510.348987526	0.0632408400697093	6	3
+"Calamus longisetus"	22	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	15	15	80	198566.804777997	0.0998203121972355	4	7
+"Calamus longistipes"	26	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	14	17	92	50712.8782125086	0.13103709605415	4	1
+"Calamus lucysmithiae"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	0.314765638420105	0.0399429698785146	1	1
+"Calamus macrochlamys"	28	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	17	19	84	467661.462243368	0.047367417935415	7	1
+"Calamus macropterus"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	20	31211.7722055753	0.0822166704262296	2	1
+"Calamus maculatus"	11	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	44	75762.5264130978	0.309613399207592	4	1
+"Calamus maiadum"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0844251802191138	2	1
+"Calamus manan"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	28	338850.822529565	0.156810741871595	4	4
+"Calamus marginatus"	45	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	37	39	176	466113.279183105	0.141244196542539	6	3
+"Calamus mattanensis"	14	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	13	13	56	169521.758935904	0.190092168482287	5	1
+"Calamus maturbongsii"	3	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	2	2	8	119.998548801186	0.0182679000621041	2	1
+"Calamus melanacanthos"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	12	63.491147471714	0.185684036463499	1	2
+"Calamus melanochaetes"	13	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	10	52	367111.396447987	0.090598343907354	7	5
+"Calamus melanoloma"	2	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	8	NA	0.00839091371744871	1	1
+"Calamus micracanthus"	21	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	17	18	80	971789.216669844	0.240851201649223	5	2
+"Calamus micranthus"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.180822044610977	1	5
+"Calamus microsphaerion"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.117335934191942	1	2
+"Calamus microstachys"	46	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	27	32	164	422001.117777843	0.15306114202426	6	1
+"Calamus minahassae"	9	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	36	10264.8351549019	0.0721261236402723	2	1
+"Calamus mirabilis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.17403120547533	2	1
+"Calamus mollispinus"	4	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	4	4	16	867.433445303735	0.088156302459538	2	1
+"Calamus monticola"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.136488631367683	1	2
+"Calamus moorei"	1	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.353909432888031	1	1
+"Calamus moseleyanus"	9	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	6	6	36	420104.26340507	0.166975055510799	3	3
+"Calamus moti"	38	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	20	25	140	109323.696228232	0.013160726985916	3	1
+"Calamus muelleri"	585	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	21	89	1308	255469.287166331	0.0324739884187141	2	2
+"Calamus muricatus"	42	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	24	27	144	332263.92419938	0.102941079270316	5	1
+"Calamus myriacanthus"	31	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	22	23	108	150878.307436946	0.15103216278517	6	1
+"Calamus myrianthus"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	3976.38836786246	0.0855003868540128	1	2
+"Calamus nanduensis"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	0.127230174617976	0.0404521661500136	1	1
+"Calamus nannostachys"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	1646.16044720608	0.0326061492475371	1	1
+"Calamus nanodendron"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.254361145198345	1	1
+"Calamus nematospadix"	12	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	9	44	18438.2835625393	0.168026126300295	4	1
+"Calamus nielsenii"	3	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	8	0.184180302286221	0.00306143774650991	1	1
+"Calamus novae-georgii"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.106715872883797	1	1
+"Calamus nuichuaensis"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	12	4.26908503376687	0.0608934834599495	1	1
+"Calamus oblatus"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	32	9306.33345677157	0.139990523195593	4	1
+"Calamus oblongus"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.00839091371744871	1	1
+"Calamus ochrolepis"	16	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	16	16	64	317270.411143483	0.0439182998961769	5	1
+"Calamus ocreatus"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.284529060125351	1	1
+"Calamus oligostachys"	2	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	NA	0.0924965254962444	1	2
+"Calamus optimus"	22	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	17	17	80	504798.944856629	0.154891481157392	6	1
+"Calamus oresbius"	26	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	17	18	88	66368.4851348784	0.0220723669492425	2	1
+"Calamus ornatus"	36	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	33	33	140	3329808.91837853	0.192828979550136	12	7
+"Calamus ovoideus"	2	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	8	1	0.00942197907716036	1	1
+"Calamus oxycoccus"	14	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	12	12	52	102318.724528472	0.134449761360884	3	1
+"Calamus pachypus"	22	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	17	17	84	912078.965756409	0.0559634786437858	7	2
+"Calamus pandanosmus"	14	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	11	11	48	1360186.75167628	0.172502620943955	5	4
+"Calamus pannosus"	1	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.028831347823143	1	1
+"Calamus papuanus"	11	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	36	114261.749374723	0.0261615088463507	4	1
+"Calamus papyraceus"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0248722098767757	1	1
+"Calamus parvulus"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.284529060125351	1	1
+"Calamus paspalanthus"	45	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	27	30	152	908603.952454916	0.177751296841436	4	3
+"Calamus paulii"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.338535472750664	1	1
+"Calamus pedicellaris"	9	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	9	36	55399.4520364069	0.0571277849376202	2	1
+"Calamus penicillatus"	1	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.104780666530132	1	1
+"Calamus peregrinus"	16	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	10	10	44	98183.271142683	0.133748819469474	2	3
+"Calamus periacanthus"	51	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	32	37	172	380522.567167527	0.223475274753154	6	3
+"Calamus pholidostachys"	4	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	4	4	16	5841.32954086574	0.035839713178575	1	1
+"Calamus pilosellus"	15	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	9	48	326516.951996818	0.105746874616792	3	1
+"Calamus pilosissimus"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	136308.657456158	0.0104812296107411	3	1
+"Calamus pintaudii"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	19833.7127761855	0.0163210248574615	2	1
+"Calamus platyspathus"	10	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	8	8	40	181779.405310943	0.0847233835607767	3	2
+"Calamus plicatus"	80	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	53	56	288	865198.035389183	0.194338531754329	7	5
+"Calamus poensis"	3	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	12	153.559305513004	0.192717887461185	2	1
+"Calamus pogonotium"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.266065522097051	2	1
+"Calamus poilanei"	19	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	14	14	64	396928.519216042	0.05942739286509	6	3
+"Calamus polycladus"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0167404399253428	1	1
+"Calamus pseudozebrinus"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.10254742950201	1	1
+"Calamus psilocladus"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.502051055431366	1	1
+"Calamus pumilus"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.006246502045542	1	1
+"Calamus pygmaeus"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	4	24	121.816780683292	0.17568094531695	1	1
+"Calamus quangngaiensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.339469403028488	1	1
+"Calamus radicalis"	27	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	19	21	100	44554.6802947234	0.012306581334323	2	1
+"Calamus reticulatus"	5	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	4	4	20	46629.2875691856	0.0187434241874143	3	1
+"Calamus retroflexus"	16	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	9	52	360836.974961853	0.0585593505238649	5	1
+"Calamus reyesianus"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0294612366706133	1	1
+"Calamus rhabdocladus"	64	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	38	43	192	877820.012630855	0.106964392169175	7	5
+"Calamus rhomboideus"	80	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	52	58	284	1523332.76565907	0.171020321248216	9	5
+"Calamus rhytidomus"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	20	96577.732911951	0.256494820738832	2	1
+"Calamus rudentum"	17	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	14	14	60	755386.500722569	0.109416017719709	9	5
+"Calamus rugosus"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	16	1440.72402666446	0.244923099409789	1	2
+"Calamus ruptilis"	24	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	16	16	72	173289.785062698	0.249519192691272	4	1
+"Calamus ruvidus"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	8559.23629802323	0.239119584361712	2	1
+"Calamus sabensis"	31	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	20	22	112	167034.026951457	0.187237568860573	4	1
+"Calamus sabut"	89	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	58	64	308	2130650.01582556	0.159501171581908	8	3
+"Calamus sarawakensis"	16	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	10	11	56	280726.04381681	0.102499931977945	3	1
+"Calamus scabridulus"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.233242504298687	2	3
+"Calamus scabrispathus"	1	"Data Deficient"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.00557991955429316	1	1
+"Calamus scapigerus"	14	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	11	11	52	445638.765962882	0.270203229838184	4	3
+"Calamus schistoacanthus"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0805633813142776	2	1
+"Calamus schlechterianus"	34	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	25	28	124	178961.583421252	0.0332134106223855	6	1
+"Calamus scleracanthus"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0544721335172653	1	1
+"Calamus sedens"	1	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0815003216266632	1	3
+"Calamus sepal"	5	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	12	53.4842577035713	0.129734985530376	1	2
+"Calamus seriatus"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.196107294410467	2	1
+"Calamus serpentinus"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	12	4.29015303724718	0.392785618702571	1	1
+"Calamus serrulatus"	17	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	13	13	64	275400.247851007	0.0323786966447883	6	1
+"Calamus siphonospathus"	2	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	NA	0.0258945440873504	2	3
+"Calamus sordidus"	18	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	11	12	60	122867.08330742	0.133944120659079	3	1
+"Calamus sparsiflorus"	93	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	48	59	332	274741.471323489	0.221927926793034	5	1
+"Calamus spectatissimus"	2	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	NA	0.140830103307962	2	4
+"Calamus spinulinervis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.24959172308445	1	1
+"Calamus spiralis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.134792193770409	1	1
+"Calamus stenophyllus"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	24	37219.086679687	0.113334417032699	2	1
+"Calamus subangulatus"	53	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	42	44	188	1073567.96668121	0.176425573376517	8	4
+"Calamus superciliatus"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	3.69167776228493	0.0202157786116004	1	1
+"Calamus symphysipus"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0847001597285271	1	3
+"Calamus temii"	1	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0304999388754368	1	1
+"Calamus tenompokensis"	16	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	8	52	8178.17890304709	0.108808793695061	3	1
+"Calamus tetradactylus"	70	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	49	53	248	1009347.26921716	0.128011745859736	12	6
+"Calamus thwaitesii"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0161512084305286	1	2
+"Calamus thysanolepis"	4	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	3	3	12	41433.8326863047	0.114512134343386	2	1
+"Calamus trachycoleus"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	46424.628615889	0.253128539770842	2	1
+"Calamus unijugus"	3	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	12	6.56349935046345	0.113696326812108	1	1
+"Calamus urdanetanus"	2	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	NA	0.0174206080846488	2	1
+"Calamus ursinus"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	5	28	30123.98928618	0.195409486336367	1	2
+"Calamus uschdraweitianus"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0172010399401188	1	1
+"Calamus verticillaris"	10	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	9	36	170675.399848146	0.188856508769095	3	3
+"Calamus vestitus"	21	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	13	13	68	279561.45272116	0.10282178023564	5	1
+"Calamus vitiensis"	40	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	23	25	140	4430823.57196724	0.0330815650406294	11	7
+"Calamus walkeri"	26	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	17	17	72	158264.761639401	0.141761678199355	5	3
+"Calamus wanggaii"	1	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	1	1	4	NA	0.0126331755891442	1	1
+"Calamus warburgii"	47	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	30	33	148	1272377.25633458	0.0534406444800899	9	3
+"Calamus womersleyi"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	4	24	109.863411372152	0.0304848936696847	1	1
+"Calamus yentuensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.179145589470863	1	1
+"Calamus zebrinus"	54	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	31	34	176	1159945.78101318	0.036988610048192	13	1
+"Calamus zeylanicus"	1	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.00942197907716036	1	1
+"Calamus zieckii"	20	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	12	12	60	1014691.68855033	0.0777451113332063	6	1
+"Calamus zollingeri"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0695861466228962	2	2
+"Calamus zonatus"	47	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	29	32	156	201994.178713427	0.18177063459471	6	1
+"Calyptrocalyx albertisianus"	42	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	30	31	144	1145473.51681309	0.0477932641667957	12	2
+"Calyptrocalyx arfakianus"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0245476961135864	1	1
+"Calyptrocalyx awa"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0688767582178116	0	1
+"Calyptrocalyx doxanthus"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0437404699623585	1	1
+"Calyptrocalyx elegans"	9	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	8	32	47717.9661312404	0.0578004851316412	3	1
+"Calyptrocalyx flabellatus"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0245476961135864	1	1
+"Calyptrocalyx forbesii"	17	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	10	64	28765.8755025478	0.0357192809666123	2	1
+"Calyptrocalyx geonomiformis"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	16	25.1627886582477	0.0213929206753771	2	1
+"Calyptrocalyx hollrungii"	27	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	16	19	100	467036.673233343	0.0468838546701052	4	1
+"Calyptrocalyx julianettii"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0627350006252527	1	1
+"Calyptrocalyx lauterbachianus"	21	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	20	20	84	54128.9472142934	0.0205199515580067	4	1
+"Calyptrocalyx laxiflorus"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0142938066273928	1	1
+"Calyptrocalyx lepidotus"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	11119.7360923705	0.0150529304228257	4	1
+"Calyptrocalyx leptostachys"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	657.957152167877	0.00842768823107084	2	1
+"Calyptrocalyx merrillianus"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.00296932848868892	2	1
+"Calyptrocalyx micholitzii"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	5	24	11639.6419303849	0.038644221087452	3	1
+"Calyptrocalyx multifidus"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	18.4612205188566	0.0324565917253494	2	1
+"Calyptrocalyx pachystachys"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	24	142404.539176731	0.0463871524802276	3	1
+"Calyptrocalyx polyphyllus"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	20	24009.0702377857	0.0176822789013386	3	1
+"Calyptrocalyx pusillus"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	221.078797660496	0.0175721861111621	1	1
+"Calyptrocalyx sessiliflorus"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	28	37497.6653786157	0.117785401642323	4	1
+"Calyptrocalyx spicatus"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0330225639045238	1	1
+"Calyptrogyne allenii"	60	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	12	120	6675.899695304	0.0387748844921589	4	1
+"Calyptrogyne anomala"	21	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	7	9	60	1831.27069611656	0.0479855536527577	3	1
+"Calyptrogyne baudensis"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	20	1618.26539431074	0.00801055910415016	2	1
+"Calyptrogyne coloradensis"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	12	5.15620909156418	0.0263256672769785	1	1
+"Calyptrogyne condensata"	13	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	5	6	32	7325.75163192373	0.0569255286111281	3	2
+"Calyptrogyne costatifrons"	99	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	17	34	316	22914.265939787	0.0530187153972384	5	2
+"Calyptrogyne deneversii"	13	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	5	40	746.168741283806	0.0594861160677213	3	1
+"Calyptrogyne fortunensis"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	24	188.04042669821	0.0151633223784821	2	1
+"Calyptrogyne ghiesbreghtiana"	237	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	68	109	696	504327.220268254	0.0841074442163793	9	8
+"Calyptrogyne herrerae"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	16	9.52955431143761	0.00370204704813659	2	1
+"Calyptrogyne kunorum"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	0	0.0468478500843048	2	1
+"Calyptrogyne osensis"	26	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	11	80	9861.48065109363	0.0306712823848312	3	1
+"Calyptrogyne panamensis"	62	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	12	20	148	8985.99932306428	0.0408981580347303	4	1
+"Calyptrogyne pubescens"	4	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	2	3	12	78.186645057694	0.0414770632050931	2	1
+"Calyptrogyne sanblasensis"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	3	20	80.562868145328	0.0419020000845194	3	1
+"Calyptrogyne trichostachys"	57	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	14	26	188	8919.25049922835	0.0407563579072686	4	1
+"Calyptrogyne tutensis"	15	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	4	28	77.4262701902855	0.021583129093051	2	1
+"Calyptronoma occidentalis"	1	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0317045375704765	1	2
+"Calyptronoma plumeriana"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	28	196000.468336509	0.106647408966507	4	3
+"Carpentaria acuminata"	619	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	123	255	1780	634131.073644382	0.0108295569835764	4	1
+"Caryota angustifolia"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0847001597285271	1	1
+"Caryota cumingii"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	28	182907.800711264	0.0284191097265908	3	1
+"Caryota kiriwongensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0471916124224663	1	1
+"Caryota maxima"	21	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	20	20	80	6533447.98287594	0.101558368741756	13	14
+"Caryota mitis"	62	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	57	59	248	5937621.5794217	0.119335585632437	22	17
+"Caryota monostachya"	38	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	31	34	140	475303.237819377	0.0864609763099763	7	3
+"Caryota no"	5	"NE"	"NE"	"LC"	"LC"	"NOT_ASSESSED"	5	5	20	59186.4467798443	0.213689714670181	3	1
+"Caryota obtusa"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	1.45543097716641	0.194794654846191	1	6
+"Caryota rumphiana"	32	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	29	31	128	3669035.88537884	0.0481902410538169	15	6
+"Caryota sympetala"	30	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	16	18	88	81230.9688378782	0.115795611636713	4	3
+"Caryota zebrina"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	24	1653.74578004119	0.0264364190931831	1	1
+"Ceroxylon alpinum"	12	"NE"	"NE"	"EN"	"nonLC"	"NOT_ASSESSED"	7	8	44	55909.1886283675	0.046508362594371	4	2
+"Ceroxylon ceriferum"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	26017.5159260791	0.0176593046635389	3	2
+"Ceroxylon echinulatum"	29	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	13	15	76	266872.338075706	0.0247243036483896	4	2
+"Ceroxylon parvum"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	0.270197183871433	0.020216278731823	1	1
+"Ceroxylon peruvianum"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0125559410080314	1	1
+"Ceroxylon pityrophyllum"	2	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	2	2	8	36123	0.00966449599945918	2	2
+"Ceroxylon quindiuense"	55	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	19	29	196	364858.15904943	0.0307560763279484	6	2
+"Ceroxylon sasaimae"	5	"NE"	"NE"	"CR"	"nonLC"	"NOT_ASSESSED"	4	4	16	969.505805011135	0.0329247612506151	2	1
+"Ceroxylon ventricosum"	16	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	32	131870.621930723	0.0137718089972623	3	2
+"Ceroxylon vogelianum"	94	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	39	47	284	1216872.67666659	0.0214745732485019	11	4
+"Chamaedorea allenii"	50	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	28	34	176	135079.130212885	0.0296878468105569	7	2
+"Chamaedorea amabilis"	18	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	11	12	52	41199.0122049826	0.018166820712698	2	2
+"Chamaedorea anemophila"	19	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	10	52	23571.1688437783	0.0244533548401179	4	2
+"Chamaedorea angustisecta"	90	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	45	58	320	689577.407927366	0.0612533600431763	7	3
+"Chamaedorea arenbergiana"	31	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	23	27	120	305696.442515867	0.112079251182055	8	7
+"Chamaedorea benziei"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	1045.87311494017	0.0261564333923161	3	1
+"Chamaedorea binderi"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	20	549.682987691662	0.0447936683893204	1	1
+"Chamaedorea brachyclada"	28	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	12	14	80	14088.7556037186	0.0470672909037343	3	2
+"Chamaedorea brachypoda"	1	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.101858638226986	1	2
+"Chamaedorea christinae"	2	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	681	0.00434740597847849	1	1
+"Chamaedorea correae"	34	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	7	11	84	13248.7136503904	0.0432480677195332	4	1
+"Chamaedorea costaricana"	315	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	82	134	964	549546.275943319	0.0386507547674848	14	7
+"Chamaedorea crucensis"	50	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	11	14	116	7175.68380148965	0.0321824943413958	2	1
+"Chamaedorea dammeriana"	157	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	30	54	396	113004.117126155	0.0436829311037614	5	3
+"Chamaedorea deckeriana"	140	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	47	67	416	117209.383440696	0.0612586254902583	6	3
+"Chamaedorea deneversiana"	28	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	9	13	80	194716.742930674	0.0216126795941299	6	4
+"Chamaedorea elegans"	192	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	91	123	684	531835.538831696	0.0759705340666793	14	8
+"Chamaedorea falcifera"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	35	0.291552782058716	1	1
+"Chamaedorea fragrans"	8	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	7	7	28	30970.2775062939	0.0602257926075254	3	1
+"Chamaedorea frondosa"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	14	0.0834490656852722	2	1
+"Chamaedorea graminifolia"	3	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	3	3	12	8672.81080946326	0.0298389044279854	3	2
+"Chamaedorea guntheriana"	4	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	3.37026632308102	0.0137865513097495	2	1
+"Chamaedorea hodelii"	48	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	15	18	136	7073.79941799626	0.0124563772308951	2	1
+"Chamaedorea hooperiana"	3	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	12	9.74328710935402	0.0216409948964914	1	1
+"Chamaedorea incrustata"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	4	24	123.534962874843	0.02921902754211	1	1
+"Chamaedorea linearis"	378	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	154	212	1100	3324775.64293007	0.0357540792948197	19	5
+"Chamaedorea lucidifrons"	62	"NE"	"NE"	"Possibly Threatened,Threatened"	"nonLC"	"NOT_ASSESSED"	25	32	176	109100.314608735	0.0374275787598303	5	3
+"Chamaedorea macrospadix"	151	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	37	65	476	111237.375610146	0.0310374372237862	5	2
+"Chamaedorea matae"	54	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	13	17	168	63114.4962232246	0.0366570110760491	4	2
+"Chamaedorea microphylla"	2	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	8	3	0.0133029315620661	2	1
+"Chamaedorea moliniana"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0940217077732086	1	1
+"Chamaedorea neurochlamys"	101	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	46	63	364	439292.59070127	0.0948236105839104	8	5
+"Chamaedorea palmeriana"	90	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	22	36	244	27825.3544991063	0.0153880320385926	4	2
+"Chamaedorea parvifolia"	32	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	12	15	104	6527.86592548149	0.0250977561736363	3	1
+"Chamaedorea parvisecta"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.148319646716118	1	2
+"Chamaedorea pauciflora"	317	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	157	189	976	1641321.98310234	0.055636892483221	13	6
+"Chamaedorea piscifolia"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	4	32	132.298561794502	0.0520266741514206	1	1
+"Chamaedorea pittieri"	16	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	5	6	44	1790.30157704875	0.0223352521716151	2	2
+"Chamaedorea ponderosa"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	24	832.508042061528	0.00365798027875523	2	2
+"Chamaedorea pumila"	55	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	25	35	196	81303.4688905141	0.0332167701668699	4	3
+"Chamaedorea pygmaea"	35	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	8	12	92	239699.298516738	0.0287088134326041	5	4
+"Chamaedorea radicalis"	33	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	18	20	112	357329.421550573	0.0176212980101506	7	1
+"Chamaedorea recurvata"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	16	8.45481176260683	0.0133029315620661	2	1
+"Chamaedorea ricardoi"	8	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	6	8	32	8137.03400861335	0.0741995458956808	2	1
+"Chamaedorea robertii"	44	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	18	22	144	28286.623091497	0.0225729789288545	4	2
+"Chamaedorea rojasiana"	21	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	10	11	76	89252.4798291201	0.0671254296654037	8	3
+"Chamaedorea rosibeliae"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0088589716469869	1	1
+"Chamaedorea rossteniorum"	23	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	11	80	17505.104267996	0.03962435423518	4	2
+"Chamaedorea sartorii"	50	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	22	31	180	275798.073321528	0.0524551585502923	8	4
+"Chamaedorea scheryi"	73	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	28	37	232	29688.859726036	0.0172920439054245	5	2
+"Chamaedorea schippii"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	32	9752.55286426207	0.0220796784124104	2	4
+"Chamaedorea seifrizii"	211	"NE"	"NE"	"Possibly Threatened,Threatened"	"nonLC"	"NOT_ASSESSED"	76	116	692	8826821.24875214	0.100055519903302	9	4
+"Chamaedorea serpens"	13	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	24	498.08752327739	0.0360631280793593	1	1
+"Chamaedorea simplex"	7	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	4	4	28	10997.7885038738	0.0866534300148487	2	2
+"Chamaedorea smithii"	1	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0119187850505114	1	1
+"Chamaedorea stenocarpa"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	20	1213.92986971026	0.0415524265595845	3	3
+"Chamaedorea stricta"	5	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	4	4	20	70956.9100424256	0.0415994770824909	4	4
+"Chamaedorea subjectifolia"	15	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	8	52	977.767362184082	0.0490604404670497	3	2
+"Chamaedorea tenerrima"	1	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0663693621754646	1	1
+"Chamaedorea tepejilote"	361	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	177	225	1188	1219163.92903911	0.0604866276744436	20	11
+"Chamaedorea tuerckheimii"	13	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	7	10	48	62463.5646656162	0.0425779005655876	4	4
+"Chamaedorea undulatifolia"	46	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	9	21	144	6932.20389741228	0.0214877474860734	3	1
+"Chamaedorea verapazensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0663693621754646	1	1
+"Chamaedorea verecunda"	5	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	2	16	6.76013594963908	0.0133029315620661	1	1
+"Chamaedorea vulgata"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	7441.95505626999	0.0340506676584482	2	2
+"Chamaedorea warscewiczii"	103	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	37	54	344	241849.477229626	0.029627979425623	9	3
+"Chamaedorea whitelockiana"	1	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0195756703615189	1	2
+"Chamaedorea woodsoniana"	64	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	37	43	224	700587.214837789	0.04029146873836	16	10
+"Chamaedorea zamorae"	53	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	14	19	136	10069.7063020737	0.03410226208562	3	1
+"Chelyocarpus chuco"	10	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	6	7	28	41229.6727538857	0.0983429943211377	2	2
+"Chelyocarpus dianeurus"	27	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	10	12	80	15348.0598724335	0.0170659270154795	2	1
+"Chelyocarpus repens"	15	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	7	8	40	46670.9319006261	0.0280265018770782	4	2
+"Chelyocarpus ulei"	86	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	36	43	236	906596.561641241	0.0549249341586188	8	4
+"Clinostigma collegarum"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	1.59366945767826	0.00745394686236978	1	1
+"Clinostigma gronophyllum"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0356023572385311	1	1
+"Clinostigma ponapense"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	3	24	44.3174037489591	NA	1	1
+"Coccothrinax alta"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	790	0.0359791535884142	2	2
+"Coccothrinax argentata"	15	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	7	7	40	503720.36584235	0.0295611531784137	5	5
+"Coccothrinax argentea"	13	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	11	11	48	21825.1238814783	0.0526019331211081	2	2
+"Coccothrinax boschiana"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	141	0.0333112317603081	2	1
+"Coccothrinax ekmanii"	1	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.00115628307685256	1	1
+"Coccothrinax gracilis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	2777	0.0934565849602222	1	2
+"Coccothrinax hioramii"	1	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	1	1	4	NA	0.0321635194122791	1	1
+"Coccothrinax jamaicensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0307317264378071	1	1
+"Coccothrinax litoralis"	1	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	1	1	4	NA	0.160223230719566	0	1
+"Coccothrinax orientalis"	1	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	1	1	4	NA	0.0446111261844635	1	1
+"Coccothrinax spissa"	9	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	7	36	7878.39475197483	0.0373700441171726	2	2
+"Coccothrinax yunquensis"	1	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.466000437736511	1	1
+"Coccothrinax yuraguana"	1	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	1	1	4	NA	0.105946332216263	1	1
+"Cocos nucifera"	576	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	349	392	1900	281023148.313101	0.0490836775855207	125	10
+"Colpothrinax aphanopetala"	11	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	32	58402.309260422	0.0455432014370506	3	3
+"Colpothrinax cookii"	13	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	7	48	18223.866297156	0.0452520862633649	3	3
+"Copernicia alba"	96	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	57	66	324	4258261.66978421	0.053547396054455	14	4
+"Copernicia berteroana"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	20	15937.1226148959	0.0260141418936352	2	2
+"Copernicia curtissii"	3	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	3	3	12	63.5544500544062	0.0430992854138215	2	1
+"Copernicia ekmanii"	1	"NE"	"NE"	"EN"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0366190187633038	1	1
+"Copernicia prunifera"	51	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	42	46	188	2530085.97598816	0.0419759848383347	8	3
+"Copernicia yarey"	1	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0198082495480776	1	1
+"Corypha lecomtei"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	12	2379.93829013947	0.235906346390645	2	4
+"Cryosophila bartlettii"	4	"NE"	"NE"	"EN"	"nonLC"	"NOT_ASSESSED"	2	2	8	11.4481466317633	0.0397273488342762	1	1
+"Cryosophila cookii"	6	"NE"	"NE"	"CR"	"nonLC"	"NOT_ASSESSED"	3	3	16	510.731094619089	0.0806332590679328	1	1
+"Cryosophila grayumii"	26	"NE"	"NE"	"CR"	"nonLC"	"NOT_ASSESSED"	9	9	60	7969.34155005491	0.056599599452546	3	1
+"Cryosophila guagara"	31	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	11	15	92	9600.38015252045	0.0477259928931392	3	2
+"Cryosophila kalbreyeri"	22	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	19	19	80	93554.0285752309	0.0810309140942991	7	2
+"Cryosophila macrocarpa"	4	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	1	1	12	0.705557634657443	0.016841784119606	1	1
+"Cryosophila stauracantha"	180	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	66	93	556	475664.106348469	0.113891430241832	8	4
+"Cryosophila warscewiczii"	108	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	42	53	316	138003.586130612	0.073922285769152	6	4
+"Cryosophila williamsii"	8	"NE"	"NE"	"EW"	"nonLC"	"NOT_ASSESSED"	4	4	20	1180.41625511823	0.0955254202708602	2	1
+"Cyrtostachys bakeri"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0128148067742586	1	1
+"Cyrtostachys excelsa"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	0.00884690266541182	0.0237096585333347	1	1
+"Cyrtostachys loriae"	33	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	23	23	100	949877.612731654	0.0498104206794365	8	3
+"Cyrtostachys renda"	9	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	32	821667.00970871	0.163058700246943	4	4
+"Desmoncus chinantlensis"	88	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	42	56	304	177716.264277516	0.105031096872567	5	8
+"Desmoncus cirrhifer"	24	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	21	22	96	269931.280085009	0.0306705158436671	6	3
+"Desmoncus costaricensis"	11	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	8	40	16862.8033034858	0.0555936065925793	3	1
+"Desmoncus giganteus"	138	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	72	84	468	1347311.48837204	0.0499091814235199	11	4
+"Desmoncus horridus"	40	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	35	35	148	7214028.21710697	0.0293835602307809	19	11
+"Desmoncus interjectus"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.00591171998530626	1	1
+"Desmoncus kunarius"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	3	16	354.784209163698	0.0638187956064939	2	1
+"Desmoncus latisectus"	9	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	8	8	32	153496.943239127	0.0531211060782274	3	1
+"Desmoncus leptoclonos"	16	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	13	13	60	1212916.37810222	0.0656135741155595	4	4
+"Desmoncus loretanus"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	20	1267.32402821299	0.103047984832665	3	1
+"Desmoncus madrensis"	9	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	6	36	8763.36450826215	0.0984361071346535	1	1
+"Desmoncus mitis"	339	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	157	213	1164	4577914.6136804	0.0533673831247615	17	6
+"Desmoncus moorei"	25	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	20	21	100	41420.6927778132	0.214333738908172	3	2
+"Desmoncus myriacanthos"	27	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	17	18	92	209794.219892212	0.0522670751023624	5	3
+"Desmoncus obovoideus"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	28	1320.20357980095	0.0500110849472029	2	1
+"Desmoncus orthacanthos"	76	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	55	62	288	4072681.94325007	0.118272658581478	12	2
+"Desmoncus osensis"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	5	24	1847.37050082211	0.033785668866975	1	1
+"Desmoncus parvulus"	25	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	17	19	96	2216026.03761929	0.0568790771719068	8	6
+"Desmoncus polyacanthos"	435	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	263	304	1500	11018333.1545233	0.060245011118341	42	13
+"Desmoncus prunifer"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.112172268331051	1	1
+"Desmoncus pumilus"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.00659621367231011	1	2
+"Desmoncus setosus"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	82422.4296164353	0.1858450404834	3	2
+"Desmoncus stans"	24	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	5	6	68	1146.68081592151	0.0317994519136846	2	1
+"Desmoncus vacivus"	45	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	25	31	156	76287.3697285801	0.0530929152025945	4	3
+"Dictyocaryum fuscum"	1	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0292323473840952	1	1
+"Dictyocaryum lamarckianum"	92	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	44	50	264	2253283.20966504	0.0303109041010232	11	6
+"Dictyocaryum ptarianum"	15	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	9	48	582357.672100878	0.0140401924533459	4	5
+"Dictyosperma album"	1	"NE"	"NE"	"CR"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0136193884536624	1	3
+"Dransfieldia micrantha"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	1247.31311835818	0.0110682792728767	1	1
+"Drymophloeus litigiosus"	21	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	11	11	72	45557.7885174242	0.0649506602037166	3	2
+"Drymophloeus oliviformis"	9	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	6	7	36	139609.509834012	0.147857544426289	3	2
+"Dypsis commersoniana"	3	"Data Deficient"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	2	2	8	6.24544332978058	0.0864610522985458	1	1
+"Dypsis henrici"	2	"Data Deficient"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	2	2	8	126	0.0977603122591972	1	1
+"Dypsis heteromorpha"	9	"Data Deficient"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	6	6	32	1773.04077061421	0.0811317327121894	3	1
+"Dypsis lanceolata"	13	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	2	5	24	384.424044135719	0.0269310033092132	1	1
+"Dypsis lilacina"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	1.54285006225109e-06	0.0775587111711502	1	1
+"Dypsis pustulata"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	12	0.0467517025470585	0.0775587111711502	1	1
+"Dypsis subacaulis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0775587111711502	1	1
+"Dypsis tsaratananensis"	1	"Data Deficient"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0145139284431934	1	1
+"Elaeis oleifera"	100	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	72	75	336	4215710.31353909	0.0583549084712286	23	10
+"Eleiodoxa conferta"	18	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	18	18	72	1396144.81547853	0.192743743562864	8	4
+"Eugeissona minor"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.145983666181564	1	1
+"Eugeissona tristis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0428624451160431	1	2
+"Euterpe broadwayi"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.266229331493378	1	2
+"Euterpe catinga"	117	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	65	80	388	2269078.87557985	0.0234593792947091	18	5
+"Euterpe edulis"	148	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	109	118	540	3379152.51245481	0.076720144406175	13	6
+"Euterpe longibracteata"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	8	32	1487766.55279274	0.0608317711157724	6	4
+"Euterpe luminosa"	7	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	4	3	20	190.561925939416	0.0232616343668529	1	1
+"Euterpe precatoria"	1053	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	418	574	3344	8007504.70446586	0.0615386477264884	55	18
+"Gaussia maya"	33	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	14	18	124	48242.6014079005	0.102911874560188	2	3
+"Geonoma aspidiifolia"	37	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	15	19	100	1050688.27118361	0.0352131490236954	6	2
+"Geonoma bernalii"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0510846525430679	1	1
+"Geonoma braunii"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	2	20	54.6305818590527	0.0387592475861311	1	1
+"Geonoma brenesii"	15	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	6	52	2011.70349656772	0.0156562660510341	2	1
+"Geonoma brongniartii"	412	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	166	213	1280	3911678.58638727	0.0822410691674749	18	6
+"Geonoma calyptrogynoidea"	17	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	14	16	68	135319.61351923	0.0423147708677468	5	3
+"Geonoma camana"	189	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	109	129	656	1294342.81763179	0.0569424094341538	8	4
+"Geonoma chlamydostachys"	12	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	9	9	44	11710.7948551998	0.10703754859666	2	1
+"Geonoma chococola"	26	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	13	17	96	36929.4520179145	0.0307009833452937	4	2
+"Geonoma concinna"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	20	11323.3455687196	0.0532587809222085	4	1
+"Geonoma concinnoidea"	30	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	10	14	88	12820.1546656616	0.053337579096357	5	1
+"Geonoma congesta"	229	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	76	116	724	277643.784978071	0.100815926603241	9	4
+"Geonoma cuneata"	20	"NE"	"NE"	"EN"	"nonLC"	"NOT_ASSESSED"	11	13	76	281398.011295448	0.0183717828127556	7	6
+"Geonoma deneversii"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0508684404194355	1	1
+"Geonoma deversa"	925	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	443	559	3044	8363985.79073795	0.0566575788976853	47	15
+"Geonoma dindoensis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0321020521223545	1	1
+"Geonoma divisa"	14	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	9	10	56	6682.1644448574	0.0131091499954761	2	1
+"Geonoma epetiolata"	50	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	14	128	42510.2636800876	0.0405894375266507	4	2
+"Geonoma euspatha"	53	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	38	41	196	4841428.14455917	0.074997540683055	12	9
+"Geonoma ferruginea"	188	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	42	64	484	141637.62041913	0.0518800745584427	8	2
+"Geonoma fosteri"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	12	11.5181227238159	0.00452996563399211	1	2
+"Geonoma frontinensis"	11	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	9	40	187532.363327968	0.029994599013166	5	1
+"Geonoma galeanoae"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	328.610631005499	0.11031567491591	1	1
+"Geonoma gentryi"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0129176266491413	1	1
+"Geonoma hollinensis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	3	0.0507614053785801	1	1
+"Geonoma hugonis"	25	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	10	84	5220.6687272399	0.0233031780272722	4	1
+"Geonoma interrupta"	391	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	236	273	1340	5423472.72443456	0.0695206536356148	44	14
+"Geonoma lanata"	15	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	11	13	60	16904.7025411237	0.0326945756872495	3	2
+"Geonoma laxiflora"	61	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	39	45	208	1080984.87552026	0.0459858648057695	6	5
+"Geonoma lehmannii"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0665042325854301	1	5
+"Geonoma leptospadix"	147	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	92	107	528	5037653.93085103	0.0441633327667115	27	10
+"Geonoma longepedunculata"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	24	305709.910175582	0.0497261551984896	3	3
+"Geonoma longivaginata"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.102805018424988	1	3
+"Geonoma macrostachys"	1043	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	352	528	3192	4406444.82149407	0.0657600039087838	26	6
+"Geonoma maxima"	651	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	313	405	2188	6151004.34617142	0.0458604783210615	32	9
+"Geonoma monospatha"	18	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	10	64	11866.4799601921	0.0331770384477244	4	2
+"Geonoma mooreana"	16	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	7	52	5785.224256474	0.0304445598740131	3	1
+"Geonoma multisecta"	24	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	16	17	84	99491.1013166269	0.0488135098130442	5	2
+"Geonoma occidentalis"	22	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	17	17	76	230871.594304906	0.0434667823137715	3	3
+"Geonoma oldemanii"	2	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	18166	0.0523962842999026	2	2
+"Geonoma oligoclona"	10	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	8	40	374760.788171894	0.0444466827524593	6	3
+"Geonoma orbignyana"	430	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	171	233	1372	4438590.33091145	0.0311744083368848	30	8
+"Geonoma paradoxa"	13	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	11	11	48	73316.1687292752	0.0452039128241058	5	2
+"Geonoma pauciflora"	83	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	50	56	272	3043241.17593598	0.0614512644452884	10	2
+"Geonoma peruviana"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0604616664350033	2	1
+"Geonoma poeppigiana"	176	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	83	114	636	1486185.76566776	0.035789742877982	11	4
+"Geonoma pohliana"	409	"NE"	"NE"	"Possibly Threatened,Threatened"	"nonLC"	"NOT_ASSESSED"	224	264	1396	7175794.00370478	0.0781327895085785	19	6
+"Geonoma poiteauana"	29	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	19	19	100	2459793.13055116	0.0228865352069863	9	6
+"Geonoma sanmartinensis"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	28	477.235164556622	0.223504012051438	2	1
+"Geonoma santanderensis"	5	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	12	127.813718572307	0.0136747086420655	1	1
+"Geonoma schizocarpa"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	32	129.403426089451	0.0229804606060497	2	1
+"Geonoma scoparia"	28	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	3	7	68	593.880045236897	0.0320995316973754	2	1
+"Geonoma simplicifrons"	9	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	36	7095.08462733524	0.0302865446234743	2	1
+"Geonoma spinescens"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.00957273878157139	1	1
+"Geonoma stricta"	892	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	360	503	2856	7975644.08632063	0.0559526538902742	31	9
+"Geonoma talamancana"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	87	0.0172473527491093	1	2
+"Geonoma tenuissima"	4	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	3	3	12	6676.33523656167	0.0275411258044187	3	1
+"Geonoma triandra"	21	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	15	17	72	87054.4127645141	0.0293310335130497	4	3
+"Geonoma triglochin"	56	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	26	32	168	697920.217106982	0.0442397293580663	7	3
+"Geonoma trigona"	7	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	5	5	24	62805.0950338498	0.0152890185625958	3	2
+"Geonoma umbraculiformis"	3	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	3	3	12	283503.833405319	0.0667074749944732	3	3
+"Geonoma venosa"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	0.00389268700414896	0.0421467311680317	1	1
+"Guihaia argyrata"	10	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	10	10	40	73016.4515761586	0.0607282485812902	3	3
+"Guihaia grossifibrosa"	2	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	NA	0.0350606660358608	2	2
+"Hemithrinax ekmaniana"	1	"NE"	"NE"	"CR"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0174005553126335	1	1
+"Heterospathe annectens"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0267818570137024	1	1
+"Heterospathe arfakiana"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0245476961135864	1	1
+"Heterospathe cagayanensis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0280585689470172	1	1
+"Heterospathe clemensiae"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0364529574289918	1	1
+"Heterospathe compsoclada"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0108863606583327	1	1
+"Heterospathe delicatula"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.00990137783810496	1	1
+"Heterospathe elata"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	20	3614626.13949794	0.0411926932632923	4	4
+"Heterospathe elegans"	68	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	40	48	236	207985.463113129	0.0253868289291859	6	1
+"Heterospathe elmeri"	1	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0210670903325081	1	1
+"Heterospathe glabra"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0142938066273928	1	1
+"Heterospathe intermedia"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	24860.6020713606	0.0253545292653143	2	1
+"Heterospathe lepidota"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.146495848894119	1	1
+"Heterospathe macgregorii"	9	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	28	11422.7157575892	0.0134145900503629	4	1
+"Heterospathe minor"	7	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	4	4	24	10916.3338028957	0.0415627104895456	1	1
+"Heterospathe muelleriana"	10	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	9	40	183579.361654389	0.0275279758963734	4	1
+"Heterospathe negrosensis"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	3311.20908948858	0.0220821409020573	1	1
+"Heterospathe obriensis"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	28	15782.3870926278	0.00922831573656627	1	1
+"Heterospathe parviflora"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	16	532.32891087659	0.0872191279195249	2	1
+"Heterospathe philippinensis"	10	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	9	40	56511.1390740788	0.0307959204539657	3	1
+"Heterospathe porcata"	1	"Data Deficient"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.00734227430075407	1	1
+"Heterospathe pulchra"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	12	253.546360030029	0.0621552591522535	2	1
+"Heterospathe pullenii"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	1106.51499918768	0.0317092011682689	1	1
+"Heterospathe sphaerocarpa"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	20	2506.3292967566	0.0228080155327916	1	1
+"Heterospathe woodfordiana"	4	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	3	3	12	1854.26346586922	0.072802972048521	1	1
+"Hydriastele aprica"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.00422803033143282	1	1
+"Hydriastele beccariana"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.038344519212842	2	1
+"Hydriastele beguinii"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	24	849.18615554705	0.104421471910817	1	1
+"Hydriastele brassii"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	70984.3407264593	0.032437212454776	3	1
+"Hydriastele cariosa"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0236400347203016	1	1
+"Hydriastele chaunostachys"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	24	23678.6828732195	0.0388841813962374	4	1
+"Hydriastele costata"	63	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	46	46	216	1398746.67862338	0.0408740302747382	13	3
+"Hydriastele dransfieldii"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	3	16	132.821804606035	0.0674041531980038	1	1
+"Hydriastele flabellata"	16	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	13	13	64	369109.485079564	0.0403309297762462	7	1
+"Hydriastele gibbsiana"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0132280187681317	1	1
+"Hydriastele gracilis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0678477436304092	1	1
+"Hydriastele hombronii"	3	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	2	2	8	85.5041426751556	0.0463323319951693	1	1
+"Hydriastele kasesa"	14	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	12	12	52	106501.775563274	0.0828035349425461	2	1
+"Hydriastele ledermanniana"	13	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	11	11	48	153073.133448576	0.0295845251530409	4	1
+"Hydriastele longispatha"	14	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	10	10	56	303728.062708367	0.0265370093152991	4	1
+"Hydriastele lurida"	10	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	9	36	256190.46713227	0.0419850294245407	5	1
+"Hydriastele manusii"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	0.409616038287029	0.0206478461623192	1	1
+"Hydriastele micrantha"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.000672197144012898	1	1
+"Hydriastele microcarpa"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	18648.6143582521	0.0638511925935745	2	1
+"Hydriastele moluccana"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	12	4.9228010513382	0.0601130798459053	1	1
+"Hydriastele montana"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.00760751566849649	1	1
+"Hydriastele nannostachys"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.266433984041214	0	1
+"Hydriastele pinangoides"	76	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	52	59	296	1021895.23082032	0.0349098168249168	11	1
+"Hydriastele procera"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0561233200132847	1	1
+"Hydriastele ramsayi"	375	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	44	80	620	115600.96611783	0.00289986200561786	1	1
+"Hydriastele rhopalocarpa"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0588376596570015	1	1
+"Hydriastele valida"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0142938066273928	1	1
+"Hydriastele variabilis"	12	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	9	44	25510.2593943964	0.0734328355174512	2	1
+"Hydriastele wendlandiana"	429	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	102	180	1240	1668691.89088562	0.0232061161231793	6	3
+"Hyophorbe amaricaulis"	1	"NE"	"NE"	"CR"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0344957858324051	1	1
+"Hyophorbe lagenicaulis"	1	"NE"	"NE"	"CR"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0171735621988773	1	1
+"Hyospathe elegans"	764	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	359	475	2620	7485559.27576076	0.053187429408506	41	11
+"Hyospathe frontinensis"	12	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	3	4	32	10321.1485297435	0.0175726235223313	3	1
+"Hyospathe macrorhachis"	13	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	8	10	48	13351.7555193436	0.0289660957015048	1	1
+"Hyospathe peruviana"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	16	3143.85745159052	0.0527066716458648	1	1
+"Hyospathe wendlandiana"	5	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	3	3	20	588.094098774767	0.0395906381309032	1	1
+"Hyphaene reptans"	5	"Data Deficient"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	2	2	12	8.28863406242752	1.79820126504637e-06	1	3
+"Iguanura ambigua"	2	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	NA	0.301026068627834	2	1
+"Iguanura bicornis"	2	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	NA	0.070869455114007	2	2
+"Iguanura borneensis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.035862585529685	1	1
+"Iguanura curvata"	3	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	3	3	12	9230.17739945851	0.169120480616887	2	1
+"Iguanura diffusa"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.573358774185181	1	1
+"Iguanura elegans"	4	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	3	3	16	791.286418898966	0.235674381256104	2	1
+"Iguanura macrostachya"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	6	28	127284.261533361	0.182865522801876	1	1
+"Iguanura melinauensis"	8	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	2	4	32	2475.08779288319	0.0447111566609237	2	1
+"Iguanura minor"	3	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	3	3	12	84.8547278592854	0.331769575675329	1	1
+"Iguanura myochodoides"	3	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	12	1.70929383184082	0.116358265280724	1	1
+"Iguanura palmuncula"	7	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	4	5	28	4343.50484576176	0.250245956437928	1	1
+"Iguanura polymorpha"	26	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	17	19	84	31189.3129839663	0.13895518390032	3	2
+"Iguanura prolifera"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.179627016186714	1	1
+"Iguanura sanderiana"	3	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	3	3	12	550.315153655272	0.322769661744436	1	1
+"Iguanura thalangensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.104780666530132	1	1
+"Iguanura wallichiana"	25	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	18	18	88	317528.422925537	0.164427403360605	4	3
+"Iriartella setigera"	247	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	143	167	824	3355582.6562159	0.0256642230711503	20	4
+"Iriartella stenocarpa"	191	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	66	100	624	1767969.99441248	0.0698362598915649	9	4
+"Jailoloa halmaherensis"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	0.000556045158828376	0.0443087629973888	1	1
+"Johannesteijsmannia altifrons"	7	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	7	7	28	233598.717287395	0.156416297091969	3	4
+"Jubaea chilensis"	1	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0168430097401142	1	1
+"Jubaeopsis caffra"	9	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	3	6	36	1027.63716989106	0.0263242623639397	2	2
+"Kerriodoxa elegans"	6	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	3	4	24	1193.64702006671	0.141321672747533	2	1
+"Korthalsia angustifolia"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	4727.91113412514	0.344196885824203	2	1
+"Korthalsia brassii"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.099312286823988	2	1
+"Korthalsia celebica"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.129600666463375	2	2
+"Korthalsia cheb"	20	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	12	13	72	312498.379268544	0.166858426411636	5	1
+"Korthalsia concolor"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0937764123082161	1	1
+"Korthalsia debilis"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	12	17.450987775034	0.0743597988039255	2	2
+"Korthalsia echinometra"	24	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	17	17	84	1069333.97674862	0.167155820643529	5	3
+"Korthalsia ferox"	15	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	8	44	222621.730935961	0.0875582000861565	3	1
+"Korthalsia flagellaris"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.244032066315413	2	4
+"Korthalsia furtadoana"	17	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	11	11	56	183709.499419003	0.195038409136674	3	1
+"Korthalsia hispida"	11	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	8	36	612530.076890975	0.0939425634728237	4	3
+"Korthalsia jala"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	24	5607.89485008981	0.0434132320806384	1	1
+"Korthalsia junghuhnii"	2	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	8	NA	0.00839091371744871	1	1
+"Korthalsia laciniosa"	20	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	16	16	68	2021921.00180849	0.160284415259957	8	11
+"Korthalsia minor"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	28	35929.6608080518	0.136742076171296	2	2
+"Korthalsia rigida"	20	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	14	14	68	1844037.99610039	0.158169519715011	7	5
+"Korthalsia robusta"	16	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	11	48	632215.507279912	0.0994716875211452	5	3
+"Korthalsia rostrata"	24	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	13	14	72	1517783.7449549	0.140882328540708	4	4
+"Korthalsia zippelii"	44	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	29	31	160	700344.901923885	0.0555458764429204	11	1
+"Laccospadix australasicus"	51	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	16	23	168	174050.920875333	0.00520801048283009	2	1
+"Lanonia acaulis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.245654672384262	1	1
+"Lanonia calciphila"	16	"NE"	"NE"	"Threatened,Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	8	10	56	58105.4689030135	0.0740697812289	4	1
+"Lanonia centralis"	30	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	19	22	100	95445.6522040275	0.0963051313223938	4	2
+"Lanonia dasyantha"	18	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	11	12	52	153221.134289914	0.101030458592706	4	3
+"Lanonia hainanensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0980445668101311	1	1
+"Lanonia hexasepala"	12	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	3	4	32	5178.48705326659	0.100119312371438	3	1
+"Lanonia magalonii"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	20	637.990135895557	0.179880376373019	1	1
+"Latania verschaffeltii"	1	"NE"	"NE"	"EN"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0344957858324051	1	1
+"Leopoldinia piassaba"	11	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	8	8	36	263175.069055966	0.0216677768621594	5	3
+"Leopoldinia pulchra"	75	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	54	59	276	1876616.48993252	0.0361291687010089	10	3
+"Lepidocaryum tenue"	295	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	131	185	980	2233950.83066986	0.0396199376141478	14	5
+"Licuala acuminata"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.150914043188095	1	1
+"Licuala ahlidurii"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.334007650613785	1	1
+"Licuala angustiloba"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	3	12	229.542758004542	0.0214196988381445	2	1
+"Licuala anomala"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.072583612985909	1	1
+"Licuala atrovirens"	2	"Data Deficient"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.169700024649501	2	1
+"Licuala atroviridis"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	0	0.245654672384262	2	1
+"Licuala averyanovii"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.106917031109333	2	1
+"Licuala bachmaensis"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	24	632.968481865463	0.175527324900031	3	1
+"Licuala bacularia"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	32	178524.155711404	0.0901567044202238	3	1
+"Licuala beccariana"	18	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	14	14	64	119030.095571511	0.070629967092019	3	1
+"Licuala bellatula"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	16	78305.8279866809	0.0262829312123358	3	1
+"Licuala bidoupensis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0235616751015186	1	1
+"Licuala bifida"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0230831541121006	1	1
+"Licuala bracteata"	10	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	6	24	1914.18736799518	0.110256499052048	3	1
+"Licuala brevicalyx"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0303338684025221	2	1
+"Licuala cattienensis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0752472877502441	1	1
+"Licuala celebica"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	37036.3191598132	0.0822445104519526	2	1
+"Licuala chaiana"	2	"Data Deficient"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.428155601024628	1	1
+"Licuala concinna"	10	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	9	40	307091.427387011	0.0618884572759271	5	1
+"Licuala crassiflora"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	12	1081.73419716949	0.0607929245258371	2	1
+"Licuala dakrongensis"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	2693.31348586721	0.100386323407292	2	1
+"Licuala distans"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.196246152743697	2	1
+"Licuala ellipsoidalis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0568142980337143	1	1
+"Licuala ferruginea"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	5429.67614123505	0.229046995441119	1	1
+"Licuala flavida"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.000745851604733616	1	1
+"Licuala flexuosa"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.118867464363575	1	1
+"Licuala glaberrima"	1	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.107260465621948	1	1
+"Licuala grandiflora"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	10.432488543488	0.00331268281054993	1	1
+"Licuala grandis"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	16	5701.01672173016	0.0104028309229761	1	2
+"Licuala insignis"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	20	112074.0521431	0.03224927932024	2	1
+"Licuala klossii"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.000745851604733616	1	1
+"Licuala kunstleri"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.318937420845032	1	2
+"Licuala lauterbachii"	46	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	33	34	164	1321763.4248213	0.0680786627800325	11	2
+"Licuala linearis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0655878894031048	1	1
+"Licuala longiflora"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	0	0.0493113920092583	1	1
+"Licuala longipes"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.426240518689156	2	2
+"Licuala longispadix"	1	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0664915442466736	1	1
+"Licuala macrantha"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0186398942023516	1	1
+"Licuala magna"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0445506328251213	2	1
+"Licuala manglaensis"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	0.513266024901032	0.0697115361690521	1	1
+"Licuala merguensis"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	24	2504.74423605344	0.0754435161749522	1	2
+"Licuala micrantha"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0492445304989815	1	1
+"Licuala modesta"	1	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.150458499789238	1	2
+"Licuala montana"	11	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	11	11	44	325704.144361975	0.107360853728923	4	1
+"Licuala moszkowskiana"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0243783686310053	1	1
+"Licuala naumoniensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.134958237409592	1	1
+"Licuala parviflora"	11	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	9	44	113202.85907853	0.0613886717368256	2	1
+"Licuala peltata"	13	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	11	11	52	304310.978358978	0.173894761846616	4	9
+"Licuala penduliflora"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	28	587887.92258576	0.0367346551003201	4	1
+"Licuala platydactyla"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.00936983874998987	2	1
+"Licuala poonsakii"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.14476577937603	1	1
+"Licuala pseudovalida"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	143676.25466069	0.244886447675526	2	1
+"Licuala pumila"	7	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	7	7	28	88481.6697829438	0.0765977314274226	5	1
+"Licuala ramsayi"	58	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	26	37	200	177977.710101953	0.0140931985836781	2	1
+"Licuala robinsoniana"	5	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	4	4	20	12514.7050050354	0.0901593307033181	3	1
+"Licuala rumphii"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0192796885967255	1	1
+"Licuala scortechinii"	1	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.042510811239481	1	2
+"Licuala simplex"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	20	22686.3695739407	0.0717843536287546	1	1
+"Licuala tanycola"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	24	12108.8269107282	0.0400692871106522	1	1
+"Licuala yiiana"	1	"Data Deficient"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0291038881987333	1	1
+"Linospadix albertisianus"	44	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	30	32	148	457223.465041616	0.0435413659169254	7	1
+"Linospadix apetiolatus"	37	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	6	76	1042.24307088602	0.0014287571775148	1	1
+"Linospadix caninus"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0678520445071626	2	1
+"Linospadix microcaryus"	36	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	23	23	96	18007.3943393069	0.00557856112573063	2	1
+"Linospadix minor"	70	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	19	38	256	33043.0590821805	0.00643588989374361	3	1
+"Linospadix monostachyos"	804	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	50	178	2020	89627.2164834753	0.0304212522923492	1	2
+"Livistona alfredii"	11	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	8	9	44	156505.442286381	0.000434301621680788	3	1
+"Livistona australis"	2098	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	70	286	3928	3239714.81538405	0.0396751747573994	6	3
+"Livistona benthamii"	258	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	65	110	744	870355.51621975	0.00748299384795528	5	3
+"Livistona carinensis"	9	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	5	6	32	28247.126400543	9.99000753331024e-07	5	3
+"Livistona chinensis"	15	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	13	13	56	60663847.0229897	0.0493049686234112	10	5
+"Livistona concinna"	11	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	5	28	1078.86419542169	0.018406567692926	1	1
+"Livistona decora"	57	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	34	40	212	198740.563268013	0.0349564087166647	5	1
+"Livistona drudei"	1	"NE"	"NE"	"EN"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.00851227436214685	1	1
+"Livistona eastonii"	50	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	13	17	132	24440.0586398959	2.73350578936515e-05	1	1
+"Livistona exigua"	2	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0228666942566633	1	1
+"Livistona fulva"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	4	20	287.685912907282	0.0144614726195869	1	1
+"Livistona humilis"	3818	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	143	565	7412	538474.317569551	0.0121275162647208	3	1
+"Livistona inermis"	511	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	101	157	1144	433925.141735933	0.000573031985272178	3	2
+"Livistona jenkinsiana"	3	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	12	27.550483436161	0.0765891720851262	1	5
+"Livistona lanuginosa"	24	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	18	19	80	22996.0212876555	0.000359923277708655	3	1
+"Livistona mariae"	27	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	7	11	72	647086.251115705	0.000433233328361961	4	1
+"Livistona muelleri"	70	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	48	56	268	2199004.62263876	0.0171094224475902	9	2
+"Livistona nasmophila"	12	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	8	40	51292.1432903237	1.16134422872468e-05	2	1
+"Livistona nitida"	14	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	10	44	8339.08747677411	0.0114771749899124	1	1
+"Livistona rigida"	51	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	28	33	168	802711.399793262	0.000277362219620437	6	2
+"Livistona saribus"	14	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	13	13	56	969536.049078979	0.132730613861765	7	8
+"Livistona speciosa"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	32	586272.971383665	0.0883117324192426	5	8
+"Livistona victoriae"	155	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	27	48	400	59252.8257546574	6.90665586731601e-05	2	2
+"Manicaria martiana"	11	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	8	40	283608.31033658	0.0102475673272486	5	2
+"Manicaria saccifera"	97	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	59	67	348	4437467.66086754	0.0586161176378079	24	15
+"Mauritia carana"	5	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	2	2	16	22.7298949177592	0.000703790155239403	2	4
+"Mauritia flexuosa"	263	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	173	193	900	9884715.2621332	0.0549454237279376	27	13
+"Mauritiella aculeata"	57	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	46	48	216	4855651.67405771	0.0744701360847358	15	3
+"Mauritiella armata"	146	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	102	111	488	6489439.81593058	0.0542881899456467	24	11
+"Mauritiella macroclada"	12	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	8	40	9670.50782159591	0.0171231188675544	3	2
+"Mauritiella pumila"	11	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	10	10	44	28752.4985078122	0.0266602253620724	4	2
+"Maxburretia furtadoana"	1	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.103310585021973	1	1
+"Maxburretia gracilis"	1	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.174004256725311	1	2
+"Medemia argun"	3	"NE"	"NE"	"CR"	"nonLC"	"NOT_ASSESSED"	3	3	12	15996.630593286	0	2	2
+"Metroxylon sagu"	43	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	23	28	156	3322439.41124999	0.0745686868443912	12	2
+"Metroxylon salomonense"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	13468.1264766585	0.0606741489221652	1	5
+"Metroxylon warburgii"	1	"NE"	"NE"	"LC"	"LC"	"NOT_ASSESSED"	1	1	4	NA	NA	1	3
+"Myrialepis paradoxa"	21	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	15	15	68	1417647.03823057	0.162434550623099	8	8
+"Nannorrhops ritchieana"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0	1	6
+"Nenga banaensis"	7	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	5	5	20	29646.7722438226	0.152173545743738	4	1
+"Nenga macrocarpa"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0919673033058643	2	2
+"Nenga pumila"	54	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	49	50	204	2816285.02881436	0.144370649199657	13	5
+"Neonicholsonia watsonii"	90	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	31	47	300	94095.3214393875	0.0656071067684227	5	4
+"Neoveitchia brunnea"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.00411794520914555	1	1
+"Normanbya normanbyi"	23	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	4	11	84	2174.70440169325	0.00327510783782877	1	1
+"Oenocarpus bacaba"	93	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	54	59	304	4017936.18482989	0.0527156104835349	18	6
+"Oenocarpus bataua"	633	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	258	345	1952	6716325.91891115	0.0570348197910197	36	12
+"Oenocarpus circumtextus"	3	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	2	2	8	4.09320938412249	0.0164020678882177	2	2
+"Oenocarpus distichus"	28	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	25	25	100	2222738.0767927	0.127104998341695	11	5
+"Oenocarpus makeru"	1	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.00728963036090136	1	1
+"Oenocarpus mapora"	455	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	195	250	1488	4025916.98220326	0.0625408152182769	26	8
+"Oenocarpus minor"	88	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	59	68	316	2136786.9884448	0.0743625688191969	22	2
+"Oenocarpus simplex"	2	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	8	NA	0.0241640098392963	1	2
+"Oncosperma gracilipes"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0550368372350931	1	1
+"Oncosperma horridum"	24	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	23	23	92	2789430.60445884	0.166653045375521	10	6
+"Oncosperma tigillarium"	10	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	9	36	2096931.25287816	0.122384518617764	5	7
+"Orania archboldiana"	12	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	32	58487.8887902	0.0828211124365528	2	1
+"Orania bakeri"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0591813791543245	1	1
+"Orania dafonsoroensis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0437404699623585	1	1
+"Orania decipiens"	3	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	3	3	12	21307.380791559	0.0294451732188463	2	1
+"Orania deflexa"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0929047465324402	1	1
+"Orania disticha"	12	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	8	40	90573.0063226912	0.0291120095644146	4	1
+"Orania ferruginea"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.126330479979515	1	1
+"Orania gagavu"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0115939294919372	1	1
+"Orania glauca"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	60.9070086819229	0.026472673440973	1	1
+"Orania grandiflora"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0588376596570015	1	1
+"Orania lauterbachiana"	19	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	17	17	72	561236.774396647	0.0260928787235906	6	1
+"Orania littoralis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.101349495351315	1	1
+"Orania longistaminodia"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	16	138.659356041111	0.0225088284350932	2	1
+"Orania macropetala"	10	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	8	36	89146.5036599566	0.0460526479408145	3	1
+"Orania micrantha"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	9017.59916048227	0.0100978597377737	3	1
+"Orania oreophila"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0157947624102235	1	1
+"Orania palindan"	16	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	12	12	56	1236426.23752998	0.054313214845024	7	4
+"Orania paraguanensis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.11182514205575	1	2
+"Orania regalis"	9	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	20	60692.4212103669	0.0366349266842008	1	1
+"Orania subdisticha"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.00131869316101074	1	1
+"Orania sylvicola"	8	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	6	6	24	596244.254397284	0.252050307579339	4	5
+"Orania tabubilensis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0357798933982849	1	1
+"Orania timikae"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0307541054207832	2	1
+"Orania zonae"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0482743829488754	1	1
+"Oraniopsis appendiculata"	29	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	10	13	96	8375.84981406129	0.00624286906857943	2	1
+"Parajubaea cocoides"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	104052.641280891	0.0206740343943238	4	3
+"Parajubaea sunkha"	4	"NE"	"NE"	"EN"	"nonLC"	"NOT_ASSESSED"	3	3	16	78.278300769906	0.0230066659860313	2	1
+"Phoenix caespitosa"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	28	44646.9135475772	1.28442953999703e-06	4	5
+"Phoenix dactylifera"	223	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	112	141	792	33079609.1558345	0.00930565580483031	29	6
+"Phoenix loureiroi"	48	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	44	45	188	3904779.06567737	0.0501705132119241	16	16
+"Phoenix roebelenii"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	149942.162043988	0.0313309609579543	3	5
+"Phoenix theophrasti"	8	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	2	3	24	618.055243007172	0.00962676934432238	1	3
+"Pholidocarpus ihur"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0847001597285271	1	2
+"Pholidocarpus macrocarpus"	3	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	3	3	12	2881.13410870736	0.177814031640689	1	3
+"Pholidocarpus sumatranus"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0665947124361992	1	1
+"Pholidostachys dactyloides"	85	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	39	49	256	294304.731340993	0.0397185828975018	5	3
+"Pholidostachys kalbreyeri"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0117389708757401	1	1
+"Pholidostachys occidentalis"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	6	32	22971.9069281404	0.0351187166525051	2	2
+"Pholidostachys panamensis"	18	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	7	52	4050.77332433923	0.0541550803722607	4	2
+"Pholidostachys sanluisensis"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	1462.50369833695	0.0776593242771924	1	1
+"Pholidostachys synanthera"	191	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	97	114	592	1429855.03334787	0.0389211150547563	16	4
+"Physokentia avia"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	16	150.071579021016	0.0351038549270015	1	1
+"Physokentia insolita"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	4384.87907702253	0.0721905170939863	1	1
+"Phytelephas aequatorialis"	38	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	22	26	140	50180.8614675337	0.0608166364315701	5	1
+"Phytelephas macrocarpa"	189	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	89	115	664	1871402.73673161	0.084241207418489	15	5
+"Phytelephas tenuicaulis"	116	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	34	50	364	183606.017088475	0.0322379104678664	5	4
+"Phytelephas tumacana"	1	"NE"	"NE"	"EN"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.162363037467003	1	1
+"Pigafetta filaris"	9	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	36	154256.221027274	0.0610352765458326	3	2
+"Pinanga acuminata"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	954.078277302095	0.0832169242203236	2	2
+"Pinanga adangensis"	3	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	3	3	12	1115.51311412869	0.164630123414099	1	2
+"Pinanga albescens"	16	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	14	14	64	390006.477968765	0.0727494946040679	2	1
+"Pinanga angustisecta"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	20	47870.0769294315	0.135725657269359	2	1
+"Pinanga annamensis"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	20	4440.74355653279	0.152329340044941	2	1
+"Pinanga arinasae"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0110779060050845	1	1
+"Pinanga aristata"	21	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	19	20	80	352331.263170681	0.115203298794638	4	1
+"Pinanga auriculata"	22	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	18	18	84	1257747.55546292	0.15747054611248	7	4
+"Pinanga baviensis"	41	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	28	30	132	753977.101853488	0.0743549389242217	5	4
+"Pinanga brevipes"	14	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	12	13	56	166643.854113604	0.101935867602671	6	1
+"Pinanga caesia"	14	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	12	12	56	80903.2661757069	0.0846007057864751	2	1
+"Pinanga capitata"	33	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	16	20	124	109044.387180204	0.0876409441204459	3	1
+"Pinanga cattienensis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0752472877502441	1	1
+"Pinanga celebica"	2	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	NA	0.0776910185813904	1	1
+"Pinanga chaiana"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	32	12544.2250846265	0.0743105916480999	1	1
+"Pinanga copelandii"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	32	165187.526628895	0.0596138135297224	3	1
+"Pinanga coronata"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	24	33214.5474128306	0.0277369304094464	3	3
+"Pinanga crassipes"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	28	26889.8138701216	0.120981290404286	3	1
+"Pinanga cucullata"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.418802052736282	1	1
+"Pinanga cupularis"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	20	7766.24476965676	0.217692564640726	2	1
+"Pinanga curranii"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	3	12	307.535629545906	0.108992086102565	1	1
+"Pinanga declinata"	19	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	10	60	15480.857932383	0.0831624028812114	3	1
+"Pinanga densiflora"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	24	47678.8643739066	0.196406779034684	2	1
+"Pinanga disticha"	12	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	12	12	48	189989.111453798	0.114040236532067	4	3
+"Pinanga dumetosa"	16	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	10	12	64	57416.8991158682	0.130269461777061	3	1
+"Pinanga geonomiformis"	3	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	3	3	12	3495.56993160155	0.039349514991045	1	1
+"Pinanga glaucescens"	3	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	3	3	12	530.510859222508	0.102608819802602	1	2
+"Pinanga gracilis"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	20	1346.67936475816	0.107311286653082	1	6
+"Pinanga heterophylla"	1	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.117237985134125	1	1
+"Pinanga humilis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.245654672384262	1	1
+"Pinanga insignis"	9	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	9	36	311950.727724396	0.0480121594543258	4	3
+"Pinanga isabelensis"	1	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0201849956065416	0	1
+"Pinanga javana"	2	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	NA	0.0243130037561059	2	1
+"Pinanga keahii"	6	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	5	5	24	188495.074744362	0.0647960213245824	3	1
+"Pinanga kontumensis"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	0.622140636244655	0.0664872266352177	1	1
+"Pinanga latisecta"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	8180.08697346912	0.16684519747893	2	1
+"Pinanga lepidota"	39	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	31	34	156	95868.5594806017	0.143160772874044	3	1
+"Pinanga ligulata"	2	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	NA	0.159837570041418	2	1
+"Pinanga limosa"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	20	1067569.75084393	0.17270226329565	4	1
+"Pinanga maculata"	14	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	13	13	56	85739.8532915418	0.0301159663525011	4	1
+"Pinanga malaiana"	14	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	14	14	56	353302.494210424	0.205601612372058	3	3
+"Pinanga minuta"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	8	32	137967.029286336	0.144143684505252	3	1
+"Pinanga mirabilis"	14	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	12	12	52	298507.727348475	0.170574929947699	4	1
+"Pinanga modesta"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	1072.52192923989	0.0610295956333478	1	1
+"Pinanga mooreana"	21	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	14	16	80	37812.8266116877	0.186553413924273	3	1
+"Pinanga nuichuensis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0565501991659403	1	1
+"Pinanga pachyphylla"	3	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	3	3	12	934.846396877685	0.217424551645915	1	1
+"Pinanga paradoxa"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	1649.28516148487	0.0958514865487814	2	2
+"Pinanga philippinensis"	18	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	14	17	72	139262.051234132	0.0273063859591881	5	1
+"Pinanga pilosa"	22	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	12	84	39792.9009157404	0.0983964236008681	3	1
+"Pinanga plicata"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0528166256844997	1	1
+"Pinanga quadrijuga"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	2	16	104.630079674963	0.0711988754570484	2	1
+"Pinanga ridleyana"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	32	76160.6961853398	0.142922698956681	4	1
+"Pinanga rigida"	2	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	NA	0.0258907778188586	1	1
+"Pinanga riparia"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	20	209568.593801514	0.283061013696715	2	3
+"Pinanga rivularis"	11	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	44	4167.30496726064	0.0808953806884925	2	1
+"Pinanga rumphiana"	34	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	21	21	92	1279886.04451801	0.0664035721702556	11	3
+"Pinanga rupestris"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0591963529586792	1	1
+"Pinanga salicifolia"	34	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	26	28	136	326343.333409293	0.148528108914273	3	1
+"Pinanga scortechinii"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	24	5398.36582329802	0.101643525063992	1	2
+"Pinanga sessilifolia"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	24	107985.020740208	0.143026473000646	1	1
+"Pinanga simplicifrons"	26	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	23	24	104	926759.831400775	0.23360281638228	4	5
+"Pinanga speciosa"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	44100.3608855714	0.0343666258268058	2	1
+"Pinanga stricta"	2	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	NA	0.163409814238548	2	1
+"Pinanga stylosa"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.266868196427822	2	1
+"Pinanga subintegra"	11	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	10	10	40	115564.128408474	0.263632094995542	3	3
+"Pinanga tenacinervis"	1	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.078869640827179	1	1
+"Pinanga tenella"	21	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	16	17	80	116735.714345366	0.111401703175423	2	1
+"Pinanga tomentella"	13	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	11	11	48	139597.466815263	0.0947345712831101	2	1
+"Pinanga tomentosa"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.124134264886379	1	1
+"Pinanga trichoneura"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.291128009557724	1	1
+"Pinanga variegata"	23	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	19	19	88	493008.487158559	0.158559345842704	5	1
+"Pinanga veitchii"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	28	13315.8736071263	0.179305557427662	1	1
+"Pinanga versicolor"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	5	24	19044.7663385702	0.0837663499017556	3	1
+"Pinanga woodiana"	2	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	NA	0.0300770178437233	2	1
+"Pinanga yassinii"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	0.341075212985158	0.0228666942566633	1	1
+"Plectocomia elongata"	26	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	21	21	92	4044038.41017378	0.150156086883866	12	9
+"Plectocomia mulleri"	30	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	25	25	116	733858.38722	0.187036620142559	5	2
+"Plectocomia pierreana"	25	"NE"	"NE"	"Threatened,Not Threatened"	"nonLC"	"NOT_ASSESSED"	20	21	88	460464.486818878	0.084941505882889	8	6
+"Plectocomiopsis geminiflora"	58	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	43	44	204	2584800.49413454	0.158227127838221	9	8
+"Plectocomiopsis mira"	24	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	17	17	88	925840.558093102	0.200351270109726	5	3
+"Plectocomiopsis songthanhensis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.104709450155497	1	1
+"Podococcus acaulis"	20	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	10	64	13328.0659559366	0.0154318054555915	1	2
+"Podococcus barteri"	36	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	26	28	140	95105.1760362588	0.0347455435516571	2	7
+"Ponapea hentyi"	3	"NE"	"NE"	"EN"	"nonLC"	"NOT_ASSESSED"	3	3	12	343.276620027041	0.048706632728378	1	1
+"Prestoea carderi"	36	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	20	22	116	1144141.90647129	0.0360167451047649	6	4
+"Prestoea decurrens"	153	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	85	104	540	940597.672949142	0.0675991879484321	12	5
+"Prestoea ensiformis"	70	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	40	48	232	1303786.53721999	0.0366032447649299	13	5
+"Prestoea longepetiolata"	66	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	25	36	224	377316.959162979	0.0242407509570264	8	5
+"Prestoea pubens"	22	"NE"	"NE"	"LC"	"LC"	"NOT_ASSESSED"	7	11	68	75378.912760008	0.0445642512376336	5	2
+"Prestoea pubigera"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	20	429.002027257324	0.0374563341694219	3	2
+"Prestoea schultzeana"	176	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	77	102	564	1704466.72339966	0.0535341023251021	15	7
+"Prestoea simplicifolia"	9	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	4	6	28	7927.25009921967	0.0309869442135096	3	1
+"Prestoea tenuiramosa"	12	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	5	5	36	40323.7534993142	0.0113155201106565	2	3
+"Pritchardia beccariana"	1	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0367646180093288	1	1
+"Pritchardia forbesiana"	2	"NE"	"NE"	"EN"	"nonLC"	"NOT_ASSESSED"	1	1	8	NA	0.0100709991529584	1	1
+"Pritchardia glabrata"	1	"NE"	"NE"	"EN"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.000682012760080397	1	1
+"Pritchardia hillebrandii"	3	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	3	3	12	23.9591783822479	0.0172998026634256	2	1
+"Pritchardia kahukuensis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.00893447734415531	1	1
+"Pritchardia maideniana"	5	"NE"	"NE"	"CR"	"nonLC"	"NOT_ASSESSED"	3	3	20	1396.64531874521	0.0176808428252116	1	1
+"Pritchardia martii"	2	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	NA	0.0189074271474965	1	1
+"Pritchardia munroi"	2	"NE"	"NE"	"CR"	"nonLC"	"NOT_ASSESSED"	2	2	8	NA	0.019602342392318	1	1
+"Pritchardia napaliensis"	1	"NE"	"NE"	"CR"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.00822876486927271	1	1
+"Pritchardia pacifica"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0392118468880653	1	1
+"Pritchardia waialealeana"	1	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0343776941299438	1	1
+"Pseudophoenix ekmanii"	1	"NE"	"NE"	"CR"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.00115628307685256	1	1
+"Pseudophoenix lediniana"	1	"NE"	"NE"	"CR"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0234123561531305	1	1
+"Pseudophoenix vinifera"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	2697.32060818335	0.0213978914543986	1	2
+"Ptychococcus lepidotus"	15	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	11	52	158525.220366763	0.0406131466229757	4	1
+"Ptychosperma buabe"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0142938066273928	1	1
+"Ptychosperma burretianum"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	3	16	155.835652643845	0.0385980671271682	2	1
+"Ptychosperma caryotoides"	23	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	15	18	88	80695.3525918189	0.0368710141983288	3	1
+"Ptychosperma cuneatum"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	1233.34914935424	0.0673230700194836	2	1
+"Ptychosperma furcatum"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	24	2686.49607137452	0.0146085997112095	1	1
+"Ptychosperma lauterbachii"	11	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	9	40	91415.1437405243	0.0643499830568379	3	1
+"Ptychosperma lineare"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	20	4238.66297017875	0.0348752062767744	1	1
+"Ptychosperma macarthurii"	9	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	8	8	36	566101.025311115	0.0414890220078329	5	3
+"Ptychosperma mambare"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0856437534093857	0	1
+"Ptychosperma mooreanum"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	28	31315.0981199364	0.0674414777729128	3	1
+"Ptychosperma propinquum"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	215607.317470689	0.0507550621405244	3	2
+"Ptychosperma pullenii"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0212314371019602	1	1
+"Ptychosperma ramosissimum"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0381788276135921	1	1
+"Ptychosperma rosselense"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	2	16	6.03720061688471	0.0503184429059426	1	1
+"Ptychosperma salomonense"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	32	29859.8371781062	0.0275077330879867	1	2
+"Ptychosperma schefferi"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	308.668996021906	0.0662423223257065	1	1
+"Ptychosperma streimannii"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	3	12	38.9041776717157	0.0472987294197083	1	1
+"Ptychosperma tagulense"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0169091317802668	1	1
+"Ptychosperma vestitum"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.0243914428865537	2	1
+"Ptychosperma waitianum"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	24	270.215826730133	0.0638708967183318	1	1
+"Raphia africana"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0277282651513815	1	2
+"Raphia gentiliana"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	16	299722.779673437	0.0646340636594687	3	2
+"Raphia hookeri"	111	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	46	69	388	1852543.60687857	0.0658826642493541	10	17
+"Raphia laurentii"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0130088794976473	1	3
+"Raphia monbuttorum"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.00998462550342083	1	6
+"Raphia palma-pinus"	12	"Data Deficient"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	9	9	44	163601.853499927	0.135598006037374	4	11
+"Raphia regalis"	4	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	4	4	16	102982.011956785	0.0659724050201476	4	7
+"Raphia ruwenzorica"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.082888089120388	1	3
+"Raphia sudanica"	546	"Data Deficient"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	135	165	980	1110930.59446902	0.0404031763624756	5	15
+"Raphia taedigera"	27	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	23	23	108	4996798.54641881	0.0784459043621879	8	7
+"Raphia vinifera"	36	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	18	21	124	55554.0781255707	0.0722790056477404	4	4
+"Ravenea hildebrandtii"	4	"NE"	"NE"	"EN"	"nonLC"	"NOT_ASSESSED"	3	3	16	712.500132981054	0.0352778017986566	1	1
+"Ravenea moorei"	8	"NE"	"NE"	"CR"	"nonLC"	"NOT_ASSESSED"	1	1	16	8.6753751930573	0.00871547777205706	1	1
+"Reinhardtia gracilis"	172	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	62	89	588	911698.094717776	0.0681027243466138	15	10
+"Reinhardtia koschnyana"	44	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	26	31	172	279308.278297452	0.0667599705629982	7	5
+"Reinhardtia latisecta"	42	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	25	27	136	228747.826994183	0.173230656090059	7	5
+"Reinhardtia paiewonskiana"	5	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	12	28.125608734055	0.224147316813469	2	1
+"Reinhardtia simplex"	182	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	82	115	644	574754.026005371	0.118059132816168	12	6
+"Rhapidophyllum hystrix"	32	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	24	25	112	2421580.0852912	0.187463812897477	3	5
+"Rhapis evansii"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0982267633080482	1	1
+"Rhapis excelsa"	17	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	13	13	60	1782512.25854885	0.0573787804528633	8	3
+"Rhapis gracilis"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	20	335019.661569534	0.087978960108012	3	2
+"Rhapis humilis"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	8	32	1236632.43156334	0.0458876233533374	5	2
+"Rhapis kebangensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0293862856924534	1	1
+"Rhapis laosensis"	26	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	18	18	76	150034.688364163	0.130775008708812	7	3
+"Rhapis micrantha"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	1112.08656166144	0.0250884720589966	3	1
+"Rhapis puhuongensis"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	0.516972359006822	0.264098301529884	1	1
+"Rhapis robusta"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.053938826546073	1	2
+"Rhapis subtilis"	14	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	10	52	241210.67302618	0.0849953368638775	3	4
+"Rhapis vidalii"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	3	20	61.9847012875252	0.0206256059131452	1	1
+"Rhopaloblaste ceramica"	12	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	9	9	36	162717.68439599	0.0420464179478586	5	2
+"Rhopaloblaste gideonii"	2	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0100918493699282	1	1
+"Rhopaloblaste ledermanniana"	28	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	17	18	84	329608.875256561	0.0412658502879952	9	1
+"Rhopalostylis baueri"	5	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	3	3	16	510048.950874206	0.0118829095736146	2	2
+"Rhopalostylis sapida"	2663	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	105	340	4692	685424.687941133	0.0476899693875511	5	3
+"Roystonea dunlapiana"	13	"NE"	"NE"	"EN"	"nonLC"	"NOT_ASSESSED"	9	9	44	236350.067241849	0.0298382242192299	6	3
+"Roystonea oleracea"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	20	87435.6337277252	0.0634773544734344	5	6
+"Roystonea princeps"	1	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0314224064350128	1	1
+"Roystonea regia"	42	"NE"	"NE"	"CR"	"nonLC"	"NOT_ASSESSED"	29	30	144	8905757.37777612	0.0497032392692442	17	10
+"Sabal domingensis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.04149329662323	1	3
+"Sabal mauritiiformis"	96	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	41	52	308	2489902.53335664	0.071585276008894	19	11
+"Sabal mexicana"	4	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	3	3	16	4447.91621808655	0.0573043315962423	2	9
+"Sabal minor"	371	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	151	192	1080	2365513.61844577	0.120872055464349	13	10
+"Sabal palmetto"	1	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	1	1	4	NA	0.0369417555630207	1	8
+"Sabal pumos"	2	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	2	2	8	NA	0.0235014278441668	2	3
+"Sabal rosei"	10	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	9	40	18521.7811063404	0.0196984174195677	3	2
+"Sabal yapa"	154	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	49	71	500	205432.812866208	0.0734860126740623	5	3
+"Sabinaria magnifica"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0455791242420673	1	1
+"Salacca acehensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.102552108466625	1	1
+"Salacca affinis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.251300305128098	1	3
+"Salacca clemensiana"	5	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	5	5	20	34352.8669089717	0.0835209267213941	4	2
+"Salacca dolicholepis"	9	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	4	7	36	2050.12967808414	0.148886185553339	3	1
+"Salacca dransfieldiana"	1	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.302723318338394	1	1
+"Salacca glabrescens"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.122998032718897	1	2
+"Salacca magnifica"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	35908.1359589405	0.106811370176729	3	1
+"Salacca ramosiana"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	49137.6796473656	0.183574215974659	4	2
+"Salacca rupicola"	2	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	2	2	8	NA	0.0409655392868444	1	1
+"Salacca sarawakensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0801907926797867	1	1
+"Salacca secunda"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	28	67494.6280255386	0.0396752020876322	4	3
+"Salacca sumatrana"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	20471.7308493893	0.0697209189335505	2	1
+"Salacca vermicularis"	9	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	9	36	216973.968349243	0.0926777010576593	3	1
+"Salacca wallichiana"	17	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	15	15	64	613135.068694848	0.135415506439612	5	4
+"Salacca zalacca"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	2414129.25568769	0.0991735054800908	3	2
+"Saribus brevifolius"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0320831276476383	1	1
+"Saribus chocolatinus"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	16	2465.68667414861	0.0249214402089516	1	1
+"Saribus rotundifolius"	7	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	4	4	28	30635.0193868277	0.068442695774138	3	5
+"Saribus surru"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	16	156.669427030586	0.0367375928908587	2	1
+"Saribus tothur"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0829735025763512	1	1
+"Saribus woodfordii"	6	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	4	4	20	124050.90791051	0.0400250675156713	3	2
+"Satakentia liukiuensis"	1	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0382691211998463	1	1
+"Schippia concolor"	21	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	7	11	72	3632.31653053712	0.136224589582222	2	2
+"Sclerosperma mannii"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	6	6	24	1000137.25663427	0.0363575460699697	3	10
+"Sclerosperma profizianum"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.00425724172964692	1	4
+"Sclerosperma walkeri"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	11334.7063688161	0.0113987009972334	3	2
+"Serenoa repens"	302	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	168	214	1060	4156159.89406376	0.102008280097599	10	6
+"Socratea exorrhiza"	858	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	371	489	2824	9866045.49492529	0.0543160900446456	46	13
+"Socratea hecatonandra"	5	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	3	3	16	19938.0783724731	0.0414045141544193	2	2
+"Socratea rostrata"	39	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	24	26	124	501965.968499893	0.0391171299076329	8	3
+"Socratea salazarii"	92	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	45	57	328	735427.704962041	0.0626620348937096	8	3
+"Sommieria leucophylla"	42	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	17	19	108	207695.507553188	0.0706345478094937	4	1
+"Syagrus allagopteroides"	23	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	19	19	80	327960.715010372	0.0604856992241643	2	4
+"Syagrus angustifolia"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.230248063802719	1	1
+"Syagrus caerulescens"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	16	151.573510907961	0.00445878908171185	1	1
+"Syagrus campestris"	5	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	20	189121.846622686	0.115667750313878	2	1
+"Syagrus campylospatha"	14	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	9	44	8944.93059350707	0.0359323676675558	1	2
+"Syagrus cardenasii"	20	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	11	12	64	179779.869156708	0.0544372547665262	6	1
+"Syagrus cearensis"	14	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	12	12	56	176946.087941291	0.0595936398021877	2	1
+"Syagrus cerqueirana"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	81	0.0164407431147993	2	2
+"Syagrus cocoides"	42	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	36	38	164	2089596.6305814	0.135724589246647	12	4
+"Syagrus comosa"	103	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	77	85	380	2886767.26745904	0.0814132804030697	8	5
+"Syagrus coronata"	117	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	71	82	412	446993.788934045	0.0624561380419848	9	2
+"Syagrus deflexa"	13	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	5	36	1172.86061565052	0.00429762084072886	1	1
+"Syagrus duartei"	8	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	3	4	28	1177.5023721706	0.0133981020189822	2	1
+"Syagrus emasensis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	16	0.00973168481141329	1	1
+"Syagrus evansiana"	9	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	20	55206.179089334	0.136965345694787	3	1
+"Syagrus flexuosa"	5	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	4	4	20	11542.5693526021	0.0806760471314192	4	5
+"Syagrus glazioviana"	47	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	36	38	184	448780.006749074	0.0244569751803089	2	4
+"Syagrus gouveiana"	7	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	0.00808461290931702	0.00989160872995853	1	1
+"Syagrus guimaraesensis"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0149933798238635	1	1
+"Syagrus harleyi"	75	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	18	27	184	236916.029773688	0.0584009746710459	5	1
+"Syagrus hoehnei"	18	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	12	12	56	63276.9369858271	0.0391124988155853	3	2
+"Syagrus inajai"	33	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	27	28	116	1779423.79593779	0.0817617047004839	12	5
+"Syagrus itacambirana"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	0.0345168814954758	0.221819862723351	1	1
+"Syagrus itapebiensis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.148767486214638	1	1
+"Syagrus kellyana"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	12	3.35535052506912	0.0495848059654236	1	1
+"Syagrus lilliputiana"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	16	792.509286209175	0.105967171955854	2	2
+"Syagrus loefgrenii"	15	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	8	9	44	71185.6486899374	0.225879407394677	2	2
+"Syagrus longipedunculata"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	8	NA	0.0313602052628994	1	1
+"Syagrus lorenzoniorum"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	13.192646727066	0.12479851115495	2	2
+"Syagrus menzeliana"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0146804545074701	1	1
+"Syagrus microphylla"	39	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	13	20	124	64692.5479257397	0.027407546975435	2	1
+"Syagrus minor"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	12	198.92351861795	0.0208299144481619	1	1
+"Syagrus oleracea"	42	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	37	37	152	3458243.69377029	0.0588849401323213	11	7
+"Syagrus orinocensis"	59	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	33	36	200	569368.452964877	0.072671989020048	9	3
+"Syagrus petraea"	135	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	78	84	424	3229474.13181189	0.074700112636546	10	1
+"Syagrus pleioclada"	26	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	12	16	96	26006.023775825	0.0243949272240011	3	1
+"Syagrus pleiocladoides"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	95	0.0651864055544138	1	1
+"Syagrus procumbens"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	2.95740323545837	0.171992305666208	1	1
+"Syagrus romanzoffiana"	6	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	24	18592035.714251	0.0651483557497462	5	7
+"Syagrus rupicola"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	2	8	3	0.00198028446175158	1	1
+"Syagrus sancona"	56	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	45	47	208	3966951.54568588	0.0701825568456635	22	6
+"Syagrus santosii"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	12	244.326895497841	0.0880944033463796	1	1
+"Syagrus smithii"	20	"NE"	"NE"	"LC"	"LC"	"NOT_ASSESSED"	16	16	72	518827.410927746	0.0442100954176567	7	4
+"Syagrus stenopetala"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	692	0.0385404825210571	2	1
+"Syagrus stratincola"	1	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0103913564234972	1	4
+"Syagrus vagans"	33	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	25	28	124	93401.3178092148	0.0495900679097483	3	2
+"Syagrus vermicularis"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	7605	0.185396619141102	2	3
+"Syagrus weddelliana"	8	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	4	6	32	31082.1828693527	0.0246138601505663	2	1
+"Syagrus werdermannii"	16	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	7	8	56	46083.8741477627	0.0510750392277259	3	1
+"Synechanthus fibrosus"	99	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	51	62	352	438844.167819769	0.0677889395738021	11	9
+"Synechanthus warscewiczianus"	337	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	115	166	1036	953988.397649866	0.0664446697598365	13	5
+"Thrinax radiata"	3	"NE"	"NE"	"Not Threatened"	"LC"	"NOT_ASSESSED"	3	3	12	203.889649222555	0.0786639833822846	2	10
+"Trachycarpus fortunei"	191	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	51	82	680	2224989.9390316	0.0119248153014031	9	2
+"Trachycarpus geminisectus"	9	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	4	32	12847.6712996761	0.0302940795405044	2	1
+"Trachycarpus martianus"	1	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.00151596043724567	1	6
+"Trachycarpus oreophilus"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	NA	0.155245596077293	2	1
+"Trachycarpus princeps"	3	"Data Deficient"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	1	1	8	6.0478474766016e-05	0.00243523111566901	1	1
+"Trithrinax brasiliensis"	13	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	12	12	48	171578.631104631	0.0529162108611602	4	3
+"Trithrinax campestris"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	9392	0.0142383834754582	2	3
+"Trithrinax schizophylla"	44	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	28	31	144	448651.964666015	0.0878247482723964	6	5
+"Veitchia arecina"	1	"NE"	"NE"	"LC,EN"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0454131215810776	1	1
+"Veitchia pachyclada"	1	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	1	1	4	NA	0.0245133377611637	1	1
+"Veitchia subdisticha"	6	"NE"	"NE"	"Data Deficient"	"NE"	"NOT_ASSESSED"	3	3	20	1059.18992270075	0.138422720134258	1	1
+"Wallichia caryotoides"	9	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	9	9	36	401420.392610513	0.0461051501075013	6	4
+"Wallichia disticha"	3	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	12	197.691713578855	0.0473015618820985	3	7
+"Wallichia gracilis"	18	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	15	15	60	295320.404244991	0.070276089814595	5	3
+"Wallichia oblongifolia"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	1	1	12	2.20451293807101	0.0528166256844997	1	7
+"Washingtonia filifera"	563	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	102	191	1836	48019077.143019	0.0278186029323716	24	3
+"Washingtonia robusta"	226	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	85	131	740	24715513.6460367	0.0326336195022159	27	1
+"Welfia alfredii"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	5	5	24	4247.05639633643	0.0237396919983439	2	1
+"Wendlandiella gracilis"	76	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	35	41	236	682627.740631059	0.107207595422025	8	4
+"Wettinia aequalis"	41	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	25	30	144	382784.74342706	0.0491681337049912	7	3
+"Wettinia aequatorialis"	20	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	9	11	52	20503.9022328543	0.0343403512029909	1	1
+"Wettinia anomala"	22	"NE"	"NE"	"LC"	"LC"	"NOT_ASSESSED"	11	12	56	38901.2629674582	0.0309269322421063	3	2
+"Wettinia augusta"	151	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	55	79	496	889315.62612916	0.0769227138680555	8	4
+"Wettinia disticha"	4	"NE"	"NE"	"LC"	"LC"	"NOT_ASSESSED"	3	3	12	174.133810542188	0.0141910884995013	1	1
+"Wettinia drudei"	76	"NE"	"NE"	"LC"	"LC"	"NOT_ASSESSED"	47	52	260	1024139.50011231	0.0294291990775443	11	4
+"Wettinia fascicularis"	27	"NE"	"NE"	"LC"	"LC"	"NOT_ASSESSED"	15	17	80	124850.816843151	0.0247832705240904	3	2
+"Wettinia hirsuta"	11	"NE"	"NE"	"EN"	"nonLC"	"NOT_ASSESSED"	9	9	40	20540.7423549916	0.111792517487298	3	1
+"Wettinia kalbreyeri"	56	"NE"	"NE"	"LC"	"LC"	"NOT_ASSESSED"	27	32	184	213126.637591963	0.0342211553818613	6	2
+"Wettinia lanata"	1	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	4	NA	0.0251500941812992	1	1
+"Wettinia longipetala"	27	"NE"	"NE"	"VU"	"nonLC"	"NOT_ASSESSED"	13	14	84	77335.2589615178	0.0625401939851818	6	1
+"Wettinia maynensis"	150	"NE"	"NE"	"Possibly Threatened"	"nonLC"	"NOT_ASSESSED"	62	77	424	558536.805748037	0.0397093074776543	8	3
+"Wettinia microcarpa"	2	"NE"	"NE"	"Threatened"	"nonLC"	"NOT_ASSESSED"	1	1	8	1	0.0139185390435159	1	1
+"Wettinia oxycarpa"	12	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	7	7	36	5041.81437235127	0.0225906869551788	1	2
+"Wettinia panamensis"	4	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	4	4	16	2175.6669648176	0.0433216083329171	2	1
+"Wettinia praemorsa"	55	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	36	42	200	258447.083421236	0.0246438315222886	8	2
+"Wettinia quinaria"	89	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	30	41	268	170516.654547659	0.0249217094361698	8	2
+"Wettinia radiata"	52	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	23	28	164	98084.2429398172	0.0237897800442834	3	2
+"Wettinia verruculosa"	8	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	3	3	24	466.241095251288	0.0256435759365559	1	2
+"Wodyetia bifurcata"	14	"NE"	"NE"	"NT"	"nonLC"	"NOT_ASSESSED"	5	6	40	492573.384828491	0.00703714049554297	3	1
+"Zombia antillarum"	2	"NE"	"NE"	"NE"	"NE"	"NOT_ASSESSED"	2	2	8	527	0.0646801963448524	1	2
